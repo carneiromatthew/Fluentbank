@@ -1,0 +1,174 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+  FluentBank design system.
+  The palette borrows the restraint of a modern fintech dashboard — deep
+  "vault" greens for value/growth, a warm gold accent for XP/achievements,
+  and a CEFR ramp (B1 → C2) used consistently across portfolio and charts.
+*/
+
+@layer base {
+  :root {
+    --background: 160 30% 99%;
+    --foreground: 200 24% 12%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 200 24% 12%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 200 24% 12%;
+
+    /* Emerald "vault" green — growth, deposits, value */
+    --primary: 160 84% 30%;
+    --primary-foreground: 150 40% 98%;
+
+    --secondary: 165 22% 95%;
+    --secondary-foreground: 195 30% 18%;
+
+    --muted: 170 16% 95%;
+    --muted-foreground: 200 12% 42%;
+
+    --accent: 168 60% 94%;
+    --accent-foreground: 165 60% 22%;
+
+    --destructive: 356 72% 52%;
+    --destructive-foreground: 0 0% 100%;
+
+    --success: 152 62% 40%;
+    --success-foreground: 150 40% 98%;
+
+    --warning: 38 92% 50%;
+    --warning-foreground: 30 40% 12%;
+
+    --border: 170 18% 90%;
+    --input: 170 18% 90%;
+    --ring: 160 84% 30%;
+
+    /* CEFR progression ramp */
+    --cefr-b1: 188 78% 41%;
+    --cefr-b2: 221 78% 56%;
+    --cefr-c1: 262 70% 60%;
+    --cefr-c2: 330 72% 54%;
+
+    --radius: 0.85rem;
+  }
+
+  .dark {
+    --background: 200 32% 7%;
+    --foreground: 165 24% 94%;
+
+    --card: 200 30% 9%;
+    --card-foreground: 165 24% 94%;
+
+    --popover: 200 30% 9%;
+    --popover-foreground: 165 24% 94%;
+
+    --primary: 158 72% 44%;
+    --primary-foreground: 200 40% 8%;
+
+    --secondary: 198 24% 16%;
+    --secondary-foreground: 165 24% 94%;
+
+    --muted: 198 20% 15%;
+    --muted-foreground: 175 12% 62%;
+
+    --accent: 196 30% 17%;
+    --accent-foreground: 158 60% 70%;
+
+    --destructive: 356 66% 56%;
+    --destructive-foreground: 0 0% 100%;
+
+    --success: 152 56% 46%;
+    --success-foreground: 150 40% 96%;
+
+    --warning: 38 92% 56%;
+    --warning-foreground: 30 40% 10%;
+
+    --border: 198 22% 18%;
+    --input: 198 22% 20%;
+    --ring: 158 72% 44%;
+
+    --cefr-b1: 188 70% 50%;
+    --cefr-b2: 221 78% 66%;
+    --cefr-c1: 262 70% 70%;
+    --cefr-c2: 330 72% 64%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-feature-settings: "rlig" 1, "calt" 1, "ss01" 1;
+    -webkit-font-smoothing: antialiased;
+  }
+  /* A calm, subtle dotted "ledger" texture behind app shells */
+  .ledger-surface {
+    background-image: radial-gradient(
+      hsl(var(--foreground) / 0.04) 1px,
+      transparent 1px
+    );
+    background-size: 22px 22px;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  /* Tabular figures for all the money-like numbers in the dashboard */
+  .tnum {
+    font-variant-numeric: tabular-nums;
+    font-feature-settings: "tnum" 1;
+  }
+  .gradient-vault {
+    background-image: linear-gradient(
+      135deg,
+      hsl(160 84% 26%) 0%,
+      hsl(170 70% 34%) 55%,
+      hsl(184 64% 40%) 100%
+    );
+  }
+  .gradient-vault-dark {
+    background-image: linear-gradient(
+      135deg,
+      hsl(200 40% 10%) 0%,
+      hsl(168 50% 16%) 60%,
+      hsl(160 60% 22%) 100%
+    );
+  }
+  .shimmer {
+    position: relative;
+    overflow: hidden;
+  }
+  .shimmer::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    transform: translateX(-100%);
+    background-image: linear-gradient(
+      90deg,
+      transparent,
+      hsl(0 0% 100% / 0.18),
+      transparent
+    );
+    animation: shimmer 1.6s infinite;
+  }
+  @keyframes shimmer {
+    100% {
+      transform: translateX(100%);
+    }
+  }
+  /* Hide scrollbars on horizontal chip rows while keeping scroll */
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}

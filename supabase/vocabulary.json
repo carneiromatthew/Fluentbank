@@ -1,0 +1,6250 @@
+[
+  {
+    "id": "b1-001",
+    "languageCode": "es",
+    "word": "desarrollar",
+    "definition": "to develop, to expand",
+    "exampleSentence": "La empresa quiere desarrollar nuevos productos este año.",
+    "cefrLevel": "B1",
+    "category": "Business",
+    "synonyms": [
+      "ampliar",
+      "crear"
+    ]
+  },
+  {
+    "id": "b1-002",
+    "languageCode": "es",
+    "word": "conseguir",
+    "definition": "to get, to manage to achieve",
+    "exampleSentence": "Por fin conseguí un trabajo en el extranjero.",
+    "cefrLevel": "B1",
+    "category": "Daily Life",
+    "synonyms": [
+      "lograr",
+      "obtener"
+    ]
+  },
+  {
+    "id": "b1-003",
+    "languageCode": "es",
+    "word": "mejorar",
+    "definition": "to improve",
+    "exampleSentence": "Quiero mejorar mi pronunciación en español.",
+    "cefrLevel": "B1",
+    "category": "Education",
+    "synonyms": [
+      "perfeccionar"
+    ]
+  },
+  {
+    "id": "b1-004",
+    "languageCode": "es",
+    "word": "ahorrar",
+    "definition": "to save (money or time)",
+    "exampleSentence": "Intento ahorrar un poco de dinero cada mes.",
+    "cefrLevel": "B1",
+    "category": "Finance",
+    "synonyms": [
+      "economizar"
+    ]
+  },
+  {
+    "id": "b1-005",
+    "languageCode": "es",
+    "word": "gastar",
+    "definition": "to spend",
+    "exampleSentence": "No quiero gastar mucho dinero este fin de semana.",
+    "cefrLevel": "B1",
+    "category": "Finance",
+    "synonyms": [
+      "malgastar"
+    ]
+  },
+  {
+    "id": "b1-006",
+    "languageCode": "es",
+    "word": "prestar",
+    "definition": "to lend",
+    "exampleSentence": "¿Me puedes prestar tu cargador un momento?",
+    "cefrLevel": "B1",
+    "category": "Daily Life",
+    "synonyms": [
+      "dejar"
+    ]
+  },
+  {
+    "id": "b1-007",
+    "languageCode": "es",
+    "word": "devolver",
+    "definition": "to return (something)",
+    "exampleSentence": "Tengo que devolver estos libros a la biblioteca.",
+    "cefrLevel": "B1",
+    "category": "Daily Life",
+    "synonyms": [
+      "restituir"
+    ]
+  },
+  {
+    "id": "b1-008",
+    "languageCode": "es",
+    "word": "reservar",
+    "definition": "to book, to reserve",
+    "exampleSentence": "Voy a reservar una mesa para cuatro personas.",
+    "cefrLevel": "B1",
+    "category": "Travel",
+    "synonyms": [
+      "apartar"
+    ]
+  },
+  {
+    "id": "b1-009",
+    "languageCode": "es",
+    "word": "alojarse",
+    "definition": "to stay, to lodge",
+    "exampleSentence": "Nos vamos a alojar en un hotel cerca de la playa.",
+    "cefrLevel": "B1",
+    "category": "Travel",
+    "synonyms": [
+      "hospedarse"
+    ]
+  },
+  {
+    "id": "b1-010",
+    "languageCode": "es",
+    "word": "recorrer",
+    "definition": "to travel through, to cover (distance)",
+    "exampleSentence": "Queremos recorrer toda la costa en coche.",
+    "cefrLevel": "B1",
+    "category": "Travel",
+    "synonyms": [
+      "atravesar"
+    ]
+  },
+  {
+    "id": "b1-011",
+    "languageCode": "es",
+    "word": "aprovechar",
+    "definition": "to take advantage of, to make the most of",
+    "exampleSentence": "Hay que aprovechar el buen tiempo para salir.",
+    "cefrLevel": "B1",
+    "category": "Daily Life",
+    "synonyms": [
+      "explotar"
+    ]
+  },
+  {
+    "id": "b1-012",
+    "languageCode": "es",
+    "word": "quedar",
+    "definition": "to arrange to meet; to remain",
+    "exampleSentence": "Quedamos a las ocho delante del cine.",
+    "cefrLevel": "B1",
+    "category": "Daily Life",
+    "synonyms": [
+      "citarse"
+    ]
+  },
+  {
+    "id": "b1-013",
+    "languageCode": "es",
+    "word": "soler",
+    "definition": "to usually do something",
+    "exampleSentence": "Suelo desayunar café con tostadas.",
+    "cefrLevel": "B1",
+    "category": "Daily Life",
+    "synonyms": []
+  },
+  {
+    "id": "b1-014",
+    "languageCode": "es",
+    "word": "tardar",
+    "definition": "to take time, to be late",
+    "exampleSentence": "El tren tarda dos horas en llegar a la ciudad.",
+    "cefrLevel": "B1",
+    "category": "Travel",
+    "synonyms": [
+      "demorar"
+    ]
+  },
+  {
+    "id": "b1-015",
+    "languageCode": "es",
+    "word": "apuntar",
+    "definition": "to note down; to sign up",
+    "exampleSentence": "Voy a apuntar la dirección en mi teléfono.",
+    "cefrLevel": "B1",
+    "category": "Education",
+    "synonyms": [
+      "anotar"
+    ]
+  },
+  {
+    "id": "b1-016",
+    "languageCode": "es",
+    "word": "entregar",
+    "definition": "to hand in, to deliver",
+    "exampleSentence": "Debo entregar el trabajo antes del viernes.",
+    "cefrLevel": "B1",
+    "category": "Education",
+    "synonyms": [
+      "presentar"
+    ]
+  },
+  {
+    "id": "b1-017",
+    "languageCode": "es",
+    "word": "aprobar",
+    "definition": "to pass (an exam); to approve",
+    "exampleSentence": "Estudié mucho para aprobar el examen de historia.",
+    "cefrLevel": "B1",
+    "category": "Education",
+    "synonyms": [
+      "pasar"
+    ]
+  },
+  {
+    "id": "b1-018",
+    "languageCode": "es",
+    "word": "suspender",
+    "definition": "to fail (an exam); to suspend",
+    "exampleSentence": "No quiero suspender ninguna asignatura este curso.",
+    "cefrLevel": "B1",
+    "category": "Education",
+    "synonyms": [
+      "reprobar"
+    ]
+  },
+  {
+    "id": "b1-019",
+    "languageCode": "es",
+    "word": "matricularse",
+    "definition": "to enroll, to register",
+    "exampleSentence": "Me voy a matricular en un curso de italiano.",
+    "cefrLevel": "B1",
+    "category": "Education",
+    "synonyms": [
+      "inscribirse"
+    ]
+  },
+  {
+    "id": "b1-020",
+    "languageCode": "es",
+    "word": "asignatura",
+    "definition": "school subject",
+    "exampleSentence": "Mi asignatura favorita siempre fue la geografía.",
+    "cefrLevel": "B1",
+    "category": "Education",
+    "synonyms": [
+      "materia"
+    ]
+  },
+  {
+    "id": "b1-021",
+    "languageCode": "es",
+    "word": "horario",
+    "definition": "schedule, timetable",
+    "exampleSentence": "El horario de la biblioteca cambia en verano.",
+    "cefrLevel": "B1",
+    "category": "Daily Life",
+    "synonyms": [
+      "agenda"
+    ]
+  },
+  {
+    "id": "b1-022",
+    "languageCode": "es",
+    "word": "reunión",
+    "definition": "meeting",
+    "exampleSentence": "Tenemos una reunión importante el lunes por la mañana.",
+    "cefrLevel": "B1",
+    "category": "Business",
+    "synonyms": [
+      "junta"
+    ]
+  },
+  {
+    "id": "b1-023",
+    "languageCode": "es",
+    "word": "empresa",
+    "definition": "company, firm",
+    "exampleSentence": "Trabaja en una empresa de tecnología desde hace años.",
+    "cefrLevel": "B1",
+    "category": "Business",
+    "synonyms": [
+      "compañía"
+    ]
+  },
+  {
+    "id": "b1-024",
+    "languageCode": "es",
+    "word": "sueldo",
+    "definition": "salary, wage",
+    "exampleSentence": "Su nuevo sueldo le permite ahorrar más.",
+    "cefrLevel": "B1",
+    "category": "Finance",
+    "synonyms": [
+      "salario"
+    ]
+  },
+  {
+    "id": "b1-025",
+    "languageCode": "es",
+    "word": "factura",
+    "definition": "bill, invoice",
+    "exampleSentence": "Aún no he pagado la factura de la luz.",
+    "cefrLevel": "B1",
+    "category": "Finance",
+    "synonyms": [
+      "recibo"
+    ]
+  },
+  {
+    "id": "b1-026",
+    "languageCode": "es",
+    "word": "cuenta",
+    "definition": "account; bill",
+    "exampleSentence": "Abrí una cuenta nueva en el banco esta semana.",
+    "cefrLevel": "B1",
+    "category": "Finance",
+    "synonyms": []
+  },
+  {
+    "id": "b1-027",
+    "languageCode": "es",
+    "word": "presupuesto",
+    "definition": "budget; estimate",
+    "exampleSentence": "Tenemos un presupuesto limitado para el viaje.",
+    "cefrLevel": "B1",
+    "category": "Finance",
+    "synonyms": [
+      "estimación"
+    ]
+  },
+  {
+    "id": "b1-028",
+    "languageCode": "es",
+    "word": "barato",
+    "definition": "cheap, inexpensive",
+    "exampleSentence": "Encontramos un vuelo muy barato a Lisboa.",
+    "cefrLevel": "B1",
+    "category": "Finance",
+    "synonyms": [
+      "económico"
+    ]
+  },
+  {
+    "id": "b1-029",
+    "languageCode": "es",
+    "word": "caro",
+    "definition": "expensive",
+    "exampleSentence": "Ese restaurante es demasiado caro para mí.",
+    "cefrLevel": "B1",
+    "category": "Finance",
+    "synonyms": [
+      "costoso"
+    ]
+  },
+  {
+    "id": "b1-030",
+    "languageCode": "es",
+    "word": "gratis",
+    "definition": "free of charge",
+    "exampleSentence": "La entrada al museo es gratis los domingos.",
+    "cefrLevel": "B1",
+    "category": "Daily Life",
+    "synonyms": [
+      "gratuito"
+    ]
+  },
+  {
+    "id": "b1-031",
+    "languageCode": "es",
+    "word": "descuento",
+    "definition": "discount",
+    "exampleSentence": "Me hicieron un descuento del veinte por ciento.",
+    "cefrLevel": "B1",
+    "category": "Finance",
+    "synonyms": [
+      "rebaja"
+    ]
+  },
+  {
+    "id": "b1-032",
+    "languageCode": "es",
+    "word": "ganga",
+    "definition": "bargain",
+    "exampleSentence": "Estos zapatos fueron una auténtica ganga.",
+    "cefrLevel": "B1",
+    "category": "Finance",
+    "synonyms": [
+      "chollo"
+    ]
+  },
+  {
+    "id": "b1-033",
+    "languageCode": "es",
+    "word": "moneda",
+    "definition": "coin; currency",
+    "exampleSentence": "Necesito una moneda para el carrito del supermercado.",
+    "cefrLevel": "B1",
+    "category": "Finance",
+    "synonyms": [
+      "divisa"
+    ]
+  },
+  {
+    "id": "b1-034",
+    "languageCode": "es",
+    "word": "paisaje",
+    "definition": "landscape, scenery",
+    "exampleSentence": "El paisaje de las montañas era impresionante.",
+    "cefrLevel": "B1",
+    "category": "Travel",
+    "synonyms": [
+      "panorama"
+    ]
+  },
+  {
+    "id": "b1-035",
+    "languageCode": "es",
+    "word": "frontera",
+    "definition": "border",
+    "exampleSentence": "Cruzamos la frontera sin ningún problema.",
+    "cefrLevel": "B1",
+    "category": "Travel",
+    "synonyms": [
+      "límite"
+    ]
+  },
+  {
+    "id": "b1-036",
+    "languageCode": "es",
+    "word": "equipaje",
+    "definition": "luggage",
+    "exampleSentence": "Perdí el equipaje en el aeropuerto.",
+    "cefrLevel": "B1",
+    "category": "Travel",
+    "synonyms": [
+      "maletas"
+    ]
+  },
+  {
+    "id": "b1-037",
+    "languageCode": "es",
+    "word": "retraso",
+    "definition": "delay",
+    "exampleSentence": "El vuelo salió con dos horas de retraso.",
+    "cefrLevel": "B1",
+    "category": "Travel",
+    "synonyms": [
+      "demora"
+    ]
+  },
+  {
+    "id": "b1-038",
+    "languageCode": "es",
+    "word": "alojamiento",
+    "definition": "accommodation",
+    "exampleSentence": "Buscamos alojamiento barato cerca del centro.",
+    "cefrLevel": "B1",
+    "category": "Travel",
+    "synonyms": [
+      "hospedaje"
+    ]
+  },
+  {
+    "id": "b1-039",
+    "languageCode": "es",
+    "word": "itinerario",
+    "definition": "itinerary, route",
+    "exampleSentence": "Preparé un itinerario completo para el viaje.",
+    "cefrLevel": "B1",
+    "category": "Travel",
+    "synonyms": [
+      "recorrido"
+    ]
+  },
+  {
+    "id": "b1-040",
+    "languageCode": "es",
+    "word": "costumbre",
+    "definition": "custom, habit",
+    "exampleSentence": "Probar la comida local es una buena costumbre.",
+    "cefrLevel": "B1",
+    "category": "Culture",
+    "synonyms": [
+      "hábito"
+    ]
+  },
+  {
+    "id": "b1-041",
+    "languageCode": "es",
+    "word": "tradición",
+    "definition": "tradition",
+    "exampleSentence": "La tradición de la siesta sigue viva en algunos pueblos.",
+    "cefrLevel": "B1",
+    "category": "Culture",
+    "synonyms": [
+      "usanza"
+    ]
+  },
+  {
+    "id": "b1-042",
+    "languageCode": "es",
+    "word": "fiesta",
+    "definition": "party; festival",
+    "exampleSentence": "La fiesta del pueblo dura toda la semana.",
+    "cefrLevel": "B1",
+    "category": "Culture",
+    "synonyms": [
+      "celebración"
+    ]
+  },
+  {
+    "id": "b1-043",
+    "languageCode": "es",
+    "word": "receta",
+    "definition": "recipe; prescription",
+    "exampleSentence": "Mi abuela me dio la receta de la paella.",
+    "cefrLevel": "B1",
+    "category": "Daily Life",
+    "synonyms": []
+  },
+  {
+    "id": "b1-044",
+    "languageCode": "es",
+    "word": "ingrediente",
+    "definition": "ingredient",
+    "exampleSentence": "Falta un ingrediente para terminar el postre.",
+    "cefrLevel": "B1",
+    "category": "Daily Life",
+    "synonyms": []
+  },
+  {
+    "id": "b1-045",
+    "languageCode": "es",
+    "word": "saludable",
+    "definition": "healthy (food, lifestyle)",
+    "exampleSentence": "Intento llevar una dieta más saludable.",
+    "cefrLevel": "B1",
+    "category": "Health",
+    "synonyms": [
+      "sano"
+    ]
+  },
+  {
+    "id": "b1-046",
+    "languageCode": "es",
+    "word": "enfermedad",
+    "definition": "illness, disease",
+    "exampleSentence": "Es una enfermedad común pero fácil de tratar.",
+    "cefrLevel": "B1",
+    "category": "Health",
+    "synonyms": [
+      "dolencia"
+    ]
+  },
+  {
+    "id": "b1-047",
+    "languageCode": "es",
+    "word": "receta médica",
+    "definition": "medical prescription",
+    "exampleSentence": "Necesito una receta médica para este medicamento.",
+    "cefrLevel": "B1",
+    "category": "Health",
+    "synonyms": []
+  },
+  {
+    "id": "b1-048",
+    "languageCode": "es",
+    "word": "cita",
+    "definition": "appointment; date",
+    "exampleSentence": "Tengo cita con el dentista el jueves.",
+    "cefrLevel": "B1",
+    "category": "Health",
+    "synonyms": [
+      "turno"
+    ]
+  },
+  {
+    "id": "b1-049",
+    "languageCode": "es",
+    "word": "descansar",
+    "definition": "to rest",
+    "exampleSentence": "Después de tanto trabajo, necesito descansar.",
+    "cefrLevel": "B1",
+    "category": "Health",
+    "synonyms": [
+      "reposar"
+    ]
+  },
+  {
+    "id": "b1-050",
+    "languageCode": "es",
+    "word": "doler",
+    "definition": "to hurt, to ache",
+    "exampleSentence": "Me duele la cabeza desde esta mañana.",
+    "cefrLevel": "B1",
+    "category": "Health",
+    "synonyms": []
+  },
+  {
+    "id": "b1-051",
+    "languageCode": "es",
+    "word": "esfuerzo",
+    "definition": "effort",
+    "exampleSentence": "Con un poco de esfuerzo, aprobarás sin problema.",
+    "cefrLevel": "B1",
+    "category": "Education",
+    "synonyms": [
+      "empeño"
+    ]
+  },
+  {
+    "id": "b1-052",
+    "languageCode": "es",
+    "word": "consejo",
+    "definition": "advice, piece of advice",
+    "exampleSentence": "Mi profesor me dio un buen consejo.",
+    "cefrLevel": "B1",
+    "category": "Education",
+    "synonyms": [
+      "recomendación"
+    ]
+  },
+  {
+    "id": "b1-053",
+    "languageCode": "es",
+    "word": "duda",
+    "definition": "doubt, question",
+    "exampleSentence": "Si tienes alguna duda, pregúntame.",
+    "cefrLevel": "B1",
+    "category": "Education",
+    "synonyms": [
+      "incertidumbre"
+    ]
+  },
+  {
+    "id": "b1-054",
+    "languageCode": "es",
+    "word": "tema",
+    "definition": "topic, subject",
+    "exampleSentence": "El tema de la charla fue el cambio climático.",
+    "cefrLevel": "B1",
+    "category": "Academic",
+    "synonyms": [
+      "asunto"
+    ]
+  },
+  {
+    "id": "b1-055",
+    "languageCode": "es",
+    "word": "resumen",
+    "definition": "summary",
+    "exampleSentence": "Escribe un resumen breve del artículo.",
+    "cefrLevel": "B1",
+    "category": "Academic",
+    "synonyms": [
+      "síntesis"
+    ]
+  },
+  {
+    "id": "b1-056",
+    "languageCode": "es",
+    "word": "ejemplo",
+    "definition": "example",
+    "exampleSentence": "El profesor puso un ejemplo muy claro.",
+    "cefrLevel": "B1",
+    "category": "Academic",
+    "synonyms": [
+      "muestra"
+    ]
+  },
+  {
+    "id": "b1-057",
+    "languageCode": "es",
+    "word": "noticia",
+    "definition": "piece of news",
+    "exampleSentence": "Escuché la noticia en la radio esta mañana.",
+    "cefrLevel": "B1",
+    "category": "Society",
+    "synonyms": [
+      "nueva"
+    ]
+  },
+  {
+    "id": "b1-058",
+    "languageCode": "es",
+    "word": "periódico",
+    "definition": "newspaper",
+    "exampleSentence": "Leo el periódico mientras desayuno.",
+    "cefrLevel": "B1",
+    "category": "Society",
+    "synonyms": [
+      "diario"
+    ]
+  },
+  {
+    "id": "b1-059",
+    "languageCode": "es",
+    "word": "encuesta",
+    "definition": "survey, poll",
+    "exampleSentence": "Participé en una encuesta sobre transporte público.",
+    "cefrLevel": "B1",
+    "category": "Society",
+    "synonyms": [
+      "sondeo"
+    ]
+  },
+  {
+    "id": "b1-060",
+    "languageCode": "es",
+    "word": "vecino",
+    "definition": "neighbour",
+    "exampleSentence": "Mi vecino siempre me ayuda con el jardín.",
+    "cefrLevel": "B1",
+    "category": "Society",
+    "synonyms": []
+  },
+  {
+    "id": "b1-061",
+    "languageCode": "es",
+    "word": "barrio",
+    "definition": "neighbourhood",
+    "exampleSentence": "Mi barrio es tranquilo y tiene muchos parques.",
+    "cefrLevel": "B1",
+    "category": "Society",
+    "synonyms": [
+      "vecindario"
+    ]
+  },
+  {
+    "id": "b1-062",
+    "languageCode": "es",
+    "word": "medio ambiente",
+    "definition": "the environment",
+    "exampleSentence": "Debemos cuidar el medio ambiente entre todos.",
+    "cefrLevel": "B1",
+    "category": "Environment",
+    "synonyms": []
+  },
+  {
+    "id": "b1-063",
+    "languageCode": "es",
+    "word": "reciclar",
+    "definition": "to recycle",
+    "exampleSentence": "En casa intentamos reciclar todo el plástico.",
+    "cefrLevel": "B1",
+    "category": "Environment",
+    "synonyms": []
+  },
+  {
+    "id": "b1-064",
+    "languageCode": "es",
+    "word": "basura",
+    "definition": "rubbish, trash",
+    "exampleSentence": "Saca la basura antes de que pase el camión.",
+    "cefrLevel": "B1",
+    "category": "Environment",
+    "synonyms": [
+      "desperdicios"
+    ]
+  },
+  {
+    "id": "b1-065",
+    "languageCode": "es",
+    "word": "contaminación",
+    "definition": "pollution",
+    "exampleSentence": "La contaminación del aire es peor en la ciudad.",
+    "cefrLevel": "B1",
+    "category": "Environment",
+    "synonyms": [
+      "polución"
+    ]
+  },
+  {
+    "id": "b1-066",
+    "languageCode": "es",
+    "word": "naturaleza",
+    "definition": "nature",
+    "exampleSentence": "Los fines de semana salimos a disfrutar de la naturaleza.",
+    "cefrLevel": "B1",
+    "category": "Environment",
+    "synonyms": []
+  },
+  {
+    "id": "b1-067",
+    "languageCode": "es",
+    "word": "clima",
+    "definition": "climate, weather",
+    "exampleSentence": "El clima de la costa es suave todo el año.",
+    "cefrLevel": "B1",
+    "category": "Environment",
+    "synonyms": [
+      "tiempo"
+    ]
+  },
+  {
+    "id": "b1-068",
+    "languageCode": "es",
+    "word": "pantalla",
+    "definition": "screen",
+    "exampleSentence": "Paso demasiadas horas delante de la pantalla.",
+    "cefrLevel": "B1",
+    "category": "Technology",
+    "synonyms": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "b1-069",
+    "languageCode": "es",
+    "word": "contraseña",
+    "definition": "password",
+    "exampleSentence": "Olvidé la contraseña de mi correo otra vez.",
+    "cefrLevel": "B1",
+    "category": "Technology",
+    "synonyms": [
+      "clave"
+    ]
+  },
+  {
+    "id": "b1-070",
+    "languageCode": "es",
+    "word": "archivo",
+    "definition": "file",
+    "exampleSentence": "Guardé el archivo en una carpeta nueva.",
+    "cefrLevel": "B1",
+    "category": "Technology",
+    "synonyms": [
+      "fichero"
+    ]
+  },
+  {
+    "id": "b1-071",
+    "languageCode": "es",
+    "word": "red",
+    "definition": "network; net",
+    "exampleSentence": "No hay buena red en este pueblo.",
+    "cefrLevel": "B1",
+    "category": "Technology",
+    "synonyms": []
+  },
+  {
+    "id": "b1-072",
+    "languageCode": "es",
+    "word": "aplicación",
+    "definition": "app, application",
+    "exampleSentence": "Descargué una aplicación para aprender idiomas.",
+    "cefrLevel": "B1",
+    "category": "Technology",
+    "synonyms": [
+      "app"
+    ]
+  },
+  {
+    "id": "b1-073",
+    "languageCode": "es",
+    "word": "encender",
+    "definition": "to switch on, to light",
+    "exampleSentence": "¿Puedes encender la luz, por favor?",
+    "cefrLevel": "B1",
+    "category": "Daily Life",
+    "synonyms": [
+      "prender"
+    ]
+  },
+  {
+    "id": "b1-074",
+    "languageCode": "es",
+    "word": "apagar",
+    "definition": "to switch off, to turn off",
+    "exampleSentence": "No olvides apagar el ordenador al salir.",
+    "cefrLevel": "B1",
+    "category": "Daily Life",
+    "synonyms": []
+  },
+  {
+    "id": "b1-075",
+    "languageCode": "es",
+    "word": "enchufar",
+    "definition": "to plug in",
+    "exampleSentence": "Tengo que enchufar el móvil porque está sin batería.",
+    "cefrLevel": "B1",
+    "category": "Technology",
+    "synonyms": [
+      "conectar"
+    ]
+  },
+  {
+    "id": "b1-076",
+    "languageCode": "es",
+    "word": "averiguar",
+    "definition": "to find out",
+    "exampleSentence": "Quiero averiguar a qué hora abre la tienda.",
+    "cefrLevel": "B1",
+    "category": "Daily Life",
+    "synonyms": [
+      "descubrir"
+    ]
+  },
+  {
+    "id": "b1-077",
+    "languageCode": "es",
+    "word": "elegir",
+    "definition": "to choose",
+    "exampleSentence": "Es difícil elegir entre tantas opciones.",
+    "cefrLevel": "B1",
+    "category": "Daily Life",
+    "synonyms": [
+      "seleccionar"
+    ]
+  },
+  {
+    "id": "b1-078",
+    "languageCode": "es",
+    "word": "preocuparse",
+    "definition": "to worry",
+    "exampleSentence": "No te preocupes, todo va a salir bien.",
+    "cefrLevel": "B1",
+    "category": "Emotions",
+    "synonyms": [
+      "inquietarse"
+    ]
+  },
+  {
+    "id": "b1-079",
+    "languageCode": "es",
+    "word": "alegrarse",
+    "definition": "to be glad, to be happy",
+    "exampleSentence": "Me alegro mucho de verte de nuevo.",
+    "cefrLevel": "B1",
+    "category": "Emotions",
+    "synonyms": []
+  },
+  {
+    "id": "b1-080",
+    "languageCode": "es",
+    "word": "enfadarse",
+    "definition": "to get angry",
+    "exampleSentence": "Mi hermano se enfada por cualquier cosa.",
+    "cefrLevel": "B1",
+    "category": "Emotions",
+    "synonyms": [
+      "enojarse"
+    ]
+  },
+  {
+    "id": "b1-081",
+    "languageCode": "es",
+    "word": "aburrirse",
+    "definition": "to get bored",
+    "exampleSentence": "Los niños se aburren si llueve todo el día.",
+    "cefrLevel": "B1",
+    "category": "Emotions",
+    "synonyms": []
+  },
+  {
+    "id": "b1-082",
+    "languageCode": "es",
+    "word": "sorprender",
+    "definition": "to surprise",
+    "exampleSentence": "Me sorprendió su reacción tan tranquila.",
+    "cefrLevel": "B1",
+    "category": "Emotions",
+    "synonyms": [
+      "asombrar"
+    ]
+  },
+  {
+    "id": "b1-083",
+    "languageCode": "es",
+    "word": "confiar",
+    "definition": "to trust",
+    "exampleSentence": "Puedes confiar en mí para lo que necesites.",
+    "cefrLevel": "B1",
+    "category": "Emotions",
+    "synonyms": [
+      "fiarse"
+    ]
+  },
+  {
+    "id": "b1-084",
+    "languageCode": "es",
+    "word": "echar de menos",
+    "definition": "to miss (someone/something)",
+    "exampleSentence": "Echo de menos a mi familia cuando viajo.",
+    "cefrLevel": "B1",
+    "category": "Emotions",
+    "synonyms": [
+      "añorar"
+    ]
+  },
+  {
+    "id": "b1-085",
+    "languageCode": "es",
+    "word": "orgulloso",
+    "definition": "proud",
+    "exampleSentence": "Estoy muy orgulloso de lo que has conseguido.",
+    "cefrLevel": "B1",
+    "category": "Emotions",
+    "synonyms": [
+      "satisfecho"
+    ]
+  },
+  {
+    "id": "b1-086",
+    "languageCode": "es",
+    "word": "amable",
+    "definition": "kind, friendly",
+    "exampleSentence": "La recepcionista fue muy amable con nosotros.",
+    "cefrLevel": "B1",
+    "category": "Emotions",
+    "synonyms": [
+      "simpático"
+    ]
+  },
+  {
+    "id": "b1-087",
+    "languageCode": "es",
+    "word": "tímido",
+    "definition": "shy",
+    "exampleSentence": "De niño era muy tímido en clase.",
+    "cefrLevel": "B1",
+    "category": "Emotions",
+    "synonyms": [
+      "vergonzoso"
+    ]
+  },
+  {
+    "id": "b1-088",
+    "languageCode": "es",
+    "word": "valiente",
+    "definition": "brave",
+    "exampleSentence": "Fue muy valiente al hablar delante de todos.",
+    "cefrLevel": "B1",
+    "category": "Emotions",
+    "synonyms": [
+      "audaz"
+    ]
+  },
+  {
+    "id": "b1-089",
+    "languageCode": "es",
+    "word": "perezoso",
+    "definition": "lazy",
+    "exampleSentence": "Los domingos me siento un poco perezoso.",
+    "cefrLevel": "B1",
+    "category": "Emotions",
+    "synonyms": [
+      "vago"
+    ]
+  },
+  {
+    "id": "b1-090",
+    "languageCode": "es",
+    "word": "fuerte",
+    "definition": "strong",
+    "exampleSentence": "El café de esta cafetería es muy fuerte.",
+    "cefrLevel": "B1",
+    "category": "Daily Life",
+    "synonyms": [
+      "potente"
+    ]
+  },
+  {
+    "id": "b1-091",
+    "languageCode": "es",
+    "word": "débil",
+    "definition": "weak",
+    "exampleSentence": "Después de la gripe me sentía muy débil.",
+    "cefrLevel": "B1",
+    "category": "Health",
+    "synonyms": [
+      "flojo"
+    ]
+  },
+  {
+    "id": "b1-092",
+    "languageCode": "es",
+    "word": "ligero",
+    "definition": "light (weight); slight",
+    "exampleSentence": "Prefiero una cena ligera por la noche.",
+    "cefrLevel": "B1",
+    "category": "Health",
+    "synonyms": [
+      "liviano"
+    ]
+  },
+  {
+    "id": "b1-093",
+    "languageCode": "es",
+    "word": "pesado",
+    "definition": "heavy; annoying",
+    "exampleSentence": "Esta maleta es demasiado pesada para llevarla.",
+    "cefrLevel": "B1",
+    "category": "Daily Life",
+    "synonyms": []
+  },
+  {
+    "id": "b1-094",
+    "languageCode": "es",
+    "word": "lleno",
+    "definition": "full",
+    "exampleSentence": "El autobús iba completamente lleno.",
+    "cefrLevel": "B1",
+    "category": "Daily Life",
+    "synonyms": [
+      "repleto"
+    ]
+  },
+  {
+    "id": "b1-095",
+    "languageCode": "es",
+    "word": "vacío",
+    "definition": "empty",
+    "exampleSentence": "Encontramos el restaurante casi vacío.",
+    "cefrLevel": "B1",
+    "category": "Daily Life",
+    "synonyms": []
+  },
+  {
+    "id": "b1-096",
+    "languageCode": "es",
+    "word": "limpio",
+    "definition": "clean",
+    "exampleSentence": "Me gusta mantener mi habitación limpia.",
+    "cefrLevel": "B1",
+    "category": "Daily Life",
+    "synonyms": [
+      "aseado"
+    ]
+  },
+  {
+    "id": "b1-097",
+    "languageCode": "es",
+    "word": "sucio",
+    "definition": "dirty",
+    "exampleSentence": "Los zapatos están sucios después de la lluvia.",
+    "cefrLevel": "B1",
+    "category": "Daily Life",
+    "synonyms": []
+  },
+  {
+    "id": "b1-098",
+    "languageCode": "es",
+    "word": "roto",
+    "definition": "broken",
+    "exampleSentence": "El ascensor lleva roto toda la semana.",
+    "cefrLevel": "B1",
+    "category": "Daily Life",
+    "synonyms": [
+      "estropeado"
+    ]
+  },
+  {
+    "id": "b1-099",
+    "languageCode": "es",
+    "word": "seguro",
+    "definition": "safe; sure",
+    "exampleSentence": "No estoy seguro de qué camino tomar.",
+    "cefrLevel": "B1",
+    "category": "Daily Life",
+    "synonyms": [
+      "cierto"
+    ]
+  },
+  {
+    "id": "b1-100",
+    "languageCode": "es",
+    "word": "peligroso",
+    "definition": "dangerous",
+    "exampleSentence": "Es peligroso cruzar la calle sin mirar.",
+    "cefrLevel": "B1",
+    "category": "Daily Life",
+    "synonyms": [
+      "arriesgado"
+    ]
+  },
+  {
+    "id": "b1-101",
+    "languageCode": "es",
+    "word": "tranquilo",
+    "definition": "calm, quiet",
+    "exampleSentence": "Vivimos en un pueblo muy tranquilo.",
+    "cefrLevel": "B1",
+    "category": "Emotions",
+    "synonyms": [
+      "sereno"
+    ]
+  },
+  {
+    "id": "b1-102",
+    "languageCode": "es",
+    "word": "ruidoso",
+    "definition": "noisy",
+    "exampleSentence": "El bar de al lado es demasiado ruidoso.",
+    "cefrLevel": "B1",
+    "category": "Daily Life",
+    "synonyms": []
+  },
+  {
+    "id": "b1-103",
+    "languageCode": "es",
+    "word": "rápido",
+    "definition": "fast, quick",
+    "exampleSentence": "El nuevo tren es mucho más rápido.",
+    "cefrLevel": "B1",
+    "category": "Travel",
+    "synonyms": [
+      "veloz"
+    ]
+  },
+  {
+    "id": "b1-104",
+    "languageCode": "es",
+    "word": "lento",
+    "definition": "slow",
+    "exampleSentence": "La conexión a internet va muy lenta hoy.",
+    "cefrLevel": "B1",
+    "category": "Technology",
+    "synonyms": [
+      "pausado"
+    ]
+  },
+  {
+    "id": "b1-105",
+    "languageCode": "es",
+    "word": "anuncio",
+    "definition": "advertisement; announcement",
+    "exampleSentence": "Vi el anuncio del trabajo en internet.",
+    "cefrLevel": "B1",
+    "category": "Business",
+    "synonyms": [
+      "aviso"
+    ]
+  },
+  {
+    "id": "b1-106",
+    "languageCode": "es",
+    "word": "cliente",
+    "definition": "customer, client",
+    "exampleSentence": "El cliente siempre tiene preguntas sobre el precio.",
+    "cefrLevel": "B1",
+    "category": "Business",
+    "synonyms": [
+      "comprador"
+    ]
+  },
+  {
+    "id": "b1-107",
+    "languageCode": "es",
+    "word": "jefe",
+    "definition": "boss",
+    "exampleSentence": "Mi jefe es exigente pero justo.",
+    "cefrLevel": "B1",
+    "category": "Business",
+    "synonyms": [
+      "superior"
+    ]
+  },
+  {
+    "id": "b1-108",
+    "languageCode": "es",
+    "word": "compañero",
+    "definition": "colleague, classmate",
+    "exampleSentence": "Mis compañeros de trabajo son muy agradables.",
+    "cefrLevel": "B1",
+    "category": "Business",
+    "synonyms": [
+      "colega"
+    ]
+  },
+  {
+    "id": "b1-109",
+    "languageCode": "es",
+    "word": "entrevista",
+    "definition": "interview",
+    "exampleSentence": "Tengo una entrevista de trabajo mañana.",
+    "cefrLevel": "B1",
+    "category": "Business",
+    "synonyms": []
+  },
+  {
+    "id": "b1-110",
+    "languageCode": "es",
+    "word": "currículum",
+    "definition": "CV, résumé",
+    "exampleSentence": "Actualicé mi currículum antes de enviarlo.",
+    "cefrLevel": "B1",
+    "category": "Business",
+    "synonyms": []
+  },
+  {
+    "id": "b1-111",
+    "languageCode": "es",
+    "word": "contrato",
+    "definition": "contract",
+    "exampleSentence": "Firmé el contrato esta misma tarde.",
+    "cefrLevel": "B1",
+    "category": "Business",
+    "synonyms": [
+      "acuerdo"
+    ]
+  },
+  {
+    "id": "b1-112",
+    "languageCode": "es",
+    "word": "deber",
+    "definition": "duty; to owe; must",
+    "exampleSentence": "Es nuestro deber respetar las normas.",
+    "cefrLevel": "B1",
+    "category": "Society",
+    "synonyms": [
+      "obligación"
+    ]
+  },
+  {
+    "id": "b1-113",
+    "languageCode": "es",
+    "word": "derecho",
+    "definition": "right; law; straight",
+    "exampleSentence": "Todos tenemos derecho a la educación.",
+    "cefrLevel": "B1",
+    "category": "Law",
+    "synonyms": [
+      "privilegio"
+    ]
+  },
+  {
+    "id": "b1-114",
+    "languageCode": "es",
+    "word": "norma",
+    "definition": "rule, norm",
+    "exampleSentence": "Hay que seguir las normas de seguridad.",
+    "cefrLevel": "B1",
+    "category": "Law",
+    "synonyms": [
+      "regla"
+    ]
+  },
+  {
+    "id": "b1-115",
+    "languageCode": "es",
+    "word": "multa",
+    "definition": "fine, penalty",
+    "exampleSentence": "Me pusieron una multa por aparcar mal.",
+    "cefrLevel": "B1",
+    "category": "Law",
+    "synonyms": [
+      "sanción"
+    ]
+  },
+  {
+    "id": "b1-116",
+    "languageCode": "es",
+    "word": "ciudadano",
+    "definition": "citizen",
+    "exampleSentence": "Cada ciudadano tiene el deber de votar.",
+    "cefrLevel": "B1",
+    "category": "Politics",
+    "synonyms": [
+      "habitante"
+    ]
+  },
+  {
+    "id": "b1-117",
+    "languageCode": "es",
+    "word": "gobierno",
+    "definition": "government",
+    "exampleSentence": "El gobierno anunció nuevas medidas hoy.",
+    "cefrLevel": "B1",
+    "category": "Politics",
+    "synonyms": []
+  },
+  {
+    "id": "b1-118",
+    "languageCode": "es",
+    "word": "votar",
+    "definition": "to vote",
+    "exampleSentence": "Es importante votar en las elecciones.",
+    "cefrLevel": "B1",
+    "category": "Politics",
+    "synonyms": [
+      "elegir"
+    ]
+  },
+  {
+    "id": "b1-119",
+    "languageCode": "es",
+    "word": "manifestación",
+    "definition": "demonstration, protest",
+    "exampleSentence": "Miles de personas asistieron a la manifestación.",
+    "cefrLevel": "B1",
+    "category": "Politics",
+    "synonyms": [
+      "protesta"
+    ]
+  },
+  {
+    "id": "b1-120",
+    "languageCode": "es",
+    "word": "obra",
+    "definition": "work (of art); construction",
+    "exampleSentence": "Esta obra de teatro es muy famosa.",
+    "cefrLevel": "B1",
+    "category": "Arts",
+    "synonyms": [
+      "creación"
+    ]
+  },
+  {
+    "id": "b1-121",
+    "languageCode": "es",
+    "word": "cuadro",
+    "definition": "painting, picture",
+    "exampleSentence": "Compré un cuadro para el salón.",
+    "cefrLevel": "B1",
+    "category": "Arts",
+    "synonyms": [
+      "pintura"
+    ]
+  },
+  {
+    "id": "b1-122",
+    "languageCode": "es",
+    "word": "escenario",
+    "definition": "stage; scenario",
+    "exampleSentence": "El cantante salió al escenario entre aplausos.",
+    "cefrLevel": "B1",
+    "category": "Arts",
+    "synonyms": [
+      "tablado"
+    ]
+  },
+  {
+    "id": "b1-123",
+    "languageCode": "es",
+    "word": "público",
+    "definition": "audience; public",
+    "exampleSentence": "El público aplaudió durante varios minutos.",
+    "cefrLevel": "B1",
+    "category": "Arts",
+    "synonyms": [
+      "audiencia"
+    ]
+  },
+  {
+    "id": "b1-124",
+    "languageCode": "es",
+    "word": "experimento",
+    "definition": "experiment",
+    "exampleSentence": "Hicimos un experimento sencillo en clase de ciencias.",
+    "cefrLevel": "B1",
+    "category": "Science",
+    "synonyms": [
+      "prueba"
+    ]
+  },
+  {
+    "id": "b1-125",
+    "languageCode": "es",
+    "word": "descubrimiento",
+    "definition": "discovery",
+    "exampleSentence": "Fue un descubrimiento importante para la medicina.",
+    "cefrLevel": "B1",
+    "category": "Science",
+    "synonyms": [
+      "hallazgo"
+    ]
+  },
+  {
+    "id": "b1-126",
+    "languageCode": "es",
+    "word": "investigar",
+    "definition": "to research, to investigate",
+    "exampleSentence": "Los estudiantes deben investigar el tema a fondo.",
+    "cefrLevel": "B1",
+    "category": "Academic",
+    "synonyms": [
+      "indagar"
+    ]
+  },
+  {
+    "id": "b1-127",
+    "languageCode": "es",
+    "word": "madrugar",
+    "definition": "to get up early",
+    "exampleSentence": "Mañana tengo que madrugar para coger el tren.",
+    "cefrLevel": "B1",
+    "category": "Daily Life",
+    "synonyms": []
+  },
+  {
+    "id": "b1-128",
+    "languageCode": "es",
+    "word": "regalar",
+    "definition": "to give as a gift",
+    "exampleSentence": "Le quiero regalar un libro por su cumpleaños.",
+    "cefrLevel": "B1",
+    "category": "Daily Life",
+    "synonyms": [
+      "obsequiar"
+    ]
+  },
+  {
+    "id": "b1-129",
+    "languageCode": "es",
+    "word": "disfrutar",
+    "definition": "to enjoy",
+    "exampleSentence": "Espero que disfrutes mucho de las vacaciones.",
+    "cefrLevel": "B1",
+    "category": "Emotions",
+    "synonyms": [
+      "gozar"
+    ]
+  },
+  {
+    "id": "b1-130",
+    "languageCode": "es",
+    "word": "olvidar",
+    "definition": "to forget",
+    "exampleSentence": "No quiero olvidar nunca este viaje.",
+    "cefrLevel": "B1",
+    "category": "Daily Life",
+    "synonyms": []
+  },
+  {
+    "id": "b1-131",
+    "languageCode": "es",
+    "word": "pertenecer",
+    "definition": "to belong",
+    "exampleSentence": "Este cuaderno pertenece a mi compañera.",
+    "cefrLevel": "B1",
+    "category": "Daily Life",
+    "synonyms": []
+  },
+  {
+    "id": "b2-001",
+    "languageCode": "es",
+    "word": "ampliar",
+    "definition": "to widen, to broaden, to expand",
+    "exampleSentence": "La universidad decidió ampliar su oferta de cursos.",
+    "cefrLevel": "B2",
+    "category": "Education",
+    "synonyms": [
+      "extender",
+      "agrandar"
+    ]
+  },
+  {
+    "id": "b2-002",
+    "languageCode": "es",
+    "word": "alcanzar",
+    "definition": "to reach, to attain",
+    "exampleSentence": "El proyecto logró alcanzar todos sus objetivos.",
+    "cefrLevel": "B2",
+    "category": "Business",
+    "synonyms": [
+      "lograr",
+      "conseguir"
+    ]
+  },
+  {
+    "id": "b2-003",
+    "languageCode": "es",
+    "word": "gestionar",
+    "definition": "to manage, to handle",
+    "exampleSentence": "Aprendió a gestionar su tiempo de forma eficaz.",
+    "cefrLevel": "B2",
+    "category": "Business",
+    "synonyms": [
+      "administrar",
+      "dirigir"
+    ]
+  },
+  {
+    "id": "b2-004",
+    "languageCode": "es",
+    "word": "fomentar",
+    "definition": "to promote, to encourage",
+    "exampleSentence": "El programa busca fomentar la lectura entre los jóvenes.",
+    "cefrLevel": "B2",
+    "category": "Education",
+    "synonyms": [
+      "promover",
+      "impulsar"
+    ]
+  },
+  {
+    "id": "b2-005",
+    "languageCode": "es",
+    "word": "destacar",
+    "definition": "to stand out; to highlight",
+    "exampleSentence": "Su talento le hizo destacar entre los demás candidatos.",
+    "cefrLevel": "B2",
+    "category": "Business",
+    "synonyms": [
+      "sobresalir",
+      "resaltar"
+    ]
+  },
+  {
+    "id": "b2-006",
+    "languageCode": "es",
+    "word": "plantear",
+    "definition": "to raise, to pose (a question/problem)",
+    "exampleSentence": "El informe plantea varias preguntas importantes.",
+    "cefrLevel": "B2",
+    "category": "Academic",
+    "synonyms": [
+      "proponer",
+      "exponer"
+    ]
+  },
+  {
+    "id": "b2-007",
+    "languageCode": "es",
+    "word": "suponer",
+    "definition": "to suppose; to mean, to involve",
+    "exampleSentence": "Mudarse al extranjero supone un gran cambio.",
+    "cefrLevel": "B2",
+    "category": "Daily Life",
+    "synonyms": [
+      "implicar",
+      "presumir"
+    ]
+  },
+  {
+    "id": "b2-008",
+    "languageCode": "es",
+    "word": "asumir",
+    "definition": "to take on, to assume (responsibility)",
+    "exampleSentence": "Decidió asumir la dirección del equipo.",
+    "cefrLevel": "B2",
+    "category": "Business",
+    "synonyms": [
+      "aceptar",
+      "afrontar"
+    ]
+  },
+  {
+    "id": "b2-009",
+    "languageCode": "es",
+    "word": "afrontar",
+    "definition": "to face up to, to confront",
+    "exampleSentence": "Tuvimos que afrontar varias dificultades a la vez.",
+    "cefrLevel": "B2",
+    "category": "Daily Life",
+    "synonyms": [
+      "enfrentar",
+      "encarar"
+    ]
+  },
+  {
+    "id": "b2-010",
+    "languageCode": "es",
+    "word": "superar",
+    "definition": "to overcome; to exceed",
+    "exampleSentence": "Consiguió superar todos los obstáculos del camino.",
+    "cefrLevel": "B2",
+    "category": "Emotions",
+    "synonyms": [
+      "vencer",
+      "rebasar"
+    ]
+  },
+  {
+    "id": "b2-011",
+    "languageCode": "es",
+    "word": "lograr",
+    "definition": "to achieve, to manage to",
+    "exampleSentence": "Por fin logramos terminar el proyecto a tiempo.",
+    "cefrLevel": "B2",
+    "category": "Business",
+    "synonyms": [
+      "conseguir",
+      "alcanzar"
+    ]
+  },
+  {
+    "id": "b2-012",
+    "languageCode": "es",
+    "word": "rendir",
+    "definition": "to perform, to yield, to produce",
+    "exampleSentence": "El equipo rinde mejor cuando trabaja unido.",
+    "cefrLevel": "B2",
+    "category": "Business",
+    "synonyms": [
+      "producir"
+    ]
+  },
+  {
+    "id": "b2-013",
+    "languageCode": "es",
+    "word": "exigir",
+    "definition": "to demand, to require",
+    "exampleSentence": "El puesto exige mucha experiencia y dedicación.",
+    "cefrLevel": "B2",
+    "category": "Business",
+    "synonyms": [
+      "requerir",
+      "reclamar"
+    ]
+  },
+  {
+    "id": "b2-014",
+    "languageCode": "es",
+    "word": "advertir",
+    "definition": "to warn; to notice",
+    "exampleSentence": "El médico le advirtió de los riesgos del tratamiento.",
+    "cefrLevel": "B2",
+    "category": "Health",
+    "synonyms": [
+      "avisar",
+      "prevenir"
+    ]
+  },
+  {
+    "id": "b2-015",
+    "languageCode": "es",
+    "word": "prever",
+    "definition": "to foresee, to anticipate",
+    "exampleSentence": "Los expertos no pudieron prever la crisis.",
+    "cefrLevel": "B2",
+    "category": "Finance",
+    "synonyms": [
+      "anticipar",
+      "pronosticar"
+    ]
+  },
+  {
+    "id": "b2-016",
+    "languageCode": "es",
+    "word": "valorar",
+    "definition": "to value, to assess",
+    "exampleSentence": "Es importante valorar el esfuerzo de cada persona.",
+    "cefrLevel": "B2",
+    "category": "Society",
+    "synonyms": [
+      "apreciar",
+      "evaluar"
+    ]
+  },
+  {
+    "id": "b2-017",
+    "languageCode": "es",
+    "word": "evaluar",
+    "definition": "to evaluate, to assess",
+    "exampleSentence": "El profesor va a evaluar los proyectos la próxima semana.",
+    "cefrLevel": "B2",
+    "category": "Academic",
+    "synonyms": [
+      "valorar",
+      "calificar"
+    ]
+  },
+  {
+    "id": "b2-018",
+    "languageCode": "es",
+    "word": "analizar",
+    "definition": "to analyse",
+    "exampleSentence": "Debemos analizar los datos antes de decidir.",
+    "cefrLevel": "B2",
+    "category": "Academic",
+    "synonyms": [
+      "examinar",
+      "estudiar"
+    ]
+  },
+  {
+    "id": "b2-019",
+    "languageCode": "es",
+    "word": "comprobar",
+    "definition": "to check, to verify",
+    "exampleSentence": "Conviene comprobar la información antes de publicarla.",
+    "cefrLevel": "B2",
+    "category": "Academic",
+    "synonyms": [
+      "verificar",
+      "confirmar"
+    ]
+  },
+  {
+    "id": "b2-020",
+    "languageCode": "es",
+    "word": "demostrar",
+    "definition": "to prove, to demonstrate",
+    "exampleSentence": "El estudio logró demostrar la teoría inicial.",
+    "cefrLevel": "B2",
+    "category": "Science",
+    "synonyms": [
+      "probar",
+      "evidenciar"
+    ]
+  },
+  {
+    "id": "b2-021",
+    "languageCode": "es",
+    "word": "señalar",
+    "definition": "to point out, to indicate",
+    "exampleSentence": "El experto señaló los principales errores del plan.",
+    "cefrLevel": "B2",
+    "category": "Academic",
+    "synonyms": [
+      "indicar",
+      "marcar"
+    ]
+  },
+  {
+    "id": "b2-022",
+    "languageCode": "es",
+    "word": "reflejar",
+    "definition": "to reflect, to show",
+    "exampleSentence": "Los resultados reflejan el trabajo de todo el año.",
+    "cefrLevel": "B2",
+    "category": "Academic",
+    "synonyms": [
+      "mostrar"
+    ]
+  },
+  {
+    "id": "b2-023",
+    "languageCode": "es",
+    "word": "influir",
+    "definition": "to influence",
+    "exampleSentence": "La publicidad influye mucho en nuestras decisiones.",
+    "cefrLevel": "B2",
+    "category": "Society",
+    "synonyms": [
+      "afectar",
+      "condicionar"
+    ]
+  },
+  {
+    "id": "b2-024",
+    "languageCode": "es",
+    "word": "repercutir",
+    "definition": "to have repercussions, to affect",
+    "exampleSentence": "La subida de precios repercute en toda la economía.",
+    "cefrLevel": "B2",
+    "category": "Finance",
+    "synonyms": [
+      "incidir",
+      "afectar"
+    ]
+  },
+  {
+    "id": "b2-025",
+    "languageCode": "es",
+    "word": "contribuir",
+    "definition": "to contribute",
+    "exampleSentence": "Cada pequeño gesto contribuye a cuidar el planeta.",
+    "cefrLevel": "B2",
+    "category": "Environment",
+    "synonyms": [
+      "aportar",
+      "colaborar"
+    ]
+  },
+  {
+    "id": "b2-026",
+    "languageCode": "es",
+    "word": "aportar",
+    "definition": "to provide, to contribute",
+    "exampleSentence": "El nuevo socio aporta capital y experiencia.",
+    "cefrLevel": "B2",
+    "category": "Business",
+    "synonyms": [
+      "proporcionar",
+      "contribuir"
+    ]
+  },
+  {
+    "id": "b2-027",
+    "languageCode": "es",
+    "word": "destinar",
+    "definition": "to allocate, to earmark",
+    "exampleSentence": "El gobierno va a destinar más fondos a la sanidad.",
+    "cefrLevel": "B2",
+    "category": "Finance",
+    "synonyms": [
+      "asignar",
+      "reservar"
+    ]
+  },
+  {
+    "id": "b2-028",
+    "languageCode": "es",
+    "word": "invertir",
+    "definition": "to invest; to reverse",
+    "exampleSentence": "Decidieron invertir sus ahorros en una empresa local.",
+    "cefrLevel": "B2",
+    "category": "Finance",
+    "synonyms": [
+      "colocar"
+    ]
+  },
+  {
+    "id": "b2-029",
+    "languageCode": "es",
+    "word": "financiar",
+    "definition": "to finance, to fund",
+    "exampleSentence": "El banco aceptó financiar la compra de la vivienda.",
+    "cefrLevel": "B2",
+    "category": "Finance",
+    "synonyms": [
+      "costear",
+      "subvencionar"
+    ]
+  },
+  {
+    "id": "b2-030",
+    "languageCode": "es",
+    "word": "rentable",
+    "definition": "profitable, worthwhile",
+    "exampleSentence": "El negocio resultó más rentable de lo esperado.",
+    "cefrLevel": "B2",
+    "category": "Finance",
+    "synonyms": [
+      "lucrativo"
+    ]
+  },
+  {
+    "id": "b2-031",
+    "languageCode": "es",
+    "word": "deuda",
+    "definition": "debt",
+    "exampleSentence": "Tardó años en pagar toda su deuda.",
+    "cefrLevel": "B2",
+    "category": "Finance",
+    "synonyms": [
+      "pasivo"
+    ]
+  },
+  {
+    "id": "b2-032",
+    "languageCode": "es",
+    "word": "ahorro",
+    "definition": "saving(s)",
+    "exampleSentence": "El ahorro mensual le permitió comprar un coche.",
+    "cefrLevel": "B2",
+    "category": "Finance",
+    "synonyms": []
+  },
+  {
+    "id": "b2-033",
+    "languageCode": "es",
+    "word": "ingreso",
+    "definition": "income; admission",
+    "exampleSentence": "Sus ingresos aumentaron tras el ascenso.",
+    "cefrLevel": "B2",
+    "category": "Finance",
+    "synonyms": [
+      "entrada"
+    ]
+  },
+  {
+    "id": "b2-034",
+    "languageCode": "es",
+    "word": "gasto",
+    "definition": "expense, spending",
+    "exampleSentence": "Hay que reducir el gasto innecesario.",
+    "cefrLevel": "B2",
+    "category": "Finance",
+    "synonyms": [
+      "desembolso"
+    ]
+  },
+  {
+    "id": "b2-035",
+    "languageCode": "es",
+    "word": "impuesto",
+    "definition": "tax",
+    "exampleSentence": "El nuevo impuesto afecta a los productos importados.",
+    "cefrLevel": "B2",
+    "category": "Finance",
+    "synonyms": [
+      "tributo"
+    ]
+  },
+  {
+    "id": "b2-036",
+    "languageCode": "es",
+    "word": "patrimonio",
+    "definition": "assets, heritage, estate",
+    "exampleSentence": "La casa forma parte del patrimonio familiar.",
+    "cefrLevel": "B2",
+    "category": "Finance",
+    "synonyms": [
+      "bienes"
+    ]
+  },
+  {
+    "id": "b2-037",
+    "languageCode": "es",
+    "word": "competencia",
+    "definition": "competition; competence",
+    "exampleSentence": "La competencia en el sector es cada vez mayor.",
+    "cefrLevel": "B2",
+    "category": "Business",
+    "synonyms": [
+      "rivalidad"
+    ]
+  },
+  {
+    "id": "b2-038",
+    "languageCode": "es",
+    "word": "estrategia",
+    "definition": "strategy",
+    "exampleSentence": "Necesitamos una estrategia clara para crecer.",
+    "cefrLevel": "B2",
+    "category": "Business",
+    "synonyms": [
+      "plan",
+      "táctica"
+    ]
+  },
+  {
+    "id": "b2-039",
+    "languageCode": "es",
+    "word": "objetivo",
+    "definition": "objective, goal; objective (adj.)",
+    "exampleSentence": "El objetivo principal es aumentar las ventas.",
+    "cefrLevel": "B2",
+    "category": "Business",
+    "synonyms": [
+      "meta",
+      "propósito"
+    ]
+  },
+  {
+    "id": "b2-040",
+    "languageCode": "es",
+    "word": "rendimiento",
+    "definition": "performance, yield",
+    "exampleSentence": "Mejorar el rendimiento del equipo es prioritario.",
+    "cefrLevel": "B2",
+    "category": "Business",
+    "synonyms": [
+      "productividad"
+    ]
+  },
+  {
+    "id": "b2-041",
+    "languageCode": "es",
+    "word": "plazo",
+    "definition": "deadline; term, period",
+    "exampleSentence": "Entregamos el informe dentro del plazo previsto.",
+    "cefrLevel": "B2",
+    "category": "Business",
+    "synonyms": [
+      "término"
+    ]
+  },
+  {
+    "id": "b2-042",
+    "languageCode": "es",
+    "word": "acuerdo",
+    "definition": "agreement",
+    "exampleSentence": "Las dos partes llegaron a un acuerdo satisfactorio.",
+    "cefrLevel": "B2",
+    "category": "Business",
+    "synonyms": [
+      "pacto",
+      "convenio"
+    ]
+  },
+  {
+    "id": "b2-043",
+    "languageCode": "es",
+    "word": "compromiso",
+    "definition": "commitment; compromise",
+    "exampleSentence": "Asumió el compromiso de terminar a tiempo.",
+    "cefrLevel": "B2",
+    "category": "Business",
+    "synonyms": [
+      "obligación"
+    ]
+  },
+  {
+    "id": "b2-044",
+    "languageCode": "es",
+    "word": "ventaja",
+    "definition": "advantage",
+    "exampleSentence": "Hablar varios idiomas es una gran ventaja.",
+    "cefrLevel": "B2",
+    "category": "Business",
+    "synonyms": [
+      "beneficio"
+    ]
+  },
+  {
+    "id": "b2-045",
+    "languageCode": "es",
+    "word": "desventaja",
+    "definition": "disadvantage, drawback",
+    "exampleSentence": "La principal desventaja es el alto coste inicial.",
+    "cefrLevel": "B2",
+    "category": "Business",
+    "synonyms": [
+      "inconveniente"
+    ]
+  },
+  {
+    "id": "b2-046",
+    "languageCode": "es",
+    "word": "riesgo",
+    "definition": "risk",
+    "exampleSentence": "Toda inversión conlleva cierto riesgo.",
+    "cefrLevel": "B2",
+    "category": "Finance",
+    "synonyms": [
+      "peligro"
+    ]
+  },
+  {
+    "id": "b2-047",
+    "languageCode": "es",
+    "word": "fracaso",
+    "definition": "failure",
+    "exampleSentence": "Aprendió mucho de aquel primer fracaso.",
+    "cefrLevel": "B2",
+    "category": "Emotions",
+    "synonyms": [
+      "derrota"
+    ]
+  },
+  {
+    "id": "b2-048",
+    "languageCode": "es",
+    "word": "éxito",
+    "definition": "success",
+    "exampleSentence": "El lanzamiento del producto fue todo un éxito.",
+    "cefrLevel": "B2",
+    "category": "Business",
+    "synonyms": [
+      "triunfo"
+    ]
+  },
+  {
+    "id": "b2-049",
+    "languageCode": "es",
+    "word": "desafío",
+    "definition": "challenge",
+    "exampleSentence": "Aceptar el nuevo cargo fue un gran desafío.",
+    "cefrLevel": "B2",
+    "category": "Business",
+    "synonyms": [
+      "reto"
+    ]
+  },
+  {
+    "id": "b2-050",
+    "languageCode": "es",
+    "word": "propósito",
+    "definition": "purpose, intention",
+    "exampleSentence": "El propósito del estudio es claro desde el principio.",
+    "cefrLevel": "B2",
+    "category": "Academic",
+    "synonyms": [
+      "finalidad",
+      "intención"
+    ]
+  },
+  {
+    "id": "b2-051",
+    "languageCode": "es",
+    "word": "enfoque",
+    "definition": "approach, focus",
+    "exampleSentence": "El profesor adoptó un enfoque más práctico.",
+    "cefrLevel": "B2",
+    "category": "Academic",
+    "synonyms": [
+      "perspectiva"
+    ]
+  },
+  {
+    "id": "b2-052",
+    "languageCode": "es",
+    "word": "punto de vista",
+    "definition": "point of view",
+    "exampleSentence": "Respeto tu punto de vista aunque no lo comparta.",
+    "cefrLevel": "B2",
+    "category": "Society",
+    "synonyms": [
+      "opinión"
+    ]
+  },
+  {
+    "id": "b2-053",
+    "languageCode": "es",
+    "word": "postura",
+    "definition": "stance, position",
+    "exampleSentence": "El partido mantuvo su postura sobre el tema.",
+    "cefrLevel": "B2",
+    "category": "Politics",
+    "synonyms": [
+      "posición",
+      "actitud"
+    ]
+  },
+  {
+    "id": "b2-054",
+    "languageCode": "es",
+    "word": "polémica",
+    "definition": "controversy",
+    "exampleSentence": "Sus declaraciones generaron una gran polémica.",
+    "cefrLevel": "B2",
+    "category": "Society",
+    "synonyms": [
+      "controversia"
+    ]
+  },
+  {
+    "id": "b2-055",
+    "languageCode": "es",
+    "word": "debate",
+    "definition": "debate",
+    "exampleSentence": "El debate sobre la educación sigue abierto.",
+    "cefrLevel": "B2",
+    "category": "Politics",
+    "synonyms": [
+      "discusión"
+    ]
+  },
+  {
+    "id": "b2-056",
+    "languageCode": "es",
+    "word": "argumento",
+    "definition": "argument, reasoning; plot",
+    "exampleSentence": "Presentó un argumento difícil de rebatir.",
+    "cefrLevel": "B2",
+    "category": "Academic",
+    "synonyms": [
+      "razonamiento"
+    ]
+  },
+  {
+    "id": "b2-057",
+    "languageCode": "es",
+    "word": "consecuencia",
+    "definition": "consequence",
+    "exampleSentence": "Cada decisión tiene su consecuencia.",
+    "cefrLevel": "B2",
+    "category": "Society",
+    "synonyms": [
+      "resultado",
+      "efecto"
+    ]
+  },
+  {
+    "id": "b2-058",
+    "languageCode": "es",
+    "word": "causa",
+    "definition": "cause; cause (legal)",
+    "exampleSentence": "Investigan la causa real del accidente.",
+    "cefrLevel": "B2",
+    "category": "Society",
+    "synonyms": [
+      "motivo",
+      "origen"
+    ]
+  },
+  {
+    "id": "b2-059",
+    "languageCode": "es",
+    "word": "factor",
+    "definition": "factor",
+    "exampleSentence": "El clima fue un factor decisivo en la cosecha.",
+    "cefrLevel": "B2",
+    "category": "Science",
+    "synonyms": [
+      "elemento"
+    ]
+  },
+  {
+    "id": "b2-060",
+    "languageCode": "es",
+    "word": "tendencia",
+    "definition": "trend, tendency",
+    "exampleSentence": "Existe una clara tendencia hacia el teletrabajo.",
+    "cefrLevel": "B2",
+    "category": "Society",
+    "synonyms": [
+      "inclinación"
+    ]
+  },
+  {
+    "id": "b2-061",
+    "languageCode": "es",
+    "word": "fenómeno",
+    "definition": "phenomenon",
+    "exampleSentence": "Las redes sociales son un fenómeno mundial.",
+    "cefrLevel": "B2",
+    "category": "Society",
+    "synonyms": [
+      "acontecimiento"
+    ]
+  },
+  {
+    "id": "b2-062",
+    "languageCode": "es",
+    "word": "ámbito",
+    "definition": "field, sphere, scope",
+    "exampleSentence": "Es un experto reconocido en el ámbito jurídico.",
+    "cefrLevel": "B2",
+    "category": "Academic",
+    "synonyms": [
+      "campo",
+      "área"
+    ]
+  },
+  {
+    "id": "b2-063",
+    "languageCode": "es",
+    "word": "vínculo",
+    "definition": "link, bond, tie",
+    "exampleSentence": "Existe un fuerte vínculo entre ambos países.",
+    "cefrLevel": "B2",
+    "category": "Society",
+    "synonyms": [
+      "lazo",
+      "conexión"
+    ]
+  },
+  {
+    "id": "b2-064",
+    "languageCode": "es",
+    "word": "brecha",
+    "definition": "gap, breach",
+    "exampleSentence": "La brecha salarial sigue siendo un problema.",
+    "cefrLevel": "B2",
+    "category": "Society",
+    "synonyms": [
+      "diferencia"
+    ]
+  },
+  {
+    "id": "b2-065",
+    "languageCode": "es",
+    "word": "desigualdad",
+    "definition": "inequality",
+    "exampleSentence": "La desigualdad económica ha aumentado en la región.",
+    "cefrLevel": "B2",
+    "category": "Society",
+    "synonyms": [
+      "disparidad"
+    ]
+  },
+  {
+    "id": "b2-066",
+    "languageCode": "es",
+    "word": "pobreza",
+    "definition": "poverty",
+    "exampleSentence": "El programa busca reducir la pobreza infantil.",
+    "cefrLevel": "B2",
+    "category": "Society",
+    "synonyms": [
+      "miseria"
+    ]
+  },
+  {
+    "id": "b2-067",
+    "languageCode": "es",
+    "word": "bienestar",
+    "definition": "well-being, welfare",
+    "exampleSentence": "El bienestar de los empleados es una prioridad.",
+    "cefrLevel": "B2",
+    "category": "Health",
+    "synonyms": [
+      "comodidad"
+    ]
+  },
+  {
+    "id": "b2-068",
+    "languageCode": "es",
+    "word": "convivencia",
+    "definition": "coexistence, living together",
+    "exampleSentence": "La convivencia en el barrio mejoró con el tiempo.",
+    "cefrLevel": "B2",
+    "category": "Society",
+    "synonyms": []
+  },
+  {
+    "id": "b2-069",
+    "languageCode": "es",
+    "word": "ciudadanía",
+    "definition": "citizenship; the citizenry",
+    "exampleSentence": "La ciudadanía exige más transparencia.",
+    "cefrLevel": "B2",
+    "category": "Politics",
+    "synonyms": []
+  },
+  {
+    "id": "b2-070",
+    "languageCode": "es",
+    "word": "mayoría",
+    "definition": "majority",
+    "exampleSentence": "La mayoría de los presentes votó a favor.",
+    "cefrLevel": "B2",
+    "category": "Politics",
+    "synonyms": [
+      "generalidad"
+    ]
+  },
+  {
+    "id": "b2-071",
+    "languageCode": "es",
+    "word": "minoría",
+    "definition": "minority",
+    "exampleSentence": "Solo una minoría se mostró en contra.",
+    "cefrLevel": "B2",
+    "category": "Politics",
+    "synonyms": []
+  },
+  {
+    "id": "b2-072",
+    "languageCode": "es",
+    "word": "autoridad",
+    "definition": "authority",
+    "exampleSentence": "Las autoridades locales tomaron medidas urgentes.",
+    "cefrLevel": "B2",
+    "category": "Politics",
+    "synonyms": [
+      "mando"
+    ]
+  },
+  {
+    "id": "b2-073",
+    "languageCode": "es",
+    "word": "medida",
+    "definition": "measure; size",
+    "exampleSentence": "El ayuntamiento aprobó nuevas medidas de seguridad.",
+    "cefrLevel": "B2",
+    "category": "Politics",
+    "synonyms": [
+      "disposición"
+    ]
+  },
+  {
+    "id": "b2-074",
+    "languageCode": "es",
+    "word": "ley",
+    "definition": "law",
+    "exampleSentence": "La nueva ley entra en vigor el próximo mes.",
+    "cefrLevel": "B2",
+    "category": "Law",
+    "synonyms": [
+      "norma"
+    ]
+  },
+  {
+    "id": "b2-075",
+    "languageCode": "es",
+    "word": "justicia",
+    "definition": "justice",
+    "exampleSentence": "La víctima solo pedía justicia.",
+    "cefrLevel": "B2",
+    "category": "Law",
+    "synonyms": [
+      "equidad"
+    ]
+  },
+  {
+    "id": "b2-076",
+    "languageCode": "es",
+    "word": "delito",
+    "definition": "crime, offence",
+    "exampleSentence": "El robo es un delito grave.",
+    "cefrLevel": "B2",
+    "category": "Law",
+    "synonyms": [
+      "crimen"
+    ]
+  },
+  {
+    "id": "b2-077",
+    "languageCode": "es",
+    "word": "juicio",
+    "definition": "trial; judgement",
+    "exampleSentence": "El juicio durará varias semanas.",
+    "cefrLevel": "B2",
+    "category": "Law",
+    "synonyms": [
+      "proceso"
+    ]
+  },
+  {
+    "id": "b2-078",
+    "languageCode": "es",
+    "word": "testigo",
+    "definition": "witness",
+    "exampleSentence": "El testigo declaró ante el juez.",
+    "cefrLevel": "B2",
+    "category": "Law",
+    "synonyms": []
+  },
+  {
+    "id": "b2-079",
+    "languageCode": "es",
+    "word": "prueba",
+    "definition": "evidence, proof; test",
+    "exampleSentence": "La fiscalía presentó nuevas pruebas.",
+    "cefrLevel": "B2",
+    "category": "Law",
+    "synonyms": [
+      "evidencia"
+    ]
+  },
+  {
+    "id": "b2-080",
+    "languageCode": "es",
+    "word": "denunciar",
+    "definition": "to report, to denounce",
+    "exampleSentence": "Decidió denunciar el fraude a la policía.",
+    "cefrLevel": "B2",
+    "category": "Law",
+    "synonyms": [
+      "acusar"
+    ]
+  },
+  {
+    "id": "b2-081",
+    "languageCode": "es",
+    "word": "sostenible",
+    "definition": "sustainable",
+    "exampleSentence": "Apostamos por un modelo de turismo sostenible.",
+    "cefrLevel": "B2",
+    "category": "Environment",
+    "synonyms": [
+      "duradero"
+    ]
+  },
+  {
+    "id": "b2-082",
+    "languageCode": "es",
+    "word": "renovable",
+    "definition": "renewable",
+    "exampleSentence": "La energía renovable es cada vez más barata.",
+    "cefrLevel": "B2",
+    "category": "Environment",
+    "synonyms": []
+  },
+  {
+    "id": "b2-083",
+    "languageCode": "es",
+    "word": "residuo",
+    "definition": "waste, residue",
+    "exampleSentence": "La fábrica trata sus residuos antes de verterlos.",
+    "cefrLevel": "B2",
+    "category": "Environment",
+    "synonyms": [
+      "desecho"
+    ]
+  },
+  {
+    "id": "b2-084",
+    "languageCode": "es",
+    "word": "emisión",
+    "definition": "emission; broadcast",
+    "exampleSentence": "Hay que reducir la emisión de gases contaminantes.",
+    "cefrLevel": "B2",
+    "category": "Environment",
+    "synonyms": []
+  },
+  {
+    "id": "b2-085",
+    "languageCode": "es",
+    "word": "calentamiento",
+    "definition": "warming, heating",
+    "exampleSentence": "El calentamiento global afecta a todo el planeta.",
+    "cefrLevel": "B2",
+    "category": "Environment",
+    "synonyms": []
+  },
+  {
+    "id": "b2-086",
+    "languageCode": "es",
+    "word": "sequía",
+    "definition": "drought",
+    "exampleSentence": "La sequía arruinó la cosecha de este año.",
+    "cefrLevel": "B2",
+    "category": "Environment",
+    "synonyms": []
+  },
+  {
+    "id": "b2-087",
+    "languageCode": "es",
+    "word": "escasez",
+    "definition": "shortage, scarcity",
+    "exampleSentence": "La escasez de agua preocupa a los agricultores.",
+    "cefrLevel": "B2",
+    "category": "Environment",
+    "synonyms": [
+      "falta",
+      "carencia"
+    ]
+  },
+  {
+    "id": "b2-088",
+    "languageCode": "es",
+    "word": "recurso",
+    "definition": "resource",
+    "exampleSentence": "El agua es un recurso cada vez más valioso.",
+    "cefrLevel": "B2",
+    "category": "Environment",
+    "synonyms": [
+      "medio"
+    ]
+  },
+  {
+    "id": "b2-089",
+    "languageCode": "es",
+    "word": "consumo",
+    "definition": "consumption",
+    "exampleSentence": "El consumo de energía baja en primavera.",
+    "cefrLevel": "B2",
+    "category": "Environment",
+    "synonyms": [
+      "gasto"
+    ]
+  },
+  {
+    "id": "b2-090",
+    "languageCode": "es",
+    "word": "avance",
+    "definition": "advance, progress",
+    "exampleSentence": "El avance de la tecnología no se detiene.",
+    "cefrLevel": "B2",
+    "category": "Technology",
+    "synonyms": [
+      "progreso",
+      "adelanto"
+    ]
+  },
+  {
+    "id": "b2-091",
+    "languageCode": "es",
+    "word": "herramienta",
+    "definition": "tool",
+    "exampleSentence": "El correo sigue siendo una herramienta esencial.",
+    "cefrLevel": "B2",
+    "category": "Technology",
+    "synonyms": [
+      "instrumento"
+    ]
+  },
+  {
+    "id": "b2-092",
+    "languageCode": "es",
+    "word": "dispositivo",
+    "definition": "device",
+    "exampleSentence": "Puedes sincronizar la cuenta en varios dispositivos.",
+    "cefrLevel": "B2",
+    "category": "Technology",
+    "synonyms": [
+      "aparato"
+    ]
+  },
+  {
+    "id": "b2-093",
+    "languageCode": "es",
+    "word": "actualizar",
+    "definition": "to update",
+    "exampleSentence": "Conviene actualizar el sistema con frecuencia.",
+    "cefrLevel": "B2",
+    "category": "Technology",
+    "synonyms": [
+      "renovar"
+    ]
+  },
+  {
+    "id": "b2-094",
+    "languageCode": "es",
+    "word": "almacenar",
+    "definition": "to store",
+    "exampleSentence": "La nube permite almacenar muchos archivos.",
+    "cefrLevel": "B2",
+    "category": "Technology",
+    "synonyms": [
+      "guardar"
+    ]
+  },
+  {
+    "id": "b2-095",
+    "languageCode": "es",
+    "word": "respaldo",
+    "definition": "backup; support",
+    "exampleSentence": "Haz un respaldo de tus datos por seguridad.",
+    "cefrLevel": "B2",
+    "category": "Technology",
+    "synonyms": [
+      "copia",
+      "apoyo"
+    ]
+  },
+  {
+    "id": "b2-096",
+    "languageCode": "es",
+    "word": "usuario",
+    "definition": "user",
+    "exampleSentence": "Cada usuario tiene su propio perfil.",
+    "cefrLevel": "B2",
+    "category": "Technology",
+    "synonyms": []
+  },
+  {
+    "id": "b2-097",
+    "languageCode": "es",
+    "word": "balance",
+    "definition": "balance sheet; assessment, outcome",
+    "exampleSentence": "El balance del año fue claramente positivo.",
+    "cefrLevel": "B2",
+    "category": "Finance",
+    "synonyms": [
+      "resultado"
+    ]
+  },
+  {
+    "id": "b2-098",
+    "languageCode": "es",
+    "word": "informe",
+    "definition": "report",
+    "exampleSentence": "Presentó un informe detallado a la dirección.",
+    "cefrLevel": "B2",
+    "category": "Business",
+    "synonyms": [
+      "reporte"
+    ]
+  },
+  {
+    "id": "b2-099",
+    "languageCode": "es",
+    "word": "dato",
+    "definition": "piece of data, fact",
+    "exampleSentence": "Necesitamos más de un dato para concluir.",
+    "cefrLevel": "B2",
+    "category": "Academic",
+    "synonyms": [
+      "información"
+    ]
+  },
+  {
+    "id": "b2-100",
+    "languageCode": "es",
+    "word": "cifra",
+    "definition": "figure, number",
+    "exampleSentence": "Las cifras de ventas superaron las previsiones.",
+    "cefrLevel": "B2",
+    "category": "Finance",
+    "synonyms": [
+      "número"
+    ]
+  },
+  {
+    "id": "b2-101",
+    "languageCode": "es",
+    "word": "promedio",
+    "definition": "average",
+    "exampleSentence": "El promedio de edad del grupo es de treinta años.",
+    "cefrLevel": "B2",
+    "category": "Academic",
+    "synonyms": [
+      "media"
+    ]
+  },
+  {
+    "id": "b2-102",
+    "languageCode": "es",
+    "word": "porcentaje",
+    "definition": "percentage",
+    "exampleSentence": "Un alto porcentaje de jóvenes usa el móvil a diario.",
+    "cefrLevel": "B2",
+    "category": "Academic",
+    "synonyms": [
+      "tanto por ciento"
+    ]
+  },
+  {
+    "id": "b2-103",
+    "languageCode": "es",
+    "word": "muestra",
+    "definition": "sample; sign",
+    "exampleSentence": "Analizaron una muestra de mil personas.",
+    "cefrLevel": "B2",
+    "category": "Science",
+    "synonyms": [
+      "ejemplar"
+    ]
+  },
+  {
+    "id": "b2-104",
+    "languageCode": "es",
+    "word": "vacuna",
+    "definition": "vaccine",
+    "exampleSentence": "La nueva vacuna se distribuyó por todo el país.",
+    "cefrLevel": "B2",
+    "category": "Health",
+    "synonyms": []
+  },
+  {
+    "id": "b2-105",
+    "languageCode": "es",
+    "word": "tratamiento",
+    "definition": "treatment",
+    "exampleSentence": "El tratamiento dura aproximadamente tres semanas.",
+    "cefrLevel": "B2",
+    "category": "Health",
+    "synonyms": [
+      "terapia"
+    ]
+  },
+  {
+    "id": "b2-106",
+    "languageCode": "es",
+    "word": "síntoma",
+    "definition": "symptom",
+    "exampleSentence": "La fiebre es un síntoma muy común.",
+    "cefrLevel": "B2",
+    "category": "Health",
+    "synonyms": [
+      "señal"
+    ]
+  },
+  {
+    "id": "b2-107",
+    "languageCode": "es",
+    "word": "diagnóstico",
+    "definition": "diagnosis",
+    "exampleSentence": "El diagnóstico tardó varios días en confirmarse.",
+    "cefrLevel": "B2",
+    "category": "Health",
+    "synonyms": []
+  },
+  {
+    "id": "b2-108",
+    "languageCode": "es",
+    "word": "prevención",
+    "definition": "prevention",
+    "exampleSentence": "La prevención es clave para evitar enfermedades.",
+    "cefrLevel": "B2",
+    "category": "Health",
+    "synonyms": []
+  },
+  {
+    "id": "b2-109",
+    "languageCode": "es",
+    "word": "esperanza",
+    "definition": "hope",
+    "exampleSentence": "Nunca perdió la esperanza de recuperarse.",
+    "cefrLevel": "B2",
+    "category": "Emotions",
+    "synonyms": [
+      "ilusión"
+    ]
+  },
+  {
+    "id": "b2-110",
+    "languageCode": "es",
+    "word": "temor",
+    "definition": "fear, dread",
+    "exampleSentence": "Habló de sus temores con total sinceridad.",
+    "cefrLevel": "B2",
+    "category": "Emotions",
+    "synonyms": [
+      "miedo"
+    ]
+  },
+  {
+    "id": "b2-111",
+    "languageCode": "es",
+    "word": "angustia",
+    "definition": "anguish, distress",
+    "exampleSentence": "La espera le producía una gran angustia.",
+    "cefrLevel": "B2",
+    "category": "Emotions",
+    "synonyms": [
+      "ansiedad"
+    ]
+  },
+  {
+    "id": "b2-112",
+    "languageCode": "es",
+    "word": "alivio",
+    "definition": "relief",
+    "exampleSentence": "Sentí un enorme alivio al recibir la noticia.",
+    "cefrLevel": "B2",
+    "category": "Emotions",
+    "synonyms": [
+      "consuelo"
+    ]
+  },
+  {
+    "id": "b2-113",
+    "languageCode": "es",
+    "word": "asombro",
+    "definition": "amazement, astonishment",
+    "exampleSentence": "Miró la obra con verdadero asombro.",
+    "cefrLevel": "B2",
+    "category": "Emotions",
+    "synonyms": [
+      "sorpresa"
+    ]
+  },
+  {
+    "id": "b2-114",
+    "languageCode": "es",
+    "word": "orgullo",
+    "definition": "pride",
+    "exampleSentence": "Habló de su país con evidente orgullo.",
+    "cefrLevel": "B2",
+    "category": "Emotions",
+    "synonyms": []
+  },
+  {
+    "id": "b2-115",
+    "languageCode": "es",
+    "word": "vergüenza",
+    "definition": "shame, embarrassment",
+    "exampleSentence": "Le dio vergüenza hablar en público.",
+    "cefrLevel": "B2",
+    "category": "Emotions",
+    "synonyms": [
+      "bochorno"
+    ]
+  },
+  {
+    "id": "b2-116",
+    "languageCode": "es",
+    "word": "ánimo",
+    "definition": "spirits, encouragement",
+    "exampleSentence": "Sus amigos le dieron ánimo en el momento difícil.",
+    "cefrLevel": "B2",
+    "category": "Emotions",
+    "synonyms": [
+      "aliento"
+    ]
+  },
+  {
+    "id": "b2-117",
+    "languageCode": "es",
+    "word": "actitud",
+    "definition": "attitude",
+    "exampleSentence": "Su actitud positiva contagia a todo el equipo.",
+    "cefrLevel": "B2",
+    "category": "Emotions",
+    "synonyms": [
+      "disposición"
+    ]
+  },
+  {
+    "id": "b2-118",
+    "languageCode": "es",
+    "word": "carácter",
+    "definition": "character, personality",
+    "exampleSentence": "Tiene un carácter fuerte pero noble.",
+    "cefrLevel": "B2",
+    "category": "Emotions",
+    "synonyms": [
+      "temperamento"
+    ]
+  },
+  {
+    "id": "b2-119",
+    "languageCode": "es",
+    "word": "obra maestra",
+    "definition": "masterpiece",
+    "exampleSentence": "Esa novela está considerada una obra maestra.",
+    "cefrLevel": "B2",
+    "category": "Arts",
+    "synonyms": []
+  },
+  {
+    "id": "b2-120",
+    "languageCode": "es",
+    "word": "guion",
+    "definition": "script, screenplay",
+    "exampleSentence": "El guion de la película recibió varios premios.",
+    "cefrLevel": "B2",
+    "category": "Arts",
+    "synonyms": [
+      "libreto"
+    ]
+  },
+  {
+    "id": "b2-121",
+    "languageCode": "es",
+    "word": "estreno",
+    "definition": "premiere, release",
+    "exampleSentence": "El estreno de la obra fue todo un acontecimiento.",
+    "cefrLevel": "B2",
+    "category": "Arts",
+    "synonyms": []
+  },
+  {
+    "id": "b2-122",
+    "languageCode": "es",
+    "word": "crítica",
+    "definition": "review; criticism",
+    "exampleSentence": "La crítica elogió la actuación del protagonista.",
+    "cefrLevel": "B2",
+    "category": "Arts",
+    "synonyms": [
+      "reseña"
+    ]
+  },
+  {
+    "id": "b2-123",
+    "languageCode": "es",
+    "word": "patrimonio cultural",
+    "definition": "cultural heritage",
+    "exampleSentence": "La ciudad protege su patrimonio cultural.",
+    "cefrLevel": "B2",
+    "category": "Culture",
+    "synonyms": []
+  },
+  {
+    "id": "b2-124",
+    "languageCode": "es",
+    "word": "fortalecer",
+    "definition": "to strengthen",
+    "exampleSentence": "El acuerdo busca fortalecer la cooperación entre ambos.",
+    "cefrLevel": "B2",
+    "category": "Politics",
+    "synonyms": [
+      "reforzar",
+      "robustecer"
+    ]
+  },
+  {
+    "id": "b2-125",
+    "languageCode": "es",
+    "word": "garantizar",
+    "definition": "to guarantee, to ensure",
+    "exampleSentence": "El contrato pretende garantizar los derechos del cliente.",
+    "cefrLevel": "B2",
+    "category": "Law",
+    "synonyms": [
+      "asegurar",
+      "avalar"
+    ]
+  },
+  {
+    "id": "b2-126",
+    "languageCode": "es",
+    "word": "perjudicar",
+    "definition": "to harm, to damage",
+    "exampleSentence": "El ruido constante puede perjudicar la salud.",
+    "cefrLevel": "B2",
+    "category": "Health",
+    "synonyms": [
+      "dañar",
+      "afectar"
+    ]
+  },
+  {
+    "id": "b2-127",
+    "languageCode": "es",
+    "word": "sobrellevar",
+    "definition": "to cope with, to endure",
+    "exampleSentence": "Aprendió a sobrellevar la presión del trabajo.",
+    "cefrLevel": "B2",
+    "category": "Emotions",
+    "synonyms": [
+      "soportar",
+      "aguantar"
+    ]
+  },
+  {
+    "id": "b2-128",
+    "languageCode": "es",
+    "word": "cotidiano",
+    "definition": "everyday, daily",
+    "exampleSentence": "El móvil se ha vuelto un objeto cotidiano.",
+    "cefrLevel": "B2",
+    "category": "Daily Life",
+    "synonyms": [
+      "habitual",
+      "diario"
+    ]
+  },
+  {
+    "id": "b2-129",
+    "languageCode": "es",
+    "word": "previsible",
+    "definition": "foreseeable, predictable",
+    "exampleSentence": "El desenlace era totalmente previsible.",
+    "cefrLevel": "B2",
+    "category": "Society",
+    "synonyms": [
+      "esperable"
+    ]
+  },
+  {
+    "id": "c1-001",
+    "languageCode": "es",
+    "word": "consolidar",
+    "definition": "to consolidate, to strengthen",
+    "exampleSentence": "La empresa logró consolidar su posición en el mercado.",
+    "cefrLevel": "C1",
+    "category": "Business",
+    "synonyms": [
+      "afianzar",
+      "reforzar"
+    ]
+  },
+  {
+    "id": "c1-002",
+    "languageCode": "es",
+    "word": "vislumbrar",
+    "definition": "to glimpse, to make out faintly",
+    "exampleSentence": "Apenas se podía vislumbrar la costa entre la niebla.",
+    "cefrLevel": "C1",
+    "category": "Arts",
+    "synonyms": [
+      "entrever",
+      "atisbar"
+    ]
+  },
+  {
+    "id": "c1-003",
+    "languageCode": "es",
+    "word": "esbozar",
+    "definition": "to sketch, to outline",
+    "exampleSentence": "El ponente esbozó las líneas generales del proyecto.",
+    "cefrLevel": "C1",
+    "category": "Academic",
+    "synonyms": [
+      "bosquejar",
+      "perfilar"
+    ]
+  },
+  {
+    "id": "c1-004",
+    "languageCode": "es",
+    "word": "acentuar",
+    "definition": "to accentuate, to intensify",
+    "exampleSentence": "La crisis acentuó las diferencias entre regiones.",
+    "cefrLevel": "C1",
+    "category": "Society",
+    "synonyms": [
+      "intensificar",
+      "agravar"
+    ]
+  },
+  {
+    "id": "c1-005",
+    "languageCode": "es",
+    "word": "atenuar",
+    "definition": "to mitigate, to soften",
+    "exampleSentence": "Las medidas buscan atenuar el impacto económico.",
+    "cefrLevel": "C1",
+    "category": "Politics",
+    "synonyms": [
+      "mitigar",
+      "suavizar"
+    ]
+  },
+  {
+    "id": "c1-006",
+    "languageCode": "es",
+    "word": "menguar",
+    "definition": "to diminish, to wane",
+    "exampleSentence": "Su entusiasmo inicial empezó a menguar con el tiempo.",
+    "cefrLevel": "C1",
+    "category": "Emotions",
+    "synonyms": [
+      "disminuir",
+      "decrecer"
+    ]
+  },
+  {
+    "id": "c1-007",
+    "languageCode": "es",
+    "word": "incrementar",
+    "definition": "to increase, to raise",
+    "exampleSentence": "El plan pretende incrementar la productividad.",
+    "cefrLevel": "C1",
+    "category": "Business",
+    "synonyms": [
+      "aumentar",
+      "elevar"
+    ]
+  },
+  {
+    "id": "c1-008",
+    "languageCode": "es",
+    "word": "ponderar",
+    "definition": "to weigh up, to consider carefully",
+    "exampleSentence": "Conviene ponderar los riesgos antes de decidir.",
+    "cefrLevel": "C1",
+    "category": "Academic",
+    "synonyms": [
+      "sopesar",
+      "valorar"
+    ]
+  },
+  {
+    "id": "c1-009",
+    "languageCode": "es",
+    "word": "discrepar",
+    "definition": "to disagree, to differ",
+    "exampleSentence": "Los expertos discrepan sobre las causas del fenómeno.",
+    "cefrLevel": "C1",
+    "category": "Academic",
+    "synonyms": [
+      "disentir"
+    ]
+  },
+  {
+    "id": "c1-010",
+    "languageCode": "es",
+    "word": "matizar",
+    "definition": "to qualify, to add nuance to",
+    "exampleSentence": "El autor matiza sus afirmaciones en el segundo capítulo.",
+    "cefrLevel": "C1",
+    "category": "Academic",
+    "synonyms": [
+      "puntualizar",
+      "precisar"
+    ]
+  },
+  {
+    "id": "c1-011",
+    "languageCode": "es",
+    "word": "constatar",
+    "definition": "to verify, to confirm (a fact)",
+    "exampleSentence": "El estudio permitió constatar una mejora notable.",
+    "cefrLevel": "C1",
+    "category": "Science",
+    "synonyms": [
+      "comprobar",
+      "verificar"
+    ]
+  },
+  {
+    "id": "c1-012",
+    "languageCode": "es",
+    "word": "subrayar",
+    "definition": "to underline, to emphasise",
+    "exampleSentence": "El informe subraya la urgencia de actuar.",
+    "cefrLevel": "C1",
+    "category": "Academic",
+    "synonyms": [
+      "recalcar",
+      "resaltar"
+    ]
+  },
+  {
+    "id": "c1-013",
+    "languageCode": "es",
+    "word": "aludir",
+    "definition": "to allude, to refer to",
+    "exampleSentence": "El ministro aludió a la situación sin dar detalles.",
+    "cefrLevel": "C1",
+    "category": "Politics",
+    "synonyms": [
+      "mencionar",
+      "referirse"
+    ]
+  },
+  {
+    "id": "c1-014",
+    "languageCode": "es",
+    "word": "rehuir",
+    "definition": "to avoid, to shy away from",
+    "exampleSentence": "Rehuyó la pregunta más comprometida con elegancia.",
+    "cefrLevel": "C1",
+    "category": "Politics",
+    "synonyms": [
+      "eludir",
+      "evitar"
+    ]
+  },
+  {
+    "id": "c1-015",
+    "languageCode": "es",
+    "word": "eludir",
+    "definition": "to evade, to dodge",
+    "exampleSentence": "No se puede eludir la responsabilidad indefinidamente.",
+    "cefrLevel": "C1",
+    "category": "Law",
+    "synonyms": [
+      "evadir",
+      "esquivar"
+    ]
+  },
+  {
+    "id": "c1-016",
+    "languageCode": "es",
+    "word": "rebatir",
+    "definition": "to refute, to counter",
+    "exampleSentence": "El abogado supo rebatir todos los argumentos contrarios.",
+    "cefrLevel": "C1",
+    "category": "Law",
+    "synonyms": [
+      "refutar",
+      "contradecir"
+    ]
+  },
+  {
+    "id": "c1-017",
+    "languageCode": "es",
+    "word": "refutar",
+    "definition": "to refute, to disprove",
+    "exampleSentence": "Los datos refutan por completo aquella hipótesis.",
+    "cefrLevel": "C1",
+    "category": "Science",
+    "synonyms": [
+      "rebatir",
+      "desmentir"
+    ]
+  },
+  {
+    "id": "c1-018",
+    "languageCode": "es",
+    "word": "corroborar",
+    "definition": "to corroborate, to back up",
+    "exampleSentence": "Varios testigos corroboraron su versión de los hechos.",
+    "cefrLevel": "C1",
+    "category": "Law",
+    "synonyms": [
+      "confirmar",
+      "ratificar"
+    ]
+  },
+  {
+    "id": "c1-019",
+    "languageCode": "es",
+    "word": "discernir",
+    "definition": "to discern, to distinguish",
+    "exampleSentence": "Es difícil discernir lo esencial de lo accesorio.",
+    "cefrLevel": "C1",
+    "category": "Academic",
+    "synonyms": [
+      "distinguir",
+      "diferenciar"
+    ]
+  },
+  {
+    "id": "c1-020",
+    "languageCode": "es",
+    "word": "deslindar",
+    "definition": "to delimit, to separate clearly",
+    "exampleSentence": "Hay que deslindar las responsabilidades de cada parte.",
+    "cefrLevel": "C1",
+    "category": "Law",
+    "synonyms": [
+      "delimitar",
+      "separar"
+    ]
+  },
+  {
+    "id": "c1-021",
+    "languageCode": "es",
+    "word": "abordar",
+    "definition": "to tackle, to address (an issue)",
+    "exampleSentence": "El congreso abordará los retos de la educación.",
+    "cefrLevel": "C1",
+    "category": "Academic",
+    "synonyms": [
+      "tratar",
+      "afrontar"
+    ]
+  },
+  {
+    "id": "c1-022",
+    "languageCode": "es",
+    "word": "afianzar",
+    "definition": "to secure, to reinforce",
+    "exampleSentence": "El acuerdo sirvió para afianzar la alianza entre ambos.",
+    "cefrLevel": "C1",
+    "category": "Politics",
+    "synonyms": [
+      "consolidar",
+      "asegurar"
+    ]
+  },
+  {
+    "id": "c1-023",
+    "languageCode": "es",
+    "word": "propiciar",
+    "definition": "to foster, to bring about",
+    "exampleSentence": "El diálogo propició un clima de mayor confianza.",
+    "cefrLevel": "C1",
+    "category": "Politics",
+    "synonyms": [
+      "favorecer",
+      "facilitar"
+    ]
+  },
+  {
+    "id": "c1-024",
+    "languageCode": "es",
+    "word": "suscitar",
+    "definition": "to arouse, to provoke (interest/debate)",
+    "exampleSentence": "La propuesta suscitó un intenso debate público.",
+    "cefrLevel": "C1",
+    "category": "Society",
+    "synonyms": [
+      "provocar",
+      "generar"
+    ]
+  },
+  {
+    "id": "c1-025",
+    "languageCode": "es",
+    "word": "desencadenar",
+    "definition": "to trigger, to unleash",
+    "exampleSentence": "La noticia desencadenó una ola de protestas.",
+    "cefrLevel": "C1",
+    "category": "Politics",
+    "synonyms": [
+      "provocar",
+      "originar"
+    ]
+  },
+  {
+    "id": "c1-026",
+    "languageCode": "es",
+    "word": "paliar",
+    "definition": "to alleviate, to ease",
+    "exampleSentence": "El subsidio ayudó a paliar los efectos del paro.",
+    "cefrLevel": "C1",
+    "category": "Society",
+    "synonyms": [
+      "aliviar",
+      "mitigar"
+    ]
+  },
+  {
+    "id": "c1-027",
+    "languageCode": "es",
+    "word": "subsanar",
+    "definition": "to rectify, to put right",
+    "exampleSentence": "La empresa se comprometió a subsanar los errores.",
+    "cefrLevel": "C1",
+    "category": "Business",
+    "synonyms": [
+      "corregir",
+      "remediar"
+    ]
+  },
+  {
+    "id": "c1-028",
+    "languageCode": "es",
+    "word": "acatar",
+    "definition": "to abide by, to comply with",
+    "exampleSentence": "Todos deben acatar las decisiones del tribunal.",
+    "cefrLevel": "C1",
+    "category": "Law",
+    "synonyms": [
+      "obedecer",
+      "cumplir"
+    ]
+  },
+  {
+    "id": "c1-029",
+    "languageCode": "es",
+    "word": "vulnerar",
+    "definition": "to violate, to infringe",
+    "exampleSentence": "La medida vulnera derechos fundamentales.",
+    "cefrLevel": "C1",
+    "category": "Law",
+    "synonyms": [
+      "infringir",
+      "transgredir"
+    ]
+  },
+  {
+    "id": "c1-030",
+    "languageCode": "es",
+    "word": "incurrir",
+    "definition": "to incur, to fall into (error/offence)",
+    "exampleSentence": "El informe incurre en varias contradicciones.",
+    "cefrLevel": "C1",
+    "category": "Academic",
+    "synonyms": [
+      "cometer"
+    ]
+  },
+  {
+    "id": "c1-031",
+    "languageCode": "es",
+    "word": "entablar",
+    "definition": "to start, to strike up (a relationship/talks)",
+    "exampleSentence": "Las partes acordaron entablar negociaciones.",
+    "cefrLevel": "C1",
+    "category": "Politics",
+    "synonyms": [
+      "iniciar",
+      "establecer"
+    ]
+  },
+  {
+    "id": "c1-032",
+    "languageCode": "es",
+    "word": "deliberar",
+    "definition": "to deliberate",
+    "exampleSentence": "El jurado se retiró a deliberar durante horas.",
+    "cefrLevel": "C1",
+    "category": "Law",
+    "synonyms": [
+      "debatir",
+      "discutir"
+    ]
+  },
+  {
+    "id": "c1-033",
+    "languageCode": "es",
+    "word": "dictaminar",
+    "definition": "to rule, to give a verdict",
+    "exampleSentence": "El comité dictaminó a favor del demandante.",
+    "cefrLevel": "C1",
+    "category": "Law",
+    "synonyms": [
+      "sentenciar",
+      "resolver"
+    ]
+  },
+  {
+    "id": "c1-034",
+    "languageCode": "es",
+    "word": "promulgar",
+    "definition": "to enact, to promulgate (a law)",
+    "exampleSentence": "El parlamento promulgó la nueva normativa.",
+    "cefrLevel": "C1",
+    "category": "Law",
+    "synonyms": [
+      "aprobar",
+      "decretar"
+    ]
+  },
+  {
+    "id": "c1-035",
+    "languageCode": "es",
+    "word": "derogar",
+    "definition": "to repeal, to abolish",
+    "exampleSentence": "El gobierno decidió derogar la antigua ley.",
+    "cefrLevel": "C1",
+    "category": "Law",
+    "synonyms": [
+      "abolir",
+      "anular"
+    ]
+  },
+  {
+    "id": "c1-036",
+    "languageCode": "es",
+    "word": "índole",
+    "definition": "nature, kind, sort",
+    "exampleSentence": "Surgieron problemas de índole técnica.",
+    "cefrLevel": "C1",
+    "category": "Academic",
+    "synonyms": [
+      "naturaleza",
+      "tipo"
+    ]
+  },
+  {
+    "id": "c1-037",
+    "languageCode": "es",
+    "word": "envergadura",
+    "definition": "scale, scope, importance",
+    "exampleSentence": "Es un proyecto de gran envergadura.",
+    "cefrLevel": "C1",
+    "category": "Business",
+    "synonyms": [
+      "magnitud",
+      "alcance"
+    ]
+  },
+  {
+    "id": "c1-038",
+    "languageCode": "es",
+    "word": "alcance",
+    "definition": "reach, scope",
+    "exampleSentence": "Aún no se conoce el alcance real del problema.",
+    "cefrLevel": "C1",
+    "category": "Academic",
+    "synonyms": [
+      "extensión"
+    ]
+  },
+  {
+    "id": "c1-039",
+    "languageCode": "es",
+    "word": "vertiente",
+    "definition": "aspect, facet; slope",
+    "exampleSentence": "El asunto tiene una clara vertiente ética.",
+    "cefrLevel": "C1",
+    "category": "Academic",
+    "synonyms": [
+      "faceta",
+      "aspecto"
+    ]
+  },
+  {
+    "id": "c1-040",
+    "languageCode": "es",
+    "word": "matiz",
+    "definition": "nuance, shade of meaning",
+    "exampleSentence": "Cada palabra aporta un matiz distinto.",
+    "cefrLevel": "C1",
+    "category": "Arts",
+    "synonyms": [
+      "tono",
+      "sutileza"
+    ]
+  },
+  {
+    "id": "c1-041",
+    "languageCode": "es",
+    "word": "sesgo",
+    "definition": "bias; slant",
+    "exampleSentence": "El estudio presenta un evidente sesgo ideológico.",
+    "cefrLevel": "C1",
+    "category": "Academic",
+    "synonyms": [
+      "parcialidad",
+      "inclinación"
+    ]
+  },
+  {
+    "id": "c1-042",
+    "languageCode": "es",
+    "word": "premisa",
+    "definition": "premise",
+    "exampleSentence": "Su razonamiento parte de una premisa falsa.",
+    "cefrLevel": "C1",
+    "category": "Academic",
+    "synonyms": [
+      "supuesto"
+    ]
+  },
+  {
+    "id": "c1-043",
+    "languageCode": "es",
+    "word": "hipótesis",
+    "definition": "hypothesis",
+    "exampleSentence": "Los datos contradicen la hipótesis inicial.",
+    "cefrLevel": "C1",
+    "category": "Science",
+    "synonyms": [
+      "conjetura",
+      "suposición"
+    ]
+  },
+  {
+    "id": "c1-044",
+    "languageCode": "es",
+    "word": "paradigma",
+    "definition": "paradigm, model",
+    "exampleSentence": "El descubrimiento supuso un cambio de paradigma.",
+    "cefrLevel": "C1",
+    "category": "Science",
+    "synonyms": [
+      "modelo"
+    ]
+  },
+  {
+    "id": "c1-045",
+    "languageCode": "es",
+    "word": "índice",
+    "definition": "index, rate; table of contents",
+    "exampleSentence": "El índice de desempleo bajó ligeramente.",
+    "cefrLevel": "C1",
+    "category": "Finance",
+    "synonyms": [
+      "tasa"
+    ]
+  },
+  {
+    "id": "c1-046",
+    "languageCode": "es",
+    "word": "umbral",
+    "definition": "threshold",
+    "exampleSentence": "Muchas familias viven por debajo del umbral de la pobreza.",
+    "cefrLevel": "C1",
+    "category": "Society",
+    "synonyms": [
+      "límite"
+    ]
+  },
+  {
+    "id": "c1-047",
+    "languageCode": "es",
+    "word": "auge",
+    "definition": "boom, peak, height",
+    "exampleSentence": "El turismo vive un auge sin precedentes.",
+    "cefrLevel": "C1",
+    "category": "Finance",
+    "synonyms": [
+      "apogeo",
+      "esplendor"
+    ]
+  },
+  {
+    "id": "c1-048",
+    "languageCode": "es",
+    "word": "declive",
+    "definition": "decline, downturn",
+    "exampleSentence": "La industria entró en un lento declive.",
+    "cefrLevel": "C1",
+    "category": "Finance",
+    "synonyms": [
+      "decadencia",
+      "ocaso"
+    ]
+  },
+  {
+    "id": "c1-049",
+    "languageCode": "es",
+    "word": "estancamiento",
+    "definition": "stagnation, standstill",
+    "exampleSentence": "La economía sufre un preocupante estancamiento.",
+    "cefrLevel": "C1",
+    "category": "Finance",
+    "synonyms": [
+      "parálisis"
+    ]
+  },
+  {
+    "id": "c1-050",
+    "languageCode": "es",
+    "word": "incertidumbre",
+    "definition": "uncertainty",
+    "exampleSentence": "La incertidumbre política frena la inversión.",
+    "cefrLevel": "C1",
+    "category": "Politics",
+    "synonyms": [
+      "inseguridad"
+    ]
+  },
+  {
+    "id": "c1-051",
+    "languageCode": "es",
+    "word": "coyuntura",
+    "definition": "situation, juncture, set of circumstances",
+    "exampleSentence": "La actual coyuntura económica es delicada.",
+    "cefrLevel": "C1",
+    "category": "Finance",
+    "synonyms": [
+      "situación"
+    ]
+  },
+  {
+    "id": "c1-052",
+    "languageCode": "es",
+    "word": "repunte",
+    "definition": "upturn, rebound",
+    "exampleSentence": "Se observa un ligero repunte de las ventas.",
+    "cefrLevel": "C1",
+    "category": "Finance",
+    "synonyms": [
+      "recuperación",
+      "alza"
+    ]
+  },
+  {
+    "id": "c1-053",
+    "languageCode": "es",
+    "word": "solvencia",
+    "definition": "solvency; reliability",
+    "exampleSentence": "El banco evaluó la solvencia del cliente.",
+    "cefrLevel": "C1",
+    "category": "Finance",
+    "synonyms": [
+      "fiabilidad"
+    ]
+  },
+  {
+    "id": "c1-054",
+    "languageCode": "es",
+    "word": "rentabilidad",
+    "definition": "profitability, return",
+    "exampleSentence": "La rentabilidad del fondo superó las expectativas.",
+    "cefrLevel": "C1",
+    "category": "Finance",
+    "synonyms": [
+      "rendimiento"
+    ]
+  },
+  {
+    "id": "c1-055",
+    "languageCode": "es",
+    "word": "perspicaz",
+    "definition": "perceptive, shrewd",
+    "exampleSentence": "Es una analista perspicaz y muy bien informada.",
+    "cefrLevel": "C1",
+    "category": "Emotions",
+    "synonyms": [
+      "agudo",
+      "sagaz"
+    ]
+  },
+  {
+    "id": "c1-056",
+    "languageCode": "es",
+    "word": "tenaz",
+    "definition": "tenacious, persistent",
+    "exampleSentence": "Su carácter tenaz le permitió superar la adversidad.",
+    "cefrLevel": "C1",
+    "category": "Emotions",
+    "synonyms": [
+      "perseverante",
+      "constante"
+    ]
+  },
+  {
+    "id": "c1-057",
+    "languageCode": "es",
+    "word": "reticente",
+    "definition": "reluctant, reticent",
+    "exampleSentence": "Se mostró reticente a compartir los detalles.",
+    "cefrLevel": "C1",
+    "category": "Emotions",
+    "synonyms": [
+      "reacio",
+      "renuente"
+    ]
+  },
+  {
+    "id": "c1-058",
+    "languageCode": "es",
+    "word": "obstinado",
+    "definition": "obstinate, stubborn",
+    "exampleSentence": "Es tan obstinado que nunca admite un error.",
+    "cefrLevel": "C1",
+    "category": "Emotions",
+    "synonyms": [
+      "terco",
+      "testarudo"
+    ]
+  },
+  {
+    "id": "c1-059",
+    "languageCode": "es",
+    "word": "íntegro",
+    "definition": "honest, upright; whole",
+    "exampleSentence": "Todos lo consideran un profesional íntegro.",
+    "cefrLevel": "C1",
+    "category": "Emotions",
+    "synonyms": [
+      "honesto",
+      "recto"
+    ]
+  },
+  {
+    "id": "c1-060",
+    "languageCode": "es",
+    "word": "altruista",
+    "definition": "altruistic, selfless",
+    "exampleSentence": "Dedica su tiempo a causas altruistas.",
+    "cefrLevel": "C1",
+    "category": "Society",
+    "synonyms": [
+      "generoso",
+      "desinteresado"
+    ]
+  },
+  {
+    "id": "c1-061",
+    "languageCode": "es",
+    "word": "indiferente",
+    "definition": "indifferent, unconcerned",
+    "exampleSentence": "Permaneció indiferente ante las críticas.",
+    "cefrLevel": "C1",
+    "category": "Emotions",
+    "synonyms": [
+      "impasible",
+      "apático"
+    ]
+  },
+  {
+    "id": "c1-062",
+    "languageCode": "es",
+    "word": "susceptible",
+    "definition": "touchy; liable to",
+    "exampleSentence": "Es muy susceptible a cualquier comentario.",
+    "cefrLevel": "C1",
+    "category": "Emotions",
+    "synonyms": [
+      "sensible"
+    ]
+  },
+  {
+    "id": "c1-063",
+    "languageCode": "es",
+    "word": "arraigado",
+    "definition": "deep-rooted, ingrained",
+    "exampleSentence": "Es una costumbre profundamente arraigada en la región.",
+    "cefrLevel": "C1",
+    "category": "Culture",
+    "synonyms": [
+      "enraizado"
+    ]
+  },
+  {
+    "id": "c1-064",
+    "languageCode": "es",
+    "word": "imprescindible",
+    "definition": "essential, indispensable",
+    "exampleSentence": "Su colaboración fue imprescindible para el éxito.",
+    "cefrLevel": "C1",
+    "category": "Business",
+    "synonyms": [
+      "esencial",
+      "indispensable"
+    ]
+  },
+  {
+    "id": "c1-065",
+    "languageCode": "es",
+    "word": "controvertido",
+    "definition": "controversial",
+    "exampleSentence": "Tomó una decisión muy controvertida.",
+    "cefrLevel": "C1",
+    "category": "Politics",
+    "synonyms": [
+      "polémico",
+      "discutido"
+    ]
+  },
+  {
+    "id": "c1-066",
+    "languageCode": "es",
+    "word": "rotundo",
+    "definition": "categorical, resounding",
+    "exampleSentence": "Dio una respuesta rotunda y sin matices.",
+    "cefrLevel": "C1",
+    "category": "Society",
+    "synonyms": [
+      "tajante",
+      "categórico"
+    ]
+  },
+  {
+    "id": "c1-067",
+    "languageCode": "es",
+    "word": "ambiguo",
+    "definition": "ambiguous",
+    "exampleSentence": "Su declaración fue deliberadamente ambigua.",
+    "cefrLevel": "C1",
+    "category": "Academic",
+    "synonyms": [
+      "equívoco",
+      "impreciso"
+    ]
+  },
+  {
+    "id": "c1-068",
+    "languageCode": "es",
+    "word": "exhaustivo",
+    "definition": "exhaustive, thorough",
+    "exampleSentence": "Realizaron un análisis exhaustivo de los datos.",
+    "cefrLevel": "C1",
+    "category": "Academic",
+    "synonyms": [
+      "minucioso",
+      "completo"
+    ]
+  },
+  {
+    "id": "c1-069",
+    "languageCode": "es",
+    "word": "pertinente",
+    "definition": "relevant, pertinent",
+    "exampleSentence": "Hizo varias observaciones muy pertinentes.",
+    "cefrLevel": "C1",
+    "category": "Academic",
+    "synonyms": [
+      "oportuno",
+      "adecuado"
+    ]
+  },
+  {
+    "id": "c1-070",
+    "languageCode": "es",
+    "word": "verosímil",
+    "definition": "credible, plausible",
+    "exampleSentence": "La explicación resulta del todo verosímil.",
+    "cefrLevel": "C1",
+    "category": "Academic",
+    "synonyms": [
+      "creíble",
+      "plausible"
+    ]
+  },
+  {
+    "id": "c1-071",
+    "languageCode": "es",
+    "word": "endeble",
+    "definition": "flimsy, feeble",
+    "exampleSentence": "El argumento se apoya en bases endebles.",
+    "cefrLevel": "C1",
+    "category": "Academic",
+    "synonyms": [
+      "frágil",
+      "débil"
+    ]
+  },
+  {
+    "id": "c1-072",
+    "languageCode": "es",
+    "word": "sólido",
+    "definition": "solid, sound",
+    "exampleSentence": "Presentó una argumentación sólida y coherente.",
+    "cefrLevel": "C1",
+    "category": "Academic",
+    "synonyms": [
+      "firme",
+      "consistente"
+    ]
+  },
+  {
+    "id": "c1-073",
+    "languageCode": "es",
+    "word": "vigente",
+    "definition": "in force, current, valid",
+    "exampleSentence": "La normativa sigue vigente hasta nuevo aviso.",
+    "cefrLevel": "C1",
+    "category": "Law",
+    "synonyms": [
+      "válido",
+      "actual"
+    ]
+  },
+  {
+    "id": "c1-074",
+    "languageCode": "es",
+    "word": "inminente",
+    "definition": "imminent, impending",
+    "exampleSentence": "Se temía una crisis inminente.",
+    "cefrLevel": "C1",
+    "category": "Politics",
+    "synonyms": [
+      "próximo",
+      "cercano"
+    ]
+  },
+  {
+    "id": "c1-075",
+    "languageCode": "es",
+    "word": "paulatino",
+    "definition": "gradual",
+    "exampleSentence": "Se observa un cambio paulatino en los hábitos.",
+    "cefrLevel": "C1",
+    "category": "Society",
+    "synonyms": [
+      "progresivo",
+      "gradual"
+    ]
+  },
+  {
+    "id": "c1-076",
+    "languageCode": "es",
+    "word": "minucioso",
+    "definition": "meticulous, detailed",
+    "exampleSentence": "Llevó a cabo un trabajo minucioso y riguroso.",
+    "cefrLevel": "C1",
+    "category": "Academic",
+    "synonyms": [
+      "detallado",
+      "meticuloso"
+    ]
+  },
+  {
+    "id": "c1-077",
+    "languageCode": "es",
+    "word": "riguroso",
+    "definition": "rigorous, strict",
+    "exampleSentence": "Aplican un control de calidad muy riguroso.",
+    "cefrLevel": "C1",
+    "category": "Science",
+    "synonyms": [
+      "estricto",
+      "severo"
+    ]
+  },
+  {
+    "id": "c1-078",
+    "languageCode": "es",
+    "word": "índice de audiencia",
+    "definition": "audience rating",
+    "exampleSentence": "El programa lidera el índice de audiencia.",
+    "cefrLevel": "C1",
+    "category": "Arts",
+    "synonyms": []
+  },
+  {
+    "id": "c1-079",
+    "languageCode": "es",
+    "word": "trayectoria",
+    "definition": "career path, trajectory",
+    "exampleSentence": "Tiene una larga trayectoria en el periodismo.",
+    "cefrLevel": "C1",
+    "category": "Business",
+    "synonyms": [
+      "recorrido"
+    ]
+  },
+  {
+    "id": "c1-080",
+    "languageCode": "es",
+    "word": "cometido",
+    "definition": "task, remit, role",
+    "exampleSentence": "Cada miembro conoce bien su cometido.",
+    "cefrLevel": "C1",
+    "category": "Business",
+    "synonyms": [
+      "función",
+      "tarea"
+    ]
+  },
+  {
+    "id": "c1-081",
+    "languageCode": "es",
+    "word": "índole social",
+    "definition": "social nature",
+    "exampleSentence": "Se trata de un problema de índole social.",
+    "cefrLevel": "C1",
+    "category": "Society",
+    "synonyms": []
+  },
+  {
+    "id": "c1-082",
+    "languageCode": "es",
+    "word": "menoscabar",
+    "definition": "to undermine, to damage",
+    "exampleSentence": "Aquellas palabras menoscabaron su reputación.",
+    "cefrLevel": "C1",
+    "category": "Society",
+    "synonyms": [
+      "dañar",
+      "perjudicar"
+    ]
+  },
+  {
+    "id": "c1-083",
+    "languageCode": "es",
+    "word": "ensalzar",
+    "definition": "to praise, to extol",
+    "exampleSentence": "La prensa ensalzó la labor del equipo médico.",
+    "cefrLevel": "C1",
+    "category": "Society",
+    "synonyms": [
+      "elogiar",
+      "alabar"
+    ]
+  },
+  {
+    "id": "c1-084",
+    "languageCode": "es",
+    "word": "desprestigiar",
+    "definition": "to discredit",
+    "exampleSentence": "La campaña pretendía desprestigiar al rival.",
+    "cefrLevel": "C1",
+    "category": "Politics",
+    "synonyms": [
+      "difamar",
+      "desacreditar"
+    ]
+  },
+  {
+    "id": "c1-085",
+    "languageCode": "es",
+    "word": "reivindicar",
+    "definition": "to claim, to demand (rights)",
+    "exampleSentence": "Los trabajadores salieron a reivindicar sus derechos.",
+    "cefrLevel": "C1",
+    "category": "Politics",
+    "synonyms": [
+      "exigir",
+      "reclamar"
+    ]
+  },
+  {
+    "id": "c1-086",
+    "languageCode": "es",
+    "word": "consensuar",
+    "definition": "to reach a consensus on",
+    "exampleSentence": "Lograron consensuar una postura común.",
+    "cefrLevel": "C1",
+    "category": "Politics",
+    "synonyms": [
+      "acordar",
+      "pactar"
+    ]
+  },
+  {
+    "id": "c1-087",
+    "languageCode": "es",
+    "word": "delegar",
+    "definition": "to delegate",
+    "exampleSentence": "Un buen líder sabe delegar responsabilidades.",
+    "cefrLevel": "C1",
+    "category": "Business",
+    "synonyms": [
+      "encomendar"
+    ]
+  },
+  {
+    "id": "c1-088",
+    "languageCode": "es",
+    "word": "supervisar",
+    "definition": "to supervise, to oversee",
+    "exampleSentence": "Se encarga de supervisar todo el proceso.",
+    "cefrLevel": "C1",
+    "category": "Business",
+    "synonyms": [
+      "controlar",
+      "vigilar"
+    ]
+  },
+  {
+    "id": "c1-089",
+    "languageCode": "es",
+    "word": "optimizar",
+    "definition": "to optimise",
+    "exampleSentence": "El software ayuda a optimizar los recursos disponibles.",
+    "cefrLevel": "C1",
+    "category": "Technology",
+    "synonyms": [
+      "mejorar",
+      "rentabilizar"
+    ]
+  },
+  {
+    "id": "c1-090",
+    "languageCode": "es",
+    "word": "depurar",
+    "definition": "to refine, to debug, to purge",
+    "exampleSentence": "Tardaron semanas en depurar el sistema.",
+    "cefrLevel": "C1",
+    "category": "Technology",
+    "synonyms": [
+      "pulir",
+      "refinar"
+    ]
+  },
+  {
+    "id": "c1-091",
+    "languageCode": "es",
+    "word": "implementar",
+    "definition": "to implement",
+    "exampleSentence": "La empresa decidió implementar nuevas políticas.",
+    "cefrLevel": "C1",
+    "category": "Business",
+    "synonyms": [
+      "aplicar",
+      "ejecutar"
+    ]
+  },
+  {
+    "id": "c1-092",
+    "languageCode": "es",
+    "word": "desplegar",
+    "definition": "to deploy, to unfold",
+    "exampleSentence": "El ejército desplegó tropas en la frontera.",
+    "cefrLevel": "C1",
+    "category": "Politics",
+    "synonyms": [
+      "extender"
+    ]
+  },
+  {
+    "id": "c1-093",
+    "languageCode": "es",
+    "word": "vanguardia",
+    "definition": "forefront, avant-garde",
+    "exampleSentence": "El laboratorio está a la vanguardia de la investigación.",
+    "cefrLevel": "C1",
+    "category": "Science",
+    "synonyms": [
+      "avanzada"
+    ]
+  },
+  {
+    "id": "c1-094",
+    "languageCode": "es",
+    "word": "indagar",
+    "definition": "to investigate, to inquire",
+    "exampleSentence": "La comisión indagará las causas del incidente.",
+    "cefrLevel": "C1",
+    "category": "Law",
+    "synonyms": [
+      "investigar",
+      "averiguar"
+    ]
+  },
+  {
+    "id": "c1-095",
+    "languageCode": "es",
+    "word": "esgrimir",
+    "definition": "to put forward, to wield (an argument)",
+    "exampleSentence": "Esgrimió razones de peso para justificar su decisión.",
+    "cefrLevel": "C1",
+    "category": "Law",
+    "synonyms": [
+      "alegar",
+      "argüir"
+    ]
+  },
+  {
+    "id": "c1-096",
+    "languageCode": "es",
+    "word": "acaecer",
+    "definition": "to occur, to happen (formal)",
+    "exampleSentence": "Los hechos acaecieron durante la madrugada.",
+    "cefrLevel": "C1",
+    "category": "Law",
+    "synonyms": [
+      "suceder",
+      "ocurrir"
+    ]
+  },
+  {
+    "id": "c1-097",
+    "languageCode": "es",
+    "word": "perdurar",
+    "definition": "to endure, to last",
+    "exampleSentence": "Su legado perdura hasta nuestros días.",
+    "cefrLevel": "C1",
+    "category": "Culture",
+    "synonyms": [
+      "permanecer",
+      "subsistir"
+    ]
+  },
+  {
+    "id": "c1-098",
+    "languageCode": "es",
+    "word": "forjar",
+    "definition": "to forge, to build (a future/character)",
+    "exampleSentence": "Supo forjar una carrera brillante con esfuerzo.",
+    "cefrLevel": "C1",
+    "category": "Society",
+    "synonyms": [
+      "construir",
+      "crear"
+    ]
+  },
+  {
+    "id": "c1-099",
+    "languageCode": "es",
+    "word": "índole íntima",
+    "definition": "intimate / private nature",
+    "exampleSentence": "Prefirió no hablar de asuntos de índole íntima.",
+    "cefrLevel": "C1",
+    "category": "Emotions",
+    "synonyms": []
+  },
+  {
+    "id": "c1-100",
+    "languageCode": "es",
+    "word": "recelo",
+    "definition": "suspicion, mistrust",
+    "exampleSentence": "Lo recibieron con cierto recelo al principio.",
+    "cefrLevel": "C1",
+    "category": "Emotions",
+    "synonyms": [
+      "desconfianza",
+      "sospecha"
+    ]
+  },
+  {
+    "id": "c1-101",
+    "languageCode": "es",
+    "word": "desdén",
+    "definition": "disdain, contempt",
+    "exampleSentence": "Trató la propuesta con absoluto desdén.",
+    "cefrLevel": "C1",
+    "category": "Emotions",
+    "synonyms": [
+      "desprecio",
+      "menosprecio"
+    ]
+  },
+  {
+    "id": "c1-102",
+    "languageCode": "es",
+    "word": "nostalgia",
+    "definition": "nostalgia, longing",
+    "exampleSentence": "Recordaba su infancia con cierta nostalgia.",
+    "cefrLevel": "C1",
+    "category": "Emotions",
+    "synonyms": [
+      "añoranza",
+      "melancolía"
+    ]
+  },
+  {
+    "id": "c1-103",
+    "languageCode": "es",
+    "word": "euforia",
+    "definition": "euphoria, elation",
+    "exampleSentence": "La victoria desató la euforia entre los aficionados.",
+    "cefrLevel": "C1",
+    "category": "Emotions",
+    "synonyms": [
+      "júbilo",
+      "entusiasmo"
+    ]
+  },
+  {
+    "id": "c1-104",
+    "languageCode": "es",
+    "word": "resiliencia",
+    "definition": "resilience",
+    "exampleSentence": "Demostró una enorme resiliencia ante la adversidad.",
+    "cefrLevel": "C1",
+    "category": "Health",
+    "synonyms": [
+      "fortaleza",
+      "entereza"
+    ]
+  },
+  {
+    "id": "c1-105",
+    "languageCode": "es",
+    "word": "agotamiento",
+    "definition": "exhaustion, depletion",
+    "exampleSentence": "El agotamiento físico le obligó a descansar.",
+    "cefrLevel": "C1",
+    "category": "Health",
+    "synonyms": [
+      "cansancio",
+      "fatiga"
+    ]
+  },
+  {
+    "id": "c1-106",
+    "languageCode": "es",
+    "word": "dolencia",
+    "definition": "ailment, complaint",
+    "exampleSentence": "Sufre una dolencia crónica desde hace años.",
+    "cefrLevel": "C1",
+    "category": "Health",
+    "synonyms": [
+      "afección",
+      "enfermedad"
+    ]
+  },
+  {
+    "id": "c1-107",
+    "languageCode": "es",
+    "word": "secuela",
+    "definition": "after-effect, sequel",
+    "exampleSentence": "El accidente le dejó secuelas permanentes.",
+    "cefrLevel": "C1",
+    "category": "Health",
+    "synonyms": [
+      "consecuencia"
+    ]
+  },
+  {
+    "id": "c1-108",
+    "languageCode": "es",
+    "word": "propenso",
+    "definition": "prone, liable",
+    "exampleSentence": "Es propenso a sufrir resfriados en invierno.",
+    "cefrLevel": "C1",
+    "category": "Health",
+    "synonyms": [
+      "proclive",
+      "predispuesto"
+    ]
+  },
+  {
+    "id": "c1-109",
+    "languageCode": "es",
+    "word": "sedentario",
+    "definition": "sedentary",
+    "exampleSentence": "Un estilo de vida sedentario perjudica la salud.",
+    "cefrLevel": "C1",
+    "category": "Health",
+    "synonyms": []
+  },
+  {
+    "id": "c1-110",
+    "languageCode": "es",
+    "word": "biodiversidad",
+    "definition": "biodiversity",
+    "exampleSentence": "La selva alberga una enorme biodiversidad.",
+    "cefrLevel": "C1",
+    "category": "Environment",
+    "synonyms": []
+  },
+  {
+    "id": "c1-111",
+    "languageCode": "es",
+    "word": "ecosistema",
+    "definition": "ecosystem",
+    "exampleSentence": "La contaminación amenaza todo el ecosistema marino.",
+    "cefrLevel": "C1",
+    "category": "Environment",
+    "synonyms": []
+  },
+  {
+    "id": "c1-112",
+    "languageCode": "es",
+    "word": "deforestación",
+    "definition": "deforestation",
+    "exampleSentence": "La deforestación avanza a un ritmo alarmante.",
+    "cefrLevel": "C1",
+    "category": "Environment",
+    "synonyms": []
+  },
+  {
+    "id": "c1-113",
+    "languageCode": "es",
+    "word": "vertido",
+    "definition": "spill, discharge",
+    "exampleSentence": "El vertido de petróleo afectó a toda la costa.",
+    "cefrLevel": "C1",
+    "category": "Environment",
+    "synonyms": [
+      "derrame"
+    ]
+  },
+  {
+    "id": "c1-114",
+    "languageCode": "es",
+    "word": "huella",
+    "definition": "footprint, mark, trace",
+    "exampleSentence": "Cada uno puede reducir su huella de carbono.",
+    "cefrLevel": "C1",
+    "category": "Environment",
+    "synonyms": [
+      "rastro",
+      "marca"
+    ]
+  },
+  {
+    "id": "c1-115",
+    "languageCode": "es",
+    "word": "yacimiento",
+    "definition": "deposit, site (mineral/archaeological)",
+    "exampleSentence": "Descubrieron un importante yacimiento arqueológico.",
+    "cefrLevel": "C1",
+    "category": "Science",
+    "synonyms": [
+      "mina"
+    ]
+  },
+  {
+    "id": "c1-116",
+    "languageCode": "es",
+    "word": "legado",
+    "definition": "legacy",
+    "exampleSentence": "Su legado artístico sigue influyendo hoy.",
+    "cefrLevel": "C1",
+    "category": "Culture",
+    "synonyms": [
+      "herencia"
+    ]
+  },
+  {
+    "id": "c1-117",
+    "languageCode": "es",
+    "word": "acervo",
+    "definition": "heritage, body (of knowledge/works)",
+    "exampleSentence": "El museo conserva un valioso acervo cultural.",
+    "cefrLevel": "C1",
+    "category": "Culture",
+    "synonyms": [
+      "patrimonio",
+      "conjunto"
+    ]
+  },
+  {
+    "id": "c1-118",
+    "languageCode": "es",
+    "word": "mecenas",
+    "definition": "patron, sponsor",
+    "exampleSentence": "El artista contó con el apoyo de un generoso mecenas.",
+    "cefrLevel": "C1",
+    "category": "Arts",
+    "synonyms": [
+      "patrocinador",
+      "benefactor"
+    ]
+  },
+  {
+    "id": "c1-119",
+    "languageCode": "es",
+    "word": "narrativa",
+    "definition": "narrative",
+    "exampleSentence": "La novela destaca por su cuidada narrativa.",
+    "cefrLevel": "C1",
+    "category": "Arts",
+    "synonyms": [
+      "relato"
+    ]
+  },
+  {
+    "id": "c1-120",
+    "languageCode": "es",
+    "word": "estética",
+    "definition": "aesthetics; aesthetic (adj.)",
+    "exampleSentence": "La película apuesta por una estética minimalista.",
+    "cefrLevel": "C1",
+    "category": "Arts",
+    "synonyms": []
+  },
+  {
+    "id": "c1-121",
+    "languageCode": "es",
+    "word": "acotar",
+    "definition": "to delimit, to narrow down",
+    "exampleSentence": "Conviene acotar bien el alcance del estudio.",
+    "cefrLevel": "C1",
+    "category": "Academic",
+    "synonyms": [
+      "delimitar",
+      "restringir"
+    ]
+  },
+  {
+    "id": "c1-122",
+    "languageCode": "es",
+    "word": "cotejar",
+    "definition": "to compare, to collate",
+    "exampleSentence": "Cotejaron las dos versiones para hallar diferencias.",
+    "cefrLevel": "C1",
+    "category": "Academic",
+    "synonyms": [
+      "comparar",
+      "contrastar"
+    ]
+  },
+  {
+    "id": "c1-123",
+    "languageCode": "es",
+    "word": "dilatar",
+    "definition": "to prolong, to delay; to dilate",
+    "exampleSentence": "No conviene dilatar más la decisión.",
+    "cefrLevel": "C1",
+    "category": "Business",
+    "synonyms": [
+      "retrasar",
+      "prolongar"
+    ]
+  },
+  {
+    "id": "c1-124",
+    "languageCode": "es",
+    "word": "tajante",
+    "definition": "categorical, emphatic, blunt",
+    "exampleSentence": "Dio una negativa tajante, sin lugar a réplica.",
+    "cefrLevel": "C1",
+    "category": "Society",
+    "synonyms": [
+      "rotundo",
+      "categórico"
+    ]
+  },
+  {
+    "id": "c2-001",
+    "languageCode": "es",
+    "word": "diáfano",
+    "definition": "crystal-clear, transparent, limpid",
+    "exampleSentence": "Ofreció una explicación diáfana, sin la menor ambigüedad.",
+    "cefrLevel": "C2",
+    "category": "Academic",
+    "synonyms": [
+      "nítido",
+      "claro"
+    ]
+  },
+  {
+    "id": "c2-002",
+    "languageCode": "es",
+    "word": "prístino",
+    "definition": "pristine, untouched, original",
+    "exampleSentence": "El valle conserva su belleza prístina.",
+    "cefrLevel": "C2",
+    "category": "Environment",
+    "synonyms": [
+      "puro",
+      "intacto"
+    ]
+  },
+  {
+    "id": "c2-003",
+    "languageCode": "es",
+    "word": "inefable",
+    "definition": "ineffable, indescribable",
+    "exampleSentence": "Sintió una alegría inefable al volver a casa.",
+    "cefrLevel": "C2",
+    "category": "Emotions",
+    "synonyms": [
+      "indescriptible",
+      "inenarrable"
+    ]
+  },
+  {
+    "id": "c2-004",
+    "languageCode": "es",
+    "word": "efímero",
+    "definition": "ephemeral, fleeting",
+    "exampleSentence": "La fama suele ser tan efímera como intensa.",
+    "cefrLevel": "C2",
+    "category": "Culture",
+    "synonyms": [
+      "fugaz",
+      "pasajero"
+    ]
+  },
+  {
+    "id": "c2-005",
+    "languageCode": "es",
+    "word": "perenne",
+    "definition": "perennial, everlasting",
+    "exampleSentence": "Su obra goza de una vigencia perenne.",
+    "cefrLevel": "C2",
+    "category": "Culture",
+    "synonyms": [
+      "perpetuo",
+      "imperecedero"
+    ]
+  },
+  {
+    "id": "c2-006",
+    "languageCode": "es",
+    "word": "sucinto",
+    "definition": "succinct, concise",
+    "exampleSentence": "Redactó un informe sucinto pero completo.",
+    "cefrLevel": "C2",
+    "category": "Academic",
+    "synonyms": [
+      "conciso",
+      "breve"
+    ]
+  },
+  {
+    "id": "c2-007",
+    "languageCode": "es",
+    "word": "prolijo",
+    "definition": "long-winded; overly detailed",
+    "exampleSentence": "El discurso resultó prolijo y algo tedioso.",
+    "cefrLevel": "C2",
+    "category": "Academic",
+    "synonyms": [
+      "extenso",
+      "farragoso"
+    ]
+  },
+  {
+    "id": "c2-008",
+    "languageCode": "es",
+    "word": "escueto",
+    "definition": "terse, brief, plain",
+    "exampleSentence": "Su respuesta fue escueta y tajante.",
+    "cefrLevel": "C2",
+    "category": "Society",
+    "synonyms": [
+      "conciso",
+      "parco"
+    ]
+  },
+  {
+    "id": "c2-009",
+    "languageCode": "es",
+    "word": "contundente",
+    "definition": "forceful, conclusive, emphatic",
+    "exampleSentence": "Aportó pruebas contundentes ante el tribunal.",
+    "cefrLevel": "C2",
+    "category": "Law",
+    "synonyms": [
+      "rotundo",
+      "concluyente"
+    ]
+  },
+  {
+    "id": "c2-010",
+    "languageCode": "es",
+    "word": "fehaciente",
+    "definition": "irrefutable, reliable (proof)",
+    "exampleSentence": "Presentó un documento fehaciente de la transacción.",
+    "cefrLevel": "C2",
+    "category": "Law",
+    "synonyms": [
+      "irrefutable",
+      "fidedigno"
+    ]
+  },
+  {
+    "id": "c2-011",
+    "languageCode": "es",
+    "word": "consabido",
+    "definition": "well-known, usual, aforementioned",
+    "exampleSentence": "Terminó con el consabido agradecimiento al público.",
+    "cefrLevel": "C2",
+    "category": "Society",
+    "synonyms": [
+      "acostumbrado",
+      "habitual"
+    ]
+  },
+  {
+    "id": "c2-012",
+    "languageCode": "es",
+    "word": "inveterado",
+    "definition": "inveterate, deep-rooted, long-standing",
+    "exampleSentence": "Tenía la inveterada costumbre de madrugar.",
+    "cefrLevel": "C2",
+    "category": "Culture",
+    "synonyms": [
+      "arraigado",
+      "crónico"
+    ]
+  },
+  {
+    "id": "c2-013",
+    "languageCode": "es",
+    "word": "perentorio",
+    "definition": "urgent, peremptory, pressing",
+    "exampleSentence": "El plazo perentorio no admitía demoras.",
+    "cefrLevel": "C2",
+    "category": "Law",
+    "synonyms": [
+      "urgente",
+      "apremiante"
+    ]
+  },
+  {
+    "id": "c2-014",
+    "languageCode": "es",
+    "word": "exiguo",
+    "definition": "meagre, scanty",
+    "exampleSentence": "Disponían de un presupuesto exiguo para la obra.",
+    "cefrLevel": "C2",
+    "category": "Finance",
+    "synonyms": [
+      "escaso",
+      "insuficiente"
+    ]
+  },
+  {
+    "id": "c2-015",
+    "languageCode": "es",
+    "word": "ingente",
+    "definition": "huge, enormous",
+    "exampleSentence": "Reunir el archivo exigió un esfuerzo ingente.",
+    "cefrLevel": "C2",
+    "category": "Academic",
+    "synonyms": [
+      "enorme",
+      "colosal"
+    ]
+  },
+  {
+    "id": "c2-016",
+    "languageCode": "es",
+    "word": "ínfimo",
+    "definition": "minimal, lowest, negligible",
+    "exampleSentence": "La diferencia entre ambos resultados es ínfima.",
+    "cefrLevel": "C2",
+    "category": "Science",
+    "synonyms": [
+      "mínimo",
+      "insignificante"
+    ]
+  },
+  {
+    "id": "c2-017",
+    "languageCode": "es",
+    "word": "magno",
+    "definition": "great, grand",
+    "exampleSentence": "Organizaron un magno acto conmemorativo.",
+    "cefrLevel": "C2",
+    "category": "Culture",
+    "synonyms": [
+      "grandioso",
+      "ilustre"
+    ]
+  },
+  {
+    "id": "c2-018",
+    "languageCode": "es",
+    "word": "soslayo",
+    "definition": "sideways glance (de soslayo: sidelong)",
+    "exampleSentence": "Lo miró de soslayo, sin atreverse a hablar.",
+    "cefrLevel": "C2",
+    "category": "Emotions",
+    "synonyms": [
+      "reojo"
+    ]
+  },
+  {
+    "id": "c2-019",
+    "languageCode": "es",
+    "word": "atisbo",
+    "definition": "hint, glimmer, trace",
+    "exampleSentence": "No había en su rostro el menor atisbo de duda.",
+    "cefrLevel": "C2",
+    "category": "Emotions",
+    "synonyms": [
+      "indicio",
+      "vestigio"
+    ]
+  },
+  {
+    "id": "c2-020",
+    "languageCode": "es",
+    "word": "vestigio",
+    "definition": "vestige, remnant, trace",
+    "exampleSentence": "Solo quedan vestigios de la antigua muralla.",
+    "cefrLevel": "C2",
+    "category": "Culture",
+    "synonyms": [
+      "resto",
+      "huella"
+    ]
+  },
+  {
+    "id": "c2-021",
+    "languageCode": "es",
+    "word": "quimera",
+    "definition": "pipe dream, chimera",
+    "exampleSentence": "La paz perpetua le parecía una quimera.",
+    "cefrLevel": "C2",
+    "category": "Politics",
+    "synonyms": [
+      "ilusión",
+      "utopía"
+    ]
+  },
+  {
+    "id": "c2-022",
+    "languageCode": "es",
+    "word": "utopía",
+    "definition": "utopia",
+    "exampleSentence": "Aquella sociedad ideal era una pura utopía.",
+    "cefrLevel": "C2",
+    "category": "Politics",
+    "synonyms": [
+      "ideal",
+      "quimera"
+    ]
+  },
+  {
+    "id": "c2-023",
+    "languageCode": "es",
+    "word": "albedrío",
+    "definition": "free will, discretion",
+    "exampleSentence": "Actuó por su libre albedrío, sin presiones.",
+    "cefrLevel": "C2",
+    "category": "Society",
+    "synonyms": [
+      "voluntad",
+      "arbitrio"
+    ]
+  },
+  {
+    "id": "c2-024",
+    "languageCode": "es",
+    "word": "idiosincrasia",
+    "definition": "idiosyncrasy, distinctive character",
+    "exampleSentence": "El humor forma parte de la idiosincrasia del país.",
+    "cefrLevel": "C2",
+    "category": "Culture",
+    "synonyms": [
+      "carácter",
+      "identidad"
+    ]
+  },
+  {
+    "id": "c2-025",
+    "languageCode": "es",
+    "word": "menester",
+    "definition": "need, necessity; task",
+    "exampleSentence": "Es menester revisar el contrato antes de firmarlo.",
+    "cefrLevel": "C2",
+    "category": "Law",
+    "synonyms": [
+      "necesidad",
+      "precisión"
+    ]
+  },
+  {
+    "id": "c2-026",
+    "languageCode": "es",
+    "word": "óbice",
+    "definition": "obstacle, impediment",
+    "exampleSentence": "La distancia no fue óbice para mantener la amistad.",
+    "cefrLevel": "C2",
+    "category": "Society",
+    "synonyms": [
+      "impedimento",
+      "obstáculo"
+    ]
+  },
+  {
+    "id": "c2-027",
+    "languageCode": "es",
+    "word": "menoscabo",
+    "definition": "detriment, impairment",
+    "exampleSentence": "Defendió sus ideas sin menoscabo de las ajenas.",
+    "cefrLevel": "C2",
+    "category": "Law",
+    "synonyms": [
+      "perjuicio",
+      "daño"
+    ]
+  },
+  {
+    "id": "c2-028",
+    "languageCode": "es",
+    "word": "salvedad",
+    "definition": "proviso, reservation, exception",
+    "exampleSentence": "Aceptó el plan con una única salvedad.",
+    "cefrLevel": "C2",
+    "category": "Law",
+    "synonyms": [
+      "excepción",
+      "reserva"
+    ]
+  },
+  {
+    "id": "c2-029",
+    "languageCode": "es",
+    "word": "cariz",
+    "definition": "look, aspect (that a situation takes on)",
+    "exampleSentence": "El conflicto tomó un cariz preocupante.",
+    "cefrLevel": "C2",
+    "category": "Politics",
+    "synonyms": [
+      "aspecto",
+      "sesgo"
+    ]
+  },
+  {
+    "id": "c2-030",
+    "languageCode": "es",
+    "word": "tesitura",
+    "definition": "situation, frame of mind, predicament",
+    "exampleSentence": "En aquella difícil tesitura, optó por callar.",
+    "cefrLevel": "C2",
+    "category": "Society",
+    "synonyms": [
+      "situación",
+      "coyuntura"
+    ]
+  },
+  {
+    "id": "c2-031",
+    "languageCode": "es",
+    "word": "albur",
+    "definition": "chance, risk, hazard",
+    "exampleSentence": "Dejó su futuro al albur de una sola decisión.",
+    "cefrLevel": "C2",
+    "category": "Society",
+    "synonyms": [
+      "azar",
+      "riesgo"
+    ]
+  },
+  {
+    "id": "c2-032",
+    "languageCode": "es",
+    "word": "ardid",
+    "definition": "ruse, scheme, trick",
+    "exampleSentence": "Descubrieron el ardid antes de que surtiera efecto.",
+    "cefrLevel": "C2",
+    "category": "Law",
+    "synonyms": [
+      "artimaña",
+      "treta"
+    ]
+  },
+  {
+    "id": "c2-033",
+    "languageCode": "es",
+    "word": "subterfugio",
+    "definition": "subterfuge, evasion",
+    "exampleSentence": "Recurrió a un subterfugio para eludir la pregunta.",
+    "cefrLevel": "C2",
+    "category": "Politics",
+    "synonyms": [
+      "evasiva",
+      "pretexto"
+    ]
+  },
+  {
+    "id": "c2-034",
+    "languageCode": "es",
+    "word": "argucia",
+    "definition": "sophistry, cunning trick",
+    "exampleSentence": "Sus argucias legales retrasaron el juicio.",
+    "cefrLevel": "C2",
+    "category": "Law",
+    "synonyms": [
+      "sofisma",
+      "astucia"
+    ]
+  },
+  {
+    "id": "c2-035",
+    "languageCode": "es",
+    "word": "connivencia",
+    "definition": "collusion, connivance",
+    "exampleSentence": "Actuaron en connivencia con las autoridades locales.",
+    "cefrLevel": "C2",
+    "category": "Politics",
+    "synonyms": [
+      "complicidad",
+      "confabulación"
+    ]
+  },
+  {
+    "id": "c2-036",
+    "languageCode": "es",
+    "word": "fehaciencia",
+    "definition": "reliability, authenticity (of proof)",
+    "exampleSentence": "La fehaciencia del documento quedó acreditada.",
+    "cefrLevel": "C2",
+    "category": "Law",
+    "synonyms": [
+      "autenticidad"
+    ]
+  },
+  {
+    "id": "c2-037",
+    "languageCode": "es",
+    "word": "ecuánime",
+    "definition": "even-handed, impartial, level-headed",
+    "exampleSentence": "El árbitro se mostró ecuánime en todo momento.",
+    "cefrLevel": "C2",
+    "category": "Law",
+    "synonyms": [
+      "imparcial",
+      "sereno"
+    ]
+  },
+  {
+    "id": "c2-038",
+    "languageCode": "es",
+    "word": "displicente",
+    "definition": "offhand, disdainful",
+    "exampleSentence": "Respondió con un tono displicente y altivo.",
+    "cefrLevel": "C2",
+    "category": "Emotions",
+    "synonyms": [
+      "desdeñoso",
+      "indiferente"
+    ]
+  },
+  {
+    "id": "c2-039",
+    "languageCode": "es",
+    "word": "altanero",
+    "definition": "haughty, arrogant",
+    "exampleSentence": "Su gesto altanero molestó a los presentes.",
+    "cefrLevel": "C2",
+    "category": "Emotions",
+    "synonyms": [
+      "soberbio",
+      "altivo"
+    ]
+  },
+  {
+    "id": "c2-040",
+    "languageCode": "es",
+    "word": "pusilánime",
+    "definition": "faint-hearted, cowardly",
+    "exampleSentence": "No fue pusilánime: defendió su postura con firmeza.",
+    "cefrLevel": "C2",
+    "category": "Emotions",
+    "synonyms": [
+      "cobarde",
+      "timorato"
+    ]
+  },
+  {
+    "id": "c2-041",
+    "languageCode": "es",
+    "word": "magnánimo",
+    "definition": "magnanimous, generous in spirit",
+    "exampleSentence": "Se mostró magnánimo con sus adversarios.",
+    "cefrLevel": "C2",
+    "category": "Emotions",
+    "synonyms": [
+      "generoso",
+      "noble"
+    ]
+  },
+  {
+    "id": "c2-042",
+    "languageCode": "es",
+    "word": "sagaz",
+    "definition": "shrewd, astute",
+    "exampleSentence": "Una observadora sagaz no pasaría por alto ese detalle.",
+    "cefrLevel": "C2",
+    "category": "Emotions",
+    "synonyms": [
+      "perspicaz",
+      "astuto"
+    ]
+  },
+  {
+    "id": "c2-043",
+    "languageCode": "es",
+    "word": "taciturno",
+    "definition": "taciturn, sullen, withdrawn",
+    "exampleSentence": "Desde la noticia, se volvió huraño y taciturno.",
+    "cefrLevel": "C2",
+    "category": "Emotions",
+    "synonyms": [
+      "callado",
+      "reservado"
+    ]
+  },
+  {
+    "id": "c2-044",
+    "languageCode": "es",
+    "word": "locuaz",
+    "definition": "talkative, loquacious",
+    "exampleSentence": "El invitado, muy locuaz, animó la tertulia.",
+    "cefrLevel": "C2",
+    "category": "Emotions",
+    "synonyms": [
+      "parlanchín",
+      "elocuente"
+    ]
+  },
+  {
+    "id": "c2-045",
+    "languageCode": "es",
+    "word": "veleidoso",
+    "definition": "fickle, capricious",
+    "exampleSentence": "Su carácter veleidoso le impedía mantener un plan.",
+    "cefrLevel": "C2",
+    "category": "Emotions",
+    "synonyms": [
+      "voluble",
+      "inconstante"
+    ]
+  },
+  {
+    "id": "c2-046",
+    "languageCode": "es",
+    "word": "denodado",
+    "definition": "valiant, dauntless, strenuous",
+    "exampleSentence": "Hizo un esfuerzo denodado por terminar a tiempo.",
+    "cefrLevel": "C2",
+    "category": "Society",
+    "synonyms": [
+      "valeroso",
+      "esforzado"
+    ]
+  },
+  {
+    "id": "c2-047",
+    "languageCode": "es",
+    "word": "abnegado",
+    "definition": "self-sacrificing, selfless",
+    "exampleSentence": "Recordaron la abnegada labor del personal sanitario.",
+    "cefrLevel": "C2",
+    "category": "Health",
+    "synonyms": [
+      "altruista",
+      "entregado"
+    ]
+  },
+  {
+    "id": "c2-048",
+    "languageCode": "es",
+    "word": "impávido",
+    "definition": "unflinching, fearless, impassive",
+    "exampleSentence": "Permaneció impávido ante la amenaza.",
+    "cefrLevel": "C2",
+    "category": "Emotions",
+    "synonyms": [
+      "imperturbable",
+      "sereno"
+    ]
+  },
+  {
+    "id": "c2-049",
+    "languageCode": "es",
+    "word": "indómito",
+    "definition": "indomitable, untamed",
+    "exampleSentence": "Conservó hasta el final su espíritu indómito.",
+    "cefrLevel": "C2",
+    "category": "Society",
+    "synonyms": [
+      "rebelde",
+      "indomable"
+    ]
+  },
+  {
+    "id": "c2-050",
+    "languageCode": "es",
+    "word": "tenacidad",
+    "definition": "tenacity, doggedness",
+    "exampleSentence": "Solo con tenacidad alcanzó semejante meta.",
+    "cefrLevel": "C2",
+    "category": "Business",
+    "synonyms": [
+      "perseverancia",
+      "constancia"
+    ]
+  },
+  {
+    "id": "c2-051",
+    "languageCode": "es",
+    "word": "perspicacia",
+    "definition": "perceptiveness, insight",
+    "exampleSentence": "Analizó el caso con notable perspicacia.",
+    "cefrLevel": "C2",
+    "category": "Academic",
+    "synonyms": [
+      "agudeza",
+      "lucidez"
+    ]
+  },
+  {
+    "id": "c2-052",
+    "languageCode": "es",
+    "word": "sutileza",
+    "definition": "subtlety, fine distinction",
+    "exampleSentence": "El traductor supo captar cada sutileza del texto.",
+    "cefrLevel": "C2",
+    "category": "Arts",
+    "synonyms": [
+      "matiz",
+      "finura"
+    ]
+  },
+  {
+    "id": "c2-053",
+    "languageCode": "es",
+    "word": "elocuencia",
+    "definition": "eloquence",
+    "exampleSentence": "Defendió su tesis con admirable elocuencia.",
+    "cefrLevel": "C2",
+    "category": "Arts",
+    "synonyms": [
+      "oratoria",
+      "labia"
+    ]
+  },
+  {
+    "id": "c2-054",
+    "languageCode": "es",
+    "word": "verbosidad",
+    "definition": "verbosity, wordiness",
+    "exampleSentence": "Su verbosidad acabó por cansar al auditorio.",
+    "cefrLevel": "C2",
+    "category": "Academic",
+    "synonyms": [
+      "palabrería",
+      "prolijidad"
+    ]
+  },
+  {
+    "id": "c2-055",
+    "languageCode": "es",
+    "word": "parquedad",
+    "definition": "frugality; sparingness of words",
+    "exampleSentence": "Hablaba con una parquedad casi solemne.",
+    "cefrLevel": "C2",
+    "category": "Society",
+    "synonyms": [
+      "sobriedad",
+      "moderación"
+    ]
+  },
+  {
+    "id": "c2-056",
+    "languageCode": "es",
+    "word": "mesura",
+    "definition": "moderation, restraint",
+    "exampleSentence": "Actuó siempre con mesura y prudencia.",
+    "cefrLevel": "C2",
+    "category": "Society",
+    "synonyms": [
+      "moderación",
+      "comedimiento"
+    ]
+  },
+  {
+    "id": "c2-057",
+    "languageCode": "es",
+    "word": "templanza",
+    "definition": "temperance, self-control",
+    "exampleSentence": "La templanza es una de sus mayores virtudes.",
+    "cefrLevel": "C2",
+    "category": "Emotions",
+    "synonyms": [
+      "moderación",
+      "sobriedad"
+    ]
+  },
+  {
+    "id": "c2-058",
+    "languageCode": "es",
+    "word": "vehemencia",
+    "definition": "vehemence, passion",
+    "exampleSentence": "Defendió su idea con inusitada vehemencia.",
+    "cefrLevel": "C2",
+    "category": "Emotions",
+    "synonyms": [
+      "pasión",
+      "ardor"
+    ]
+  },
+  {
+    "id": "c2-059",
+    "languageCode": "es",
+    "word": "ahínco",
+    "definition": "earnestness, eagerness",
+    "exampleSentence": "Estudió con ahínco hasta dominar la materia.",
+    "cefrLevel": "C2",
+    "category": "Education",
+    "synonyms": [
+      "empeño",
+      "tesón"
+    ]
+  },
+  {
+    "id": "c2-060",
+    "languageCode": "es",
+    "word": "denuedo",
+    "definition": "boldness, daring, valour",
+    "exampleSentence": "Afrontó la crisis con denuedo y serenidad.",
+    "cefrLevel": "C2",
+    "category": "Society",
+    "synonyms": [
+      "valentía",
+      "arrojo"
+    ]
+  },
+  {
+    "id": "c2-061",
+    "languageCode": "es",
+    "word": "anhelo",
+    "definition": "yearning, longing",
+    "exampleSentence": "Vivía con el anhelo de regresar a su tierra.",
+    "cefrLevel": "C2",
+    "category": "Emotions",
+    "synonyms": [
+      "deseo",
+      "ansia"
+    ]
+  },
+  {
+    "id": "c2-062",
+    "languageCode": "es",
+    "word": "congoja",
+    "definition": "anguish, grief",
+    "exampleSentence": "La noticia le produjo una profunda congoja.",
+    "cefrLevel": "C2",
+    "category": "Emotions",
+    "synonyms": [
+      "pesar",
+      "aflicción"
+    ]
+  },
+  {
+    "id": "c2-063",
+    "languageCode": "es",
+    "word": "desazón",
+    "definition": "unease, disquiet",
+    "exampleSentence": "Sentía una extraña desazón sin saber por qué.",
+    "cefrLevel": "C2",
+    "category": "Emotions",
+    "synonyms": [
+      "inquietud",
+      "malestar"
+    ]
+  },
+  {
+    "id": "c2-064",
+    "languageCode": "es",
+    "word": "hastío",
+    "definition": "weariness, tedium",
+    "exampleSentence": "El hastío de la rutina lo empujó a cambiar de vida.",
+    "cefrLevel": "C2",
+    "category": "Emotions",
+    "synonyms": [
+      "tedio",
+      "aburrimiento"
+    ]
+  },
+  {
+    "id": "c2-065",
+    "languageCode": "es",
+    "word": "regocijo",
+    "definition": "joy, rejoicing",
+    "exampleSentence": "La victoria fue motivo de regocijo general.",
+    "cefrLevel": "C2",
+    "category": "Emotions",
+    "synonyms": [
+      "júbilo",
+      "alborozo"
+    ]
+  },
+  {
+    "id": "c2-066",
+    "languageCode": "es",
+    "word": "júbilo",
+    "definition": "jubilation, great joy",
+    "exampleSentence": "Recibieron la noticia con enorme júbilo.",
+    "cefrLevel": "C2",
+    "category": "Emotions",
+    "synonyms": [
+      "alegría",
+      "regocijo"
+    ]
+  },
+  {
+    "id": "c2-067",
+    "languageCode": "es",
+    "word": "sosiego",
+    "definition": "calm, tranquillity",
+    "exampleSentence": "Buscaba el sosiego del campo los fines de semana.",
+    "cefrLevel": "C2",
+    "category": "Emotions",
+    "synonyms": [
+      "calma",
+      "serenidad"
+    ]
+  },
+  {
+    "id": "c2-068",
+    "languageCode": "es",
+    "word": "zozobra",
+    "definition": "anxiety, turmoil",
+    "exampleSentence": "Pasó la noche en una constante zozobra.",
+    "cefrLevel": "C2",
+    "category": "Emotions",
+    "synonyms": [
+      "angustia",
+      "inquietud"
+    ]
+  },
+  {
+    "id": "c2-069",
+    "languageCode": "es",
+    "word": "arrebato",
+    "definition": "fit, outburst (of emotion)",
+    "exampleSentence": "En un arrebato de ira, rompió el documento.",
+    "cefrLevel": "C2",
+    "category": "Emotions",
+    "synonyms": [
+      "impulso",
+      "rapto"
+    ]
+  },
+  {
+    "id": "c2-070",
+    "languageCode": "es",
+    "word": "ímpetu",
+    "definition": "impetus, drive, vigour",
+    "exampleSentence": "Acometió el proyecto con renovado ímpetu.",
+    "cefrLevel": "C2",
+    "category": "Business",
+    "synonyms": [
+      "energía",
+      "brío"
+    ]
+  },
+  {
+    "id": "c2-071",
+    "languageCode": "es",
+    "word": "fervor",
+    "definition": "fervour, zeal",
+    "exampleSentence": "Defendió la causa con verdadero fervor.",
+    "cefrLevel": "C2",
+    "category": "Society",
+    "synonyms": [
+      "pasión",
+      "entusiasmo"
+    ]
+  },
+  {
+    "id": "c2-072",
+    "languageCode": "es",
+    "word": "tesón",
+    "definition": "perseverance, grit",
+    "exampleSentence": "Con tesón y paciencia, levantó el negocio.",
+    "cefrLevel": "C2",
+    "category": "Business",
+    "synonyms": [
+      "constancia",
+      "tenacidad"
+    ]
+  },
+  {
+    "id": "c2-073",
+    "languageCode": "es",
+    "word": "acometer",
+    "definition": "to undertake, to tackle (boldly)",
+    "exampleSentence": "Decidieron acometer una reforma de gran calado.",
+    "cefrLevel": "C2",
+    "category": "Business",
+    "synonyms": [
+      "emprender",
+      "abordar"
+    ]
+  },
+  {
+    "id": "c2-074",
+    "languageCode": "es",
+    "word": "atañer",
+    "definition": "to concern, to pertain to",
+    "exampleSentence": "Ese asunto atañe a todos los socios por igual.",
+    "cefrLevel": "C2",
+    "category": "Law",
+    "synonyms": [
+      "concernir",
+      "incumbir"
+    ]
+  },
+  {
+    "id": "c2-075",
+    "languageCode": "es",
+    "word": "dirimir",
+    "definition": "to settle, to resolve (a dispute)",
+    "exampleSentence": "El tribunal habrá de dirimir la controversia.",
+    "cefrLevel": "C2",
+    "category": "Law",
+    "synonyms": [
+      "resolver",
+      "zanjar"
+    ]
+  },
+  {
+    "id": "c2-076",
+    "languageCode": "es",
+    "word": "zanjar",
+    "definition": "to settle, to put an end to",
+    "exampleSentence": "El director quiso zanjar la discusión de inmediato.",
+    "cefrLevel": "C2",
+    "category": "Business",
+    "synonyms": [
+      "resolver",
+      "concluir"
+    ]
+  },
+  {
+    "id": "c2-077",
+    "languageCode": "es",
+    "word": "ceñirse",
+    "definition": "to stick to, to confine oneself to",
+    "exampleSentence": "Le pidieron ceñirse estrictamente a los hechos.",
+    "cefrLevel": "C2",
+    "category": "Law",
+    "synonyms": [
+      "limitarse",
+      "atenerse"
+    ]
+  },
+  {
+    "id": "c2-078",
+    "languageCode": "es",
+    "word": "soslayar",
+    "definition": "to circumvent, to skirt around",
+    "exampleSentence": "El orador soslayó con habilidad los temas espinosos.",
+    "cefrLevel": "C2",
+    "category": "Politics",
+    "synonyms": [
+      "eludir",
+      "sortear"
+    ]
+  },
+  {
+    "id": "c2-079",
+    "languageCode": "es",
+    "word": "subyacer",
+    "definition": "to underlie, to lie beneath",
+    "exampleSentence": "Una vieja rivalidad subyace en el conflicto.",
+    "cefrLevel": "C2",
+    "category": "Society",
+    "synonyms": [
+      "latir"
+    ]
+  },
+  {
+    "id": "c2-080",
+    "languageCode": "es",
+    "word": "dilucidar",
+    "definition": "to elucidate, to clear up",
+    "exampleSentence": "El estudio pretende dilucidar el origen del fenómeno.",
+    "cefrLevel": "C2",
+    "category": "Science",
+    "synonyms": [
+      "esclarecer",
+      "aclarar"
+    ]
+  },
+  {
+    "id": "c2-081",
+    "languageCode": "es",
+    "word": "vislumbrarse",
+    "definition": "to be dimly perceived, to loom",
+    "exampleSentence": "Comienza a vislumbrarse una salida a la crisis.",
+    "cefrLevel": "C2",
+    "category": "Politics",
+    "synonyms": [
+      "entreverse"
+    ]
+  },
+  {
+    "id": "c2-082",
+    "languageCode": "es",
+    "word": "atinar",
+    "definition": "to get it right, to hit the mark",
+    "exampleSentence": "Atinó con la respuesta a la primera.",
+    "cefrLevel": "C2",
+    "category": "Academic",
+    "synonyms": [
+      "acertar"
+    ]
+  },
+  {
+    "id": "c2-083",
+    "languageCode": "es",
+    "word": "discurrir",
+    "definition": "to ponder; to flow, to pass (time)",
+    "exampleSentence": "La conversación discurrió por cauces amistosos.",
+    "cefrLevel": "C2",
+    "category": "Society",
+    "synonyms": [
+      "transcurrir",
+      "reflexionar"
+    ]
+  },
+  {
+    "id": "c2-084",
+    "languageCode": "es",
+    "word": "ahondar",
+    "definition": "to delve deeper into",
+    "exampleSentence": "El autor ahonda en las raíces del problema.",
+    "cefrLevel": "C2",
+    "category": "Academic",
+    "synonyms": [
+      "profundizar"
+    ]
+  },
+  {
+    "id": "c2-085",
+    "languageCode": "es",
+    "word": "extrapolar",
+    "definition": "to extrapolate",
+    "exampleSentence": "No conviene extrapolar conclusiones de un solo caso.",
+    "cefrLevel": "C2",
+    "category": "Science",
+    "synonyms": [
+      "generalizar"
+    ]
+  },
+  {
+    "id": "c2-086",
+    "languageCode": "es",
+    "word": "deslucir",
+    "definition": "to spoil, to take the shine off",
+    "exampleSentence": "La lluvia deslució por completo la ceremonia.",
+    "cefrLevel": "C2",
+    "category": "Culture",
+    "synonyms": [
+      "estropear",
+      "empañar"
+    ]
+  },
+  {
+    "id": "c2-087",
+    "languageCode": "es",
+    "word": "menospreciar",
+    "definition": "to despise, to belittle",
+    "exampleSentence": "Sería un error menospreciar al rival.",
+    "cefrLevel": "C2",
+    "category": "Society",
+    "synonyms": [
+      "despreciar",
+      "subestimar"
+    ]
+  },
+  {
+    "id": "c2-088",
+    "languageCode": "es",
+    "word": "enaltecer",
+    "definition": "to exalt, to extol",
+    "exampleSentence": "El monumento busca enaltecer la memoria de los caídos.",
+    "cefrLevel": "C2",
+    "category": "Culture",
+    "synonyms": [
+      "ensalzar",
+      "glorificar"
+    ]
+  },
+  {
+    "id": "c2-089",
+    "languageCode": "es",
+    "word": "denostar",
+    "definition": "to revile, to insult",
+    "exampleSentence": "No es propio de un profesional denostar al contrario.",
+    "cefrLevel": "C2",
+    "category": "Society",
+    "synonyms": [
+      "injuriar",
+      "vilipendiar"
+    ]
+  },
+  {
+    "id": "c2-090",
+    "languageCode": "es",
+    "word": "esclarecer",
+    "definition": "to clarify, to shed light on",
+    "exampleSentence": "La investigación logró esclarecer los hechos.",
+    "cefrLevel": "C2",
+    "category": "Law",
+    "synonyms": [
+      "aclarar",
+      "dilucidar"
+    ]
+  },
+  {
+    "id": "c2-091",
+    "languageCode": "es",
+    "word": "discrepancia",
+    "definition": "discrepancy, disagreement",
+    "exampleSentence": "Surgió una notable discrepancia entre los informes.",
+    "cefrLevel": "C2",
+    "category": "Academic",
+    "synonyms": [
+      "divergencia",
+      "desacuerdo"
+    ]
+  },
+  {
+    "id": "c2-092",
+    "languageCode": "es",
+    "word": "consonancia",
+    "definition": "harmony, accordance",
+    "exampleSentence": "Actuó en consonancia con sus principios.",
+    "cefrLevel": "C2",
+    "category": "Society",
+    "synonyms": [
+      "concordancia",
+      "armonía"
+    ]
+  },
+  {
+    "id": "c2-093",
+    "languageCode": "es",
+    "word": "salvaguardar",
+    "definition": "to safeguard",
+    "exampleSentence": "El tratado pretende salvaguardar los derechos humanos.",
+    "cefrLevel": "C2",
+    "category": "Law",
+    "synonyms": [
+      "proteger",
+      "preservar"
+    ]
+  },
+  {
+    "id": "c2-094",
+    "languageCode": "es",
+    "word": "supeditar",
+    "definition": "to subordinate, to make conditional on",
+    "exampleSentence": "Supeditó su decisión al resultado de la votación.",
+    "cefrLevel": "C2",
+    "category": "Politics",
+    "synonyms": [
+      "subordinar",
+      "condicionar"
+    ]
+  },
+  {
+    "id": "c2-095",
+    "languageCode": "es",
+    "word": "preconizar",
+    "definition": "to advocate, to recommend",
+    "exampleSentence": "El informe preconiza un cambio de modelo energético.",
+    "cefrLevel": "C2",
+    "category": "Politics",
+    "synonyms": [
+      "recomendar",
+      "abogar por"
+    ]
+  },
+  {
+    "id": "c2-096",
+    "languageCode": "es",
+    "word": "vaticinar",
+    "definition": "to predict, to foretell",
+    "exampleSentence": "Pocos se atrevieron a vaticinar semejante desenlace.",
+    "cefrLevel": "C2",
+    "category": "Science",
+    "synonyms": [
+      "pronosticar",
+      "augurar"
+    ]
+  },
+  {
+    "id": "c2-097",
+    "languageCode": "es",
+    "word": "atisbar",
+    "definition": "to glimpse, to spy",
+    "exampleSentence": "Desde la cima se atisbaba el mar a lo lejos.",
+    "cefrLevel": "C2",
+    "category": "Travel",
+    "synonyms": [
+      "vislumbrar",
+      "divisar"
+    ]
+  },
+  {
+    "id": "c2-098",
+    "languageCode": "es",
+    "word": "deambular",
+    "definition": "to wander, to roam",
+    "exampleSentence": "Pasó la tarde deambulando por las callejuelas.",
+    "cefrLevel": "C2",
+    "category": "Travel",
+    "synonyms": [
+      "vagar",
+      "errar"
+    ]
+  },
+  {
+    "id": "c2-099",
+    "languageCode": "es",
+    "word": "recóndito",
+    "definition": "hidden, remote, recondite",
+    "exampleSentence": "Visitaron un rincón recóndito de la sierra.",
+    "cefrLevel": "C2",
+    "category": "Travel",
+    "synonyms": [
+      "escondido",
+      "apartado"
+    ]
+  },
+  {
+    "id": "c2-100",
+    "languageCode": "es",
+    "word": "paraje",
+    "definition": "spot, place (esp. natural)",
+    "exampleSentence": "Acamparon en un paraje solitario junto al río.",
+    "cefrLevel": "C2",
+    "category": "Environment",
+    "synonyms": [
+      "lugar",
+      "sitio"
+    ]
+  },
+  {
+    "id": "c2-101",
+    "languageCode": "es",
+    "word": "aciago",
+    "definition": "fateful, ill-fated",
+    "exampleSentence": "Fue un día aciago que nadie quiso recordar.",
+    "cefrLevel": "C2",
+    "category": "Society",
+    "synonyms": [
+      "funesto",
+      "desdichado"
+    ]
+  },
+  {
+    "id": "c2-102",
+    "languageCode": "es",
+    "word": "fortuito",
+    "definition": "fortuitous, chance, accidental",
+    "exampleSentence": "El encuentro fue del todo fortuito.",
+    "cefrLevel": "C2",
+    "category": "Society",
+    "synonyms": [
+      "casual",
+      "accidental"
+    ]
+  },
+  {
+    "id": "c2-103",
+    "languageCode": "es",
+    "word": "ineludible",
+    "definition": "unavoidable, inescapable",
+    "exampleSentence": "Asumir el cambio era ya algo ineludible.",
+    "cefrLevel": "C2",
+    "category": "Society",
+    "synonyms": [
+      "inevitable",
+      "forzoso"
+    ]
+  },
+  {
+    "id": "c2-104",
+    "languageCode": "es",
+    "word": "soslayable",
+    "definition": "avoidable, that can be sidestepped",
+    "exampleSentence": "El conflicto era difícilmente soslayable.",
+    "cefrLevel": "C2",
+    "category": "Society",
+    "synonyms": [
+      "evitable"
+    ]
+  },
+  {
+    "id": "c2-105",
+    "languageCode": "es",
+    "word": "irrisorio",
+    "definition": "laughable, derisory (sum)",
+    "exampleSentence": "Ofrecieron una cantidad irrisoria por la casa.",
+    "cefrLevel": "C2",
+    "category": "Finance",
+    "synonyms": [
+      "ridículo",
+      "insignificante"
+    ]
+  },
+  {
+    "id": "c2-106",
+    "languageCode": "es",
+    "word": "boyante",
+    "definition": "buoyant, prosperous, thriving",
+    "exampleSentence": "La empresa atraviesa una etapa boyante.",
+    "cefrLevel": "C2",
+    "category": "Finance",
+    "synonyms": [
+      "próspero",
+      "floreciente"
+    ]
+  },
+  {
+    "id": "c2-107",
+    "languageCode": "es",
+    "word": "menguante",
+    "definition": "waning, decreasing",
+    "exampleSentence": "Su influencia, antes enorme, es ya menguante.",
+    "cefrLevel": "C2",
+    "category": "Politics",
+    "synonyms": [
+      "decreciente"
+    ]
+  },
+  {
+    "id": "c2-108",
+    "languageCode": "es",
+    "word": "pujante",
+    "definition": "thriving, vigorous, surging",
+    "exampleSentence": "Lidera un sector pujante y lleno de talento.",
+    "cefrLevel": "C2",
+    "category": "Business",
+    "synonyms": [
+      "floreciente",
+      "vigoroso"
+    ]
+  },
+  {
+    "id": "c2-109",
+    "languageCode": "es",
+    "word": "lucrativo",
+    "definition": "lucrative, profitable",
+    "exampleSentence": "Convirtió su afición en un negocio lucrativo.",
+    "cefrLevel": "C2",
+    "category": "Finance",
+    "synonyms": [
+      "rentable",
+      "provechoso"
+    ]
+  },
+  {
+    "id": "c2-110",
+    "languageCode": "es",
+    "word": "sufragar",
+    "definition": "to defray, to cover the cost of",
+    "exampleSentence": "Una beca sufragó por completo sus estudios.",
+    "cefrLevel": "C2",
+    "category": "Finance",
+    "synonyms": [
+      "costear",
+      "financiar"
+    ]
+  },
+  {
+    "id": "c2-111",
+    "languageCode": "es",
+    "word": "munificencia",
+    "definition": "munificence, lavish generosity",
+    "exampleSentence": "El museo nació de la munificencia de un coleccionista.",
+    "cefrLevel": "C2",
+    "category": "Culture",
+    "synonyms": [
+      "generosidad",
+      "largueza"
+    ]
+  },
+  {
+    "id": "c2-112",
+    "languageCode": "es",
+    "word": "austeridad",
+    "definition": "austerity, severity",
+    "exampleSentence": "Vivía con una austeridad casi monacal.",
+    "cefrLevel": "C2",
+    "category": "Finance",
+    "synonyms": [
+      "sobriedad",
+      "frugalidad"
+    ]
+  },
+  {
+    "id": "c2-113",
+    "languageCode": "es",
+    "word": "prodigar",
+    "definition": "to lavish, to give generously",
+    "exampleSentence": "Le prodigaron toda clase de atenciones.",
+    "cefrLevel": "C2",
+    "category": "Society",
+    "synonyms": [
+      "derrochar",
+      "colmar"
+    ]
+  },
+  {
+    "id": "c2-114",
+    "languageCode": "es",
+    "word": "esmero",
+    "definition": "great care, painstaking effort",
+    "exampleSentence": "Restauró el cuadro con sumo esmero.",
+    "cefrLevel": "C2",
+    "category": "Arts",
+    "synonyms": [
+      "cuidado",
+      "dedicación"
+    ]
+  },
+  {
+    "id": "c2-115",
+    "languageCode": "es",
+    "word": "pericia",
+    "definition": "expertise, skill",
+    "exampleSentence": "Maniobró con la pericia de un veterano.",
+    "cefrLevel": "C2",
+    "category": "Business",
+    "synonyms": [
+      "destreza",
+      "maestría"
+    ]
+  },
+  {
+    "id": "c2-116",
+    "languageCode": "es",
+    "word": "maestría",
+    "definition": "mastery, great skill",
+    "exampleSentence": "Tocó la pieza con absoluta maestría.",
+    "cefrLevel": "C2",
+    "category": "Arts",
+    "synonyms": [
+      "pericia",
+      "virtuosismo"
+    ]
+  },
+  {
+    "id": "c2-117",
+    "languageCode": "es",
+    "word": "acuciante",
+    "definition": "pressing, urgent",
+    "exampleSentence": "La escasez de agua es un problema acuciante.",
+    "cefrLevel": "C2",
+    "category": "Environment",
+    "synonyms": [
+      "apremiante",
+      "urgente"
+    ]
+  },
+  {
+    "id": "c2-118",
+    "languageCode": "es",
+    "word": "soslayo cultural",
+    "definition": "cultural sidelining/neglect",
+    "exampleSentence": "Denunció el soslayo cultural de las lenguas minoritarias.",
+    "cefrLevel": "C2",
+    "category": "Culture",
+    "synonyms": []
+  },
+  {
+    "id": "c2-119",
+    "languageCode": "es",
+    "word": "encomiable",
+    "definition": "praiseworthy, commendable",
+    "exampleSentence": "Realizó una labor encomiable durante la crisis.",
+    "cefrLevel": "C2",
+    "category": "Society",
+    "synonyms": [
+      "loable",
+      "meritorio"
+    ]
+  },
+  {
+    "id": "c2-120",
+    "languageCode": "es",
+    "word": "loable",
+    "definition": "laudable, praiseworthy",
+    "exampleSentence": "Es loable su empeño por mejorar las cosas.",
+    "cefrLevel": "C2",
+    "category": "Society",
+    "synonyms": [
+      "encomiable",
+      "meritorio"
+    ]
+  },
+  {
+    "id": "c2-121",
+    "languageCode": "es",
+    "word": "baladí",
+    "definition": "trivial, of little importance",
+    "exampleSentence": "No era un asunto baladí, sino crucial.",
+    "cefrLevel": "C2",
+    "category": "Society",
+    "synonyms": [
+      "trivial",
+      "insignificante"
+    ]
+  },
+  {
+    "id": "c2-122",
+    "languageCode": "es",
+    "word": "inopinado",
+    "definition": "unexpected, unforeseen",
+    "exampleSentence": "Un giro inopinado cambió el rumbo de los hechos.",
+    "cefrLevel": "C2",
+    "category": "Society",
+    "synonyms": [
+      "inesperado",
+      "imprevisto"
+    ]
+  },
+  {
+    "id": "c2-123",
+    "languageCode": "es",
+    "word": "soterrado",
+    "definition": "hidden, buried, latent",
+    "exampleSentence": "Bajo la calma latía un descontento soterrado.",
+    "cefrLevel": "C2",
+    "category": "Politics",
+    "synonyms": [
+      "oculto",
+      "encubierto"
+    ]
+  },
+  {
+    "id": "c2-124",
+    "languageCode": "es",
+    "word": "acendrado",
+    "definition": "pure, deep-seated (of feelings)",
+    "exampleSentence": "Profesaba un acendrado amor por su tierra.",
+    "cefrLevel": "C2",
+    "category": "Emotions",
+    "synonyms": [
+      "puro",
+      "arraigado"
+    ]
+  }
+]
