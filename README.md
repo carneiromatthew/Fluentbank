@@ -76,6 +76,33 @@ history are stored in your browser. No account or environment variables needed.
 
 ---
 
+## ▲ Deploy to Vercel
+
+The app is **zero-config** on Vercel — Next.js is auto-detected and no
+environment variables are required (it runs local-first). Two ways:
+
+**Option A — Vercel CLI (fastest, no GitHub needed):**
+
+```bash
+cd fluentbank
+npx vercel          # first run: log in via browser, accept the detected defaults
+npx vercel --prod   # promote to a production URL
+```
+
+**Option B — GitHub + Vercel dashboard (gives push-to-deploy):**
+
+```bash
+# create a repo and push (replace with your account)
+gh repo create fluentbank --private --source=. --push
+# then go to vercel.com → "Add New… → Project" → import the repo → Deploy
+```
+
+To enable the Supabase backend on a deployment, add `NEXT_PUBLIC_SUPABASE_URL`,
+`NEXT_PUBLIC_SUPABASE_ANON_KEY` and `NEXT_PUBLIC_USE_SUPABASE=true` under the
+project's **Environment Variables** in Vercel, then redeploy.
+
+---
+
 ## 🗂️ Project structure
 
 ```
