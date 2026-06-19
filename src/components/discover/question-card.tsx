@@ -1,8 +1,8 @@
 "use client";
 
-import { Check, X, Volume2, ArrowRight, PiggyBank } from "lucide-react";
+import { Check, X, ArrowRight, PiggyBank } from "lucide-react";
 import type { MultipleChoiceQuestion } from "@/types";
-import { speakSpanish } from "@/lib/speech";
+import { respell } from "@/lib/pronunciation";
 import { CefrBadge } from "@/components/shared/cefr-badge";
 import { CategoryChip } from "@/components/shared/category-chip";
 import { Button } from "@/components/ui/button";
@@ -31,10 +31,6 @@ export function QuestionCard({
   const { word, options, correctIndex } = question;
   const correct = answered && selectedIndex === correctIndex;
 
-  function speak() {
-    void speakSpanish(word.word);
-  }
-
   return (
     <div className="animate-fade-in-up">
       {/* Prompt */}
@@ -43,16 +39,10 @@ export function QuestionCard({
           <CefrBadge level={word.cefrLevel} />
           <CategoryChip category={word.category} />
         </div>
-        <div className="flex items-center justify-center gap-2">
-          <h2 className="text-4xl font-bold tracking-tight sm:text-5xl">{word.word}</h2>
-          <button
-            onClick={speak}
-            className="rounded-full p-2 text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
-            aria-label="Pronounce word"
-          >
-            <Volume2 className="h-5 w-5" />
-          </button>
-        </div>
+        <h2 className="text-4xl font-bold tracking-tight sm:text-5xl">{word.word}</h2>
+        <p className="mt-1.5 font-mono text-sm tracking-tight text-muted-foreground" aria-label="Pronunciation">
+          {respell(word.word)}
+        </p>
         <p className="mt-2 text-sm text-muted-foreground">What is the correct meaning?</p>
       </div>
 

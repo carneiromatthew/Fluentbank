@@ -21,6 +21,7 @@ import { useStore } from "@/store/useStore";
 import { usePortfolioStats } from "@/store/hooks";
 import { VOCAB_BY_ID } from "@/data";
 import { wordAccuracy } from "@/lib/srs";
+import { respell } from "@/lib/pronunciation";
 import { formatRelativeDate, formatPercent, cn } from "@/lib/utils";
 
 interface Row {
@@ -237,6 +238,7 @@ function PortfolioRow({ row }: { row: Row }) {
         <div className="min-w-0">
           <div className="flex flex-wrap items-center gap-2">
             <h3 className="text-lg font-bold">{word.word}</h3>
+            <span className="font-mono text-xs text-muted-foreground">{respell(word.word)}</span>
             <CefrBadge level={word.cefrLevel} />
             <CategoryChip category={word.category} />
           </div>
