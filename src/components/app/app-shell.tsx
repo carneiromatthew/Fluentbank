@@ -122,8 +122,8 @@ function HeaderStats() {
   const streak = useStore((s) => s.currentStreak);
   return (
     <div className="flex items-center gap-2">
-      <span className="inline-flex items-center gap-1 rounded-full bg-warning/15 px-2.5 py-1 text-xs font-semibold text-warning-foreground">
-        <Flame className="h-3.5 w-3.5 text-warning" />
+      <span className="inline-flex items-center gap-1 rounded-full bg-warning/15 px-2.5 py-1 text-xs font-semibold text-amber-700 dark:text-amber-300">
+        <Flame className="h-3.5 w-3.5 text-amber-500 dark:text-amber-400" />
         <span className="tnum">{streak}</span>
       </span>
       <span className="inline-flex items-center gap-1 rounded-full bg-primary/10 px-2.5 py-1 text-xs font-semibold text-primary">

@@ -2,6 +2,7 @@
 
 import { Check, X, Volume2, ArrowRight, PiggyBank } from "lucide-react";
 import type { MultipleChoiceQuestion } from "@/types";
+import { speakSpanish } from "@/lib/speech";
 import { CefrBadge } from "@/components/shared/cefr-badge";
 import { CategoryChip } from "@/components/shared/category-chip";
 import { Button } from "@/components/ui/button";
@@ -31,11 +32,7 @@ export function QuestionCard({
   const correct = answered && selectedIndex === correctIndex;
 
   function speak() {
-    if (typeof window === "undefined" || !window.speechSynthesis) return;
-    const u = new SpeechSynthesisUtterance(word.word);
-    u.lang = "es-ES";
-    window.speechSynthesis.cancel();
-    window.speechSynthesis.speak(u);
+    void speakSpanish(word.word);
   }
 
   return (
