@@ -125,3 +125,34 @@ scripts/export-vocab.mjs  # regenerates the SQL/JSON seed from the TS data
 - Vocabulary `exampleSentence` **must contain the word** (often inflected) — the
   practice engine blanks the word out of its own example.
 - The `(app)` route-group dir name has literal parentheses; pass full paths.
+
+## Backlog — prioritized improvements
+
+From a full fresh-user test pass. Ordered by impact; do #1+#2 together (same
+user journey, they reinforce each other), #3 as follow-up.
+
+1. **Word progression ramps to the target level too aggressively** *(highest
+   impact — learning outcomes).* A new Current=B1 / Target=C1 user is served C1
+   words immediately (first word observed: "acotar") and would see **all ~124 C1
+   words before any B1/B2 word**. `getDiscoverySession`/`targetWeight` in
+   `store/selectors.ts` sort unseen words by distance-to-target, so target wins
+   and "current level" only bounds the pool. **Fix:** ramp — weight toward the
+   current level early and shift toward target as lower levels get mastered (or a
+   ~60/40 current-vs-target quota that widens with mastery). *Effort: medium.*
+
+2. **Onboarding gives no help choosing a level** *(cheap; compounds with #1).*
+   Step 2 shows only CEFR codes + names (`B1 Threshold` …); a user who doesn't
+   know their level guesses, which makes #1 worse. **Fix:** surface the one-line
+   `CEFR_META` blurbs (already authored) under each option + a "Not sure? Start at
+   B1" nudge in `app/onboarding/page.tsx`. *Effort: low.*
+
+3. **Pronunciation key + keyboard shortcuts** *(polish).* The respelling
+   (`ah-koh-TAHR`) never explains that CAPS = the stressed syllable; and the
+   Discovery/Practice quizzes are click-only. **Fix:** (a) a one-time legend
+   "CAPS = stressed syllable"; (b) keyboard answering (1–4 / A–D to select, Enter
+   to continue) — big win for desktop/accessibility, mobile stays touch-first.
+   *Effort: low each.*
+
+Also: the in-progress `WordUsage` / word-detail feature (`components/shared/
+word-detail.tsx`, `lib/wordDetail.ts`, `data/words/types.ts`) is rich on C1/C2
+but B1/B2 fall back to a derived baseline — finish B1/B2 usage authoring.
