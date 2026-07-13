@@ -5,6 +5,7 @@ import type { MultipleChoiceQuestion } from "@/types";
 import { respell } from "@/lib/pronunciation";
 import { CefrBadge } from "@/components/shared/cefr-badge";
 import { CategoryChip } from "@/components/shared/category-chip";
+import { WordDetail } from "@/components/shared/word-detail";
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
 
@@ -122,6 +123,9 @@ export function QuestionCard({
                 Synonyms: {word.synonyms.join(", ")}
               </p>
             )}
+            <div className="mt-3 border-t border-border/60 pt-3">
+              <WordDetail word={word} compact />
+            </div>
           </div>
           <Button onClick={onContinue} size="lg" variant="vault" className="mt-4 w-full">
             {isLast ? "Finish session" : "Continue"} <ArrowRight className="h-4 w-4" />

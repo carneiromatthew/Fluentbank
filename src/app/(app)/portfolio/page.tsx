@@ -2,7 +2,7 @@
 
 import * as React from "react";
 import Link from "next/link";
-import { Search, Wallet, Sparkles, ArrowUpDown, SlidersHorizontal } from "lucide-react";
+import { Search, Wallet, Sparkles, ArrowUpDown, SlidersHorizontal, ChevronDown } from "lucide-react";
 import type { CefrLevel, MasteryStatus, UserWord, VocabularyWord } from "@/types";
 import { CEFR_LEVELS, CATEGORIES } from "@/types";
 import { Input } from "@/components/ui/input";
@@ -17,6 +17,8 @@ import {
 import { CefrBadge } from "@/components/shared/cefr-badge";
 import { CategoryChip } from "@/components/shared/category-chip";
 import { MasteryBadge } from "@/components/shared/mastery-badge";
+import { WordDetail } from "@/components/shared/word-detail";
+import { hasUsage } from "@/lib/wordDetail";
 import { useStore } from "@/store/useStore";
 import { usePortfolioStats } from "@/store/hooks";
 import { VOCAB_BY_ID } from "@/data";
@@ -232,6 +234,9 @@ function FilterSelect({
 
 function PortfolioRow({ row }: { row: Row }) {
   const { word, uw, accuracy } = row;
+  const [open, setOpen] = React.useState(false);
+  // Only words with authored usage warrant a dropdown during the batched rollout.
+  const expandable = hasUsage(word);
   return (
     <div className="rounded-2xl border bg-card p-4 shadow-sm transition-shadow hover:shadow-md">
       <div className="flex items-start justify-between gap-3">
@@ -265,6 +270,24 @@ function PortfolioRow({ row }: { row: Row }) {
           {formatPercent(accuracy)} acc · {uw.timesCorrect + uw.timesIncorrect}×
         </span>
       </div>
+
+      {expandable && (
+        <>
+          <button
+            onClick={() => setOpen((v) => !v)}
+            aria-expanded={open}
+            className="mt-3 flex items-center gap-1 text-xs font-medium text-muted-foreground transition-colors hover:text-foreground"
+          >
+            {open ? "Hide details" : "Show details"}
+            <ChevronDown className={cn("h-3.5 w-3.5 transition-transform", open && "rotate-180")} />
+          </button>
+          {open && (
+            <div className="mt-3 animate-fade-in-up border-t pt-3">
+              <WordDetail word={word} />
+            </div>
+          )}
+        </>
+      )}
     </div>
   );
 }

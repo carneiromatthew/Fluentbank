@@ -7,6 +7,7 @@ import type { PracticeExerciseType } from "@/types";
 import type { PracticeQuestion } from "@/lib/practice";
 import { Button } from "@/components/ui/button";
 import { CefrBadge } from "@/components/shared/cefr-badge";
+import { WordDetail } from "@/components/shared/word-detail";
 import { useStore } from "@/store/useStore";
 import { useToast } from "@/components/ui/toast";
 import { ACHIEVEMENTS } from "@/lib/achievements";
@@ -204,6 +205,9 @@ export function PracticeRunner({
                   {correct ? "Correct!" : "Not quite."}
                 </p>
                 <p className="mt-1 text-foreground/90">{q.explanation}</p>
+                <div className="mt-3 border-t border-border/60 pt-3">
+                  <WordDetail word={q.word} compact />
+                </div>
               </div>
               <Button onClick={handleContinue} size="lg" variant="vault" className="mt-4 w-full">
                 {index + 1 >= total ? "Finish" : "Continue"} <ArrowRight className="h-4 w-4" />

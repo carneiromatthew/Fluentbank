@@ -60,6 +60,7 @@ create table if not exists public.vocabulary_words (
   cefr_level       cefr_level not null,
   category         text not null,
   synonyms         text[] not null default '{}',
+  usage            jsonb,                             -- {grammar?, note?, collocations?}
   created_at       timestamptz not null default now()
 );
 

@@ -40,6 +40,18 @@ export type Category = (typeof CATEGORIES)[number];
 /** ISO-639-1 style language code. Spanish ships first. */
 export type LanguageCode = "es";
 
+/**
+ * Dense, hand-authored usage context for a word. Mirrors `WordUsage` in
+ * `src/data/words/types.ts` (re-declared here to avoid a data→types import
+ * cycle). All fields optional; words without it fall back to a derived baseline.
+ */
+export interface WordUsage {
+  grammar?: string;
+  note?: string;
+  collocations?: string[];
+  examples?: string[];
+}
+
 /** A single vocabulary entry — the immutable "security" in a user's portfolio. */
 export interface VocabularyWord {
   id: string;
@@ -51,6 +63,8 @@ export interface VocabularyWord {
   cefrLevel: CefrLevel;
   category: Category;
   synonyms: string[];
+  /** Optional dense usage context (grammar, usage note, collocations). */
+  usage?: WordUsage;
 }
 
 /** The four mastery boxes, in ascending order of retention strength. */
