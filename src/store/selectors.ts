@@ -95,8 +95,10 @@ export function getPortfolioStats(userWords: Record<string, UserWord>): Portfoli
 
 /**
  * Build a Daily Discovery queue: any "in-flight" misses that are due (so wrong
- * answers keep coming back), topped up with fresh words from the active band,
- * prioritising the target level.
+ * answers keep coming back), topped up with fresh words drawn around a *focus
+ * level* that ramps from the user's current level toward their target as the
+ * lower levels get banked — so a B1→C1 learner starts on B1 rather than being
+ * flooded with C1 words on day one.
  */
 export function getDiscoverySession(slice: StoreSlice, count: number): VocabularyWord[] {
   const { profile, userWords } = slice;
@@ -110,10 +112,17 @@ export function getDiscoverySession(slice: StoreSlice, count: number): Vocabular
     .filter((w): w is VocabularyWord => Boolean(w) && levelSet.has(w!.cefrLevel))
     .slice(0, Math.ceil(count / 2));
 
+  const focus = focusLevel(slice);
   const seen = new Set(Object.keys(userWords));
   const fresh = shuffle(
     VOCABULARY.filter((w) => levelSet.has(w.cefrLevel) && !seen.has(w.id)),
-  ).sort((a, b) => targetWeight(a, profile) - targetWeight(b, profile));
+  ).sort((a, b) => {
+    const da = Math.abs(levelIndex(a.cefrLevel) - focus);
+    const db = Math.abs(levelIndex(b.cefrLevel) - focus);
+    // Nearest to the focus level first; tie-break toward the lower (foundation)
+    // level. Equal levels keep the pre-shuffled order for variety.
+    return da - db || levelIndex(a.cefrLevel) - levelIndex(b.cefrLevel);
+  });
 
   const result: VocabularyWord[] = [...inFlight];
   const used = new Set(result.map((w) => w.id));
@@ -127,11 +136,35 @@ export function getDiscoverySession(slice: StoreSlice, count: number): Vocabular
   return result.slice(0, count);
 }
 
-/** 0 = target level (sorted first), larger = further below target. */
-function targetWeight(w: VocabularyWord, profile: UserProfile): number {
+/** Coverage of the below-target levels at which discovery fully centers on the
+ *  target level. Half the sub-target vocabulary banked → focus reaches target. */
+const RAMP_FULL_AT = 0.5;
+
+/**
+ * A fractional CEFR index that discovery centers new words on. Starts at the
+ * user's current level and slides toward the target as the levels below target
+ * get banked, so foundations come first and the goal phases in gradually.
+ */
+function focusLevel(slice: StoreSlice): number {
+  const { profile, userWords } = slice;
+  if (!profile) return 0;
+  const ci = levelIndex(profile.currentLevel);
   const ti = levelIndex(profile.targetLevel);
-  const wi = levelIndex(w.cefrLevel);
-  return wi === ti ? 0 : Math.abs(ti - wi) + 1;
+  if (ti <= ci) return ti;
+
+  const stats = getPortfolioStats(userWords);
+  let learned = 0;
+  let total = 0;
+  for (const l of CEFR_LEVELS) {
+    const i = levelIndex(l);
+    if (i >= ci && i < ti) {
+      learned += stats.byLevel[l].learned;
+      total += stats.byLevel[l].total;
+    }
+  }
+  const coverage = total === 0 ? 1 : learned / total;
+  const ramp = Math.min(1, coverage / RAMP_FULL_AT);
+  return ci + ramp * (ti - ci);
 }
 
 /** Words currently due for review, highest-priority first. */
