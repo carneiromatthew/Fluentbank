@@ -90,7 +90,20 @@ export default function OnboardingPage() {
             subtitle="We prioritise words from your target level while keeping earlier levels fresh."
           >
             <div className="space-y-5">
-              <LevelPicker label="Current level" value={current} onChange={setCurrent} />
+              <div className="space-y-2">
+                <LevelPicker label="Current level" value={current} onChange={setCurrent} />
+                <p className="text-xs text-muted-foreground">
+                  Not sure where you stand?{" "}
+                  <button
+                    type="button"
+                    onClick={() => setCurrent("B1")}
+                    className="font-medium text-primary underline-offset-2 hover:underline"
+                  >
+                    Start at B1
+                  </button>{" "}
+                  — you can always aim higher later.
+                </p>
+              </div>
               <LevelPicker
                 label="Target level"
                 value={target}
@@ -199,7 +212,7 @@ function LevelPicker({
               disabled={disabled}
               onClick={() => onChange(l)}
               className={cn(
-                "rounded-2xl border p-3 text-left transition-all disabled:opacity-40",
+                "flex h-full flex-col rounded-2xl border p-3 text-left transition-all disabled:opacity-40",
                 active
                   ? "border-primary bg-primary/5 ring-2 ring-primary/30"
                   : "hover:border-foreground/20 hover:bg-muted/50",
@@ -207,6 +220,9 @@ function LevelPicker({
             >
               <CefrBadge level={l} />
               <p className="mt-2 text-sm font-semibold">{CEFR_META[l].name}</p>
+              <p className="mt-1 text-xs leading-snug text-muted-foreground">
+                {CEFR_META[l].blurb}
+              </p>
             </button>
           );
         })}

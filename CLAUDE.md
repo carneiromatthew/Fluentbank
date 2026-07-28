@@ -128,23 +128,21 @@ scripts/export-vocab.mjs  # regenerates the SQL/JSON seed from the TS data
 
 ## Backlog — prioritized improvements
 
-From a full fresh-user test pass. Ordered by impact; do #1+#2 together (same
-user journey, they reinforce each other), #3 as follow-up.
+From a full fresh-user test pass. Ordered by impact. #1+#2 are **done**; #3 is
+the remaining follow-up.
 
-1. **Word progression ramps to the target level too aggressively** *(highest
-   impact — learning outcomes).* A new Current=B1 / Target=C1 user is served C1
-   words immediately (first word observed: "acotar") and would see **all ~124 C1
-   words before any B1/B2 word**. `getDiscoverySession`/`targetWeight` in
-   `store/selectors.ts` sort unseen words by distance-to-target, so target wins
-   and "current level" only bounds the pool. **Fix:** ramp — weight toward the
-   current level early and shift toward target as lower levels get mastered (or a
-   ~60/40 current-vs-target quota that widens with mastery). *Effort: medium.*
+1. ✅ **DONE — Word progression no longer ramps too aggressively.**
+   `getDiscoverySession` in `store/selectors.ts` now sorts fresh words by
+   distance to a **focus level** (`focusLevel()`) that starts at the user's
+   current level and slides toward the target as the below-target levels get
+   banked (`RAMP_FULL_AT = 0.5` → focus reaches target once half the sub-target
+   vocab is banked). The old `targetWeight` distance-to-target sort is removed.
+   Verified: a fresh B1→C1 user now gets B1 words first (was C1 "acotar").
 
-2. **Onboarding gives no help choosing a level** *(cheap; compounds with #1).*
-   Step 2 shows only CEFR codes + names (`B1 Threshold` …); a user who doesn't
-   know their level guesses, which makes #1 worse. **Fix:** surface the one-line
-   `CEFR_META` blurbs (already authored) under each option + a "Not sure? Start at
-   B1" nudge in `app/onboarding/page.tsx`. *Effort: low.*
+2. ✅ **DONE — Onboarding helps choose a level.** Step 2 (`app/onboarding/
+   page.tsx`) now shows the `CEFR_META` blurb under each level option and a
+   "Not sure where you stand? **Start at B1**" nudge (a button that sets
+   Current=B1) under the current-level picker.
 
 3. **Pronunciation key + keyboard shortcuts** *(polish).* The respelling
    (`ah-koh-TAHR`) never explains that CAPS = the stressed syllable; and the

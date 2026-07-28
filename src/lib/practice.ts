@@ -110,7 +110,9 @@ export function buildSentenceCompletion(
     sentence: blanked,
     options,
     correctIndex: options.indexOf(correct),
-    explanation: `"${word.word}" — ${word.definition}.`,
+    // Show the word back in its slot — the completed sentence, nothing else.
+    // (Dense context — part of speech + usage note — is rendered separately.)
+    explanation: word.exampleSentence,
   };
 }
 

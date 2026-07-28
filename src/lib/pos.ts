@@ -19,6 +19,10 @@ const ADJ_OVERRIDES = new Set<string>([
   "ambiguo", "exiguo", "magno", "íntegro", "diáfano", "prístino", "efímero",
   "sólido", "rápido", "lento", "limpio", "sucio", "lleno", "vacío", "ligero",
   "pesado", "tímido", "perezoso", "fuerte", "débil", "amable", "orgulloso",
+  // C2 adjectives not caught by the ending patterns above.
+  "perenne", "sucinto", "prolijo", "escueto", "perentorio", "ínfimo", "ecuánime",
+  "altanero", "pusilánime", "magnánimo", "taciturno", "indómito", "recóndito",
+  "aciago", "fortuito", "irrisorio", "baladí",
 ]);
 
 const ADJ_ENDING =

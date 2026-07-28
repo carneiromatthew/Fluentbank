@@ -1,7 +1,7 @@
 // Hand-authored database types mirroring supabase/schema.sql. Replace with the
 // output of `supabase gen types typescript` once your project is provisioned.
 
-import type { CefrLevel, MasteryStatus, SessionType } from "@/types";
+import type { CefrLevel, MasteryStatus, SessionType, WordUsage } from "@/types";
 
 export interface ProfileRow {
   id: string;
@@ -28,6 +28,7 @@ export interface VocabularyWordRow {
   cefr_level: CefrLevel;
   category: string;
   synonyms: string[];
+  usage: WordUsage | null;
   created_at: string;
 }
 

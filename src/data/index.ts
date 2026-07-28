@@ -18,6 +18,7 @@ function expand(level: CefrLevel, raws: RawWord[]): VocabularyWord[] {
     cefrLevel: level,
     category: r.category,
     synonyms: r.synonyms ?? [],
+    usage: r.usage,
   }));
 }
 
