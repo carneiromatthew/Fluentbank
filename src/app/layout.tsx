@@ -17,6 +17,11 @@ export const metadata: Metadata = {
     "Bank the vocabulary you need to reach B1, B2, C1 and C2 fluency. Every word you master is a deposit into your FluentBank.",
   applicationName: "FluentBank",
   keywords: ["Spanish", "vocabulary", "CEFR", "language learning", "spaced repetition"],
+  appleWebApp: {
+    capable: true,
+    title: "FluentBank",
+    statusBarStyle: "black-translucent",
+  },
 };
 
 export const viewport: Viewport = {
@@ -24,6 +29,7 @@ export const viewport: Viewport = {
   width: "device-width",
   initialScale: 1,
   maximumScale: 1,
+  viewportFit: "cover",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
