@@ -78,6 +78,12 @@ scripts/export-vocab.mjs  # regenerates the SQL/JSON seed from the TS data
   conjugating distractors isn't feasible) and blanks the **inflection-tolerant**
   surface form. Context Selection is a **cloze** (3 real same-category sentences,
   one blank each) — never inject a word into a foreign sentence.
+- `cloze.ts` — `locateWord(sentence, lemma)` finds a word in its example
+  (accent-insensitive, stem-change tolerant, Unicode word edges — JS `\b` breaks
+  on "á"/"í") and blanks it. Returns null rather than blank a different word;
+  builders then fall back to Meaning Recognition. Alias-free, so auditable in
+  Node across all words. Context Selection decoys prefer a different POS so the
+  target can't also fit a decoy.
 - `pronunciation.ts` — deterministic Spanish→English phonetic respelling
   (`desarrollar` → `deh-sah-roh-YAHR`, stressed syllable CAPS). Replaced audio
   TTS (device speech engines usually lack a Spanish voice → fell back to English).

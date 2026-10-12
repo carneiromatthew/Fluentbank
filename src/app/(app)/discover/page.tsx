@@ -50,7 +50,9 @@ function DiscoverInner() {
     setSession({ key: Date.now(), words });
   }
 
-  function handleExit() {
+  // "Review more" / "Discover more" on the summary: roll straight into the next
+  // batch. The X button must NOT do this — it leaves the session.
+  function handleAgain() {
     const next = buildWords();
     setSession(next.length === 0 ? null : { key: Date.now(), words: next });
   }
@@ -63,7 +65,8 @@ function DiscoverInner() {
         key={session.key}
         mode={mode}
         initialWords={session.words}
-        onExit={handleExit}
+        onExit={() => setSession(null)}
+        onAgain={handleAgain}
       />
     );
   }

@@ -40,7 +40,7 @@ const ICONS: Record<ToastKind, React.ReactNode> = {
 export function Toaster() {
   const { toasts, dismiss } = useToast();
   return (
-    <div className="pointer-events-none fixed inset-x-0 top-3 z-[100] flex flex-col items-center gap-2 px-4 sm:bottom-6 sm:left-auto sm:right-6 sm:top-auto sm:items-end">
+    <div className="pointer-events-none fixed inset-x-0 top-[calc(0.75rem+env(safe-area-inset-top))] z-[100] flex flex-col items-center gap-2 px-4 sm:bottom-6 sm:left-auto sm:right-6 sm:top-auto sm:items-end">
       {toasts.map((t) => (
         <div
           key={t.id}

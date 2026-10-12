@@ -43,7 +43,7 @@ export default function LandingPage() {
   const ctaLabel = hydrated && profile ? "Continue building" : "Start building free";
 
   return (
-    <div className="ledger-surface min-h-dvh">
+    <div className="ledger-surface min-h-dvh pt-[env(safe-area-inset-top)]">
       <header className="mx-auto flex max-w-6xl items-center justify-between px-5 py-5">
         <Logo />
         <div className="flex items-center gap-2">

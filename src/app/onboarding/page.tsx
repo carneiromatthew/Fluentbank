@@ -39,7 +39,7 @@ export default function OnboardingPage() {
   const steps = ["You", "Level", "Goal"];
 
   return (
-    <div className="ledger-surface flex min-h-dvh flex-col">
+    <div className="ledger-surface flex min-h-dvh flex-col pt-[env(safe-area-inset-top)]">
       <header className="mx-auto flex w-full max-w-xl items-center justify-between px-5 py-5">
         <Logo />
         <span className="text-sm text-muted-foreground tnum">

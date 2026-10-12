@@ -4,6 +4,7 @@
 import type { PracticeExerciseType, VocabularyWord } from "@/types";
 import { sample, shuffle } from "@/lib/utils";
 import { posOf, agreeAdjective } from "@/lib/pos";
+import { locateWord } from "@/lib/cloze";
 
 export interface PracticeQuestion {
   id: string;
@@ -19,65 +20,15 @@ export interface PracticeQuestion {
   explanation: string;
 }
 
-const BLANK = "_______";
-
-/**
- * Find the actual surface form of `word` in `sentence` (handling inflections)
- * and return both the matched token and the sentence with that token blanked.
- * Capturing the surface form lets Sentence Completion show the exact word the
- * sentence needs (e.g. "sólida", not the lemma "sólido").
- */
-function blankOutCapture(sentence: string, word: string): { blanked: string; surface: string } | null {
-  const exact = new RegExp(`\\b${escapeRegExp(word)}\\b`, "i");
-  const m = exact.exec(sentence);
-  if (m) return { blanked: sentence.replace(exact, BLANK), surface: m[0] };
-
-  // Inflection/stem-change tolerant: find the longest token that begins like the
-  // lemma (e.g. "advirtió" for "advertir"). Prefer longer prefixes (more
-  // specific) and require a substantial match so a short function word like "con"
-  // is never blanked by mistake.
-  const lower = word.toLowerCase();
-  const minLen = Math.max(4, Math.floor(word.length * 0.6));
-  for (let p = Math.min(6, lower.length); p >= 3; p--) {
-    const re = new RegExp(`\\b${escapeRegExp(lower.slice(0, p))}[a-záéíóúüñ]*`, "gi");
-    let mm: RegExpExecArray | null;
-    while ((mm = re.exec(sentence))) {
-      if (mm[0].length >= minLen) {
-        return {
-          blanked: sentence.slice(0, mm.index) + BLANK + sentence.slice(mm.index + mm[0].length),
-          surface: mm[0],
-        };
-      }
-    }
-  }
-  return null; // could not confidently locate the word
-}
-
-/** Blank a word in a sentence, always producing a cloze (never exposes it). */
-function blankOut(sentence: string, word: string): string {
-  const cap = blankOutCapture(sentence, word);
-  if (cap) return cap.blanked;
-  // Last resort: blank the longest content word so the sentence still reads as a
-  // cloze rather than leaving the answer visible.
-  const tokens = sentence.match(/[A-Za-zÁÉÍÓÚáéíóúñü]{4,}/g) ?? [];
-  const longest = tokens.sort((a, b) => b.length - a.length)[0];
-  return longest
-    ? sentence.replace(new RegExp(`\\b${escapeRegExp(longest)}\\b`), BLANK)
-    : sentence;
-}
-
-function escapeRegExp(s: string): string {
-  return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
-}
-
 /** Exercise 1 — Sentence Completion: choose the word that fits the blank. */
 export function buildSentenceCompletion(
   word: VocabularyWord,
   pool: VocabularyWord[],
 ): PracticeQuestion {
-  const cap = blankOutCapture(word.exampleSentence, word.word);
-  const surface = cap?.surface ?? word.word;
-  const blanked = cap?.blanked ?? blankOut(word.exampleSentence, word.word);
+  const cap = locateWord(word.exampleSentence, word.word);
+  // Never blank some other word (that leaves the answer visible in the sentence).
+  if (!cap) return buildMeaningRecognition(word, pool);
+  const { surface, blanked } = cap;
   const targetPos = posOf(word);
 
   // Correct answer: adjectives & nouns show the exact in-sentence form; verbs
@@ -172,12 +123,31 @@ export function buildContextSelection(
   word: VocabularyWord,
   pool: VocabularyWord[],
 ): PracticeQuestion {
-  const sameCategory = pool.filter((w) => w.id !== word.id && w.category === word.category);
-  const donorPool = sameCategory.length >= 2 ? sameCategory : pool.filter((w) => w.id !== word.id);
-  const donors = sample(donorPool, 2);
+  const target = locateWord(word.exampleSentence, word.word);
+  if (!target) return buildMeaningRecognition(word, pool);
 
-  const correct = blankOut(word.exampleSentence, word.word);
-  const decoys = donors.map((d) => blankOut(d.exampleSentence, d.word));
+  // Decoys are sentences whose blank takes a *different* part of speech, so the
+  // target can't also be a defensible answer there (two same-category nouns
+  // like "ámbito"/"alcance" are often interchangeable). Same category first.
+  const targetPos = posOf(word);
+  const others = pool.filter((w) => w.id !== word.id);
+  const tiers = [
+    others.filter((w) => posOf(w) !== targetPos && w.category === word.category),
+    others.filter((w) => posOf(w) !== targetPos),
+    others,
+  ];
+  const correct = target.blanked;
+  const decoys: string[] = [];
+  for (const tier of tiers) {
+    for (const d of shuffle(tier)) {
+      const blanked = locateWord(d.exampleSentence, d.word)?.blanked;
+      if (blanked && blanked !== correct && !decoys.includes(blanked)) decoys.push(blanked);
+      if (decoys.length === 2) break;
+    }
+    if (decoys.length === 2) break;
+  }
+  if (decoys.length < 2) return buildMeaningRecognition(word, pool);
+
   const options = shuffle([correct, ...decoys]);
   return {
     id: `cs_${word.id}`,

@@ -27,10 +27,14 @@ export function SessionRunner({
   mode,
   initialWords,
   onExit,
+  onAgain,
 }: {
   mode: SessionType;
   initialWords: VocabularyWord[];
+  /** Leave the session (the X button) — back to the intro screen. */
   onExit: () => void;
+  /** Start a fresh session from the summary screen. */
+  onAgain: () => void;
 }) {
   const router = useRouter();
   const recordAnswer = useStore((s) => s.recordAnswer);
@@ -135,7 +139,7 @@ export function SessionRunner({
         total={total}
         unlocked={unlocked}
         onHome={() => router.push("/dashboard")}
-        onAgain={onExit}
+        onAgain={onAgain}
       />
     );
   }
@@ -152,7 +156,7 @@ export function SessionRunner({
       <div className="flex items-center gap-3">
         <button
           onClick={onExit}
-          className="rounded-full p-1.5 text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
+          className="-m-1.5 rounded-full p-3 text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
           aria-label="Exit session"
         >
           <X className="h-5 w-5" />

@@ -69,7 +69,7 @@ export function AppShell({ children }: { children: React.ReactNode }) {
 
       <div className="flex min-w-0 flex-1 flex-col">
         {/* Mobile header */}
-        <header className="sticky top-0 z-30 flex items-center justify-between border-b bg-background/80 px-4 py-3 backdrop-blur lg:hidden">
+        <header className="sticky top-0 z-30 flex items-center justify-between border-b bg-background/80 px-4 pb-3 pt-[calc(0.75rem+env(safe-area-inset-top))] backdrop-blur lg:hidden">
           <Link href="/dashboard">
             <Logo size={28} />
           </Link>
@@ -90,11 +90,11 @@ export function AppShell({ children }: { children: React.ReactNode }) {
           <ThemeToggle />
         </header>
 
-        <main className="flex-1 pb-24 lg:pb-10">{children}</main>
+        <main className="flex-1 pb-[calc(6rem+env(safe-area-inset-bottom))] lg:pb-10">{children}</main>
       </div>
 
       {/* Mobile bottom nav */}
-      <nav className="fixed inset-x-0 bottom-0 z-40 grid grid-cols-5 border-t bg-background/95 backdrop-blur lg:hidden">
+      <nav className="fixed inset-x-0 bottom-0 z-40 grid grid-cols-5 border-t bg-background/95 pb-[env(safe-area-inset-bottom)] backdrop-blur lg:hidden">
         {NAV_ITEMS.filter((i) => i.primary).map((item) => {
           const active = pathname === item.href || pathname.startsWith(item.href + "/");
           const IconCmp = item.icon;
