@@ -3,6 +3,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import { Toaster } from "@/components/ui/toast";
 import { StoreHydrator } from "@/components/app/store-hydrator";
+import { ServiceWorkerRegister } from "@/components/app/service-worker-register";
 import { themeInitScript } from "@/components/app/theme-toggle";
 
 const inter = Inter({
@@ -40,6 +41,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       </head>
       <body className={`${inter.variable} font-sans`}>
         <StoreHydrator />
+        <ServiceWorkerRegister />
         {children}
         <Toaster />
       </body>

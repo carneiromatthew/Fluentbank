@@ -47,6 +47,19 @@ store→table sync is intentionally not wired yet.
 - All domain logic is **pure and framework-free in `src/lib/`** so it's reusable
   (future RN app / sync worker) and unit-testable.
 
+## Offline (PWA)
+
+`src/app/sw.js/route.ts` serves a hand-written service worker at `/sw.js`
+(`force-static`, stamped with a per-build `VERSION`, so every deploy installs a
+fresh worker that re-precaches and drops the old cache). It precaches every
+route's HTML plus the hashed assets that HTML names. Pages are network-first
+(4s timeout → cache), `/_next/static` is cache-first. RSC route transitions are
+deliberately not cached: offline they fail and Next falls back to a full page
+load served from cache. Registered by `<ServiceWorkerRegister/>` in production
+only. **Adding a route? Add it to `ROUTES` in that file.** Test offline with the
+`fluentbank-prod` launch config (`npm run build` first): load once, stop the
+server, then navigate.
+
 ## Directory map
 
 ```
